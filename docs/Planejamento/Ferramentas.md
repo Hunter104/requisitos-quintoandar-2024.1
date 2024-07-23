@@ -6,11 +6,21 @@
 
 ---
 
-> O que é?
+> Uma ferramenta é qualquer recurso ou instrumento que auxilia na execução, gerenciamento, ou conclusão das atividades do projeto.
 
 ---
 
 <center>
+
+<div style="margin: 0 auto; width: fit-content;">
+
+| | Ferramenta | Descrição |
+|-|------------|-----------|
+| ![discord](../assets/Discord.png) | Discord | Usado para comunicação entre os membros. |
+| ![github](../assets/GitHub.png) | GitHub | Controle de versão, repositório de artefatos e página do projeto. |
+| ![docsify](../assets/Docsify.png) | Docsify | Usado para documentação que converte arquivos Markdown em sites estáticos. |
+
+</div>
 
 # Histórico de versão
 

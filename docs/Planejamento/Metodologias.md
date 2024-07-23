@@ -6,7 +6,7 @@
 
 ---
 
-> O que é?
+> Uma metodologia é um conjunto de práticas, técnicas, procedimentos e/ou regras que guiam a execução e o gerenciamento do projeto. Elas fornecem uma estrutura organizada para planejar, monitorar e finalizar o trabalho do projeto de maneira eficiente e coordenada.
 
 ---
 
