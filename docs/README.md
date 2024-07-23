@@ -26,3 +26,17 @@ Página para o trabalho da disciplina Requisitos de Software com o professor Mau
 | Entrega 1 (29/07/2024) |
 |-----------|
 | |
+
+## Metodologias
+- Mapa Mental;
+- Rich Picture;
+- Matriz SWOT;
+- Brainstorming;
+- Storytelling;
+- Entrevista;
+- Formulário;
+
+## Ferramentas Utilizadas
+- Discord;
+- GitHub;
+- Docsify;
