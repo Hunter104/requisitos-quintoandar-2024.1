@@ -10,7 +10,7 @@
 
 <center>
 
-<img src="../assets/RP-GeralV1-0.png" style="width:50vw"/> 
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/RP-GeralV1-0.png?raw=true" style="width:50vw"/> 
 
 </center>
 
