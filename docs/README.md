@@ -21,3 +21,8 @@ Página para o trabalho da disciplina Requisitos de Software com o professor Mau
 | Data | Versão | Descrição | Autores |
 |------|--------|-----------|---------|
 | 23/07/2024 | 1.0 | Criação do documento. | [André Silva](github.com/Hunter104), [Artur Bartz](github.com/H0lzz), [Cássio Reis](github.com/csreis72), [Eduardo Sandes](github.com/DiceRunner714), [João Carvalho](github.com/joaoseisei), [Letícia Hladczuk](github.com/HladczukLe) |
+
+## Entregas
+| Entrega 1 (29/07/2024) |
+|-----------|
+| |
