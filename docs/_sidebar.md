@@ -3,6 +3,7 @@
 * Planejamento
     - [Heatmap](Planejamento/Heatmap.md)
     - [Ferramentas utilizadas](Planejamento/Ferramentas.md)
+    - [Metodologias](Planejamento/Metodologias.md)
 * Módulo 1
     - [Elicitação](Modulo-1/elicitacao.md)
     - [Pré-Rastreabilidade](Modulo-1/pre-rastrabilidade.md)

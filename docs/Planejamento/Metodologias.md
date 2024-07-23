@@ -1,6 +1,6 @@
 <center>
 
-# Heatmap
+# Metodologias
 
 </center>
 
