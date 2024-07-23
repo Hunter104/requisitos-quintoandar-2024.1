@@ -12,3 +12,6 @@
     - [Elicitação](Modulo-1/elicitacao.md)
     - [Pré-Rastreabilidade](Modulo-1/pre-rastrabilidade.md)
     - [Apresentação](Modulo-1/apresentacao.md)
+    - Rich Pictures
+      - [Geral](Modulo-1/RP-Geral.md)
+      - [Concorrência](Modulo-1/RP-Concorrencia.md)

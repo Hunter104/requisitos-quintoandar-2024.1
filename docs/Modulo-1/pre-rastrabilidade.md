@@ -10,6 +10,19 @@
 
 ---
 
+
+<center>
+
+# Rich Picture - Concorrencia
+
+<img src="../assets/RP-ConcorrenciaV1-0.png" style="width:50vw"/> 
+
+</center>
+
+---
+
+
+
 <center>
 
 # Histórico de versão
