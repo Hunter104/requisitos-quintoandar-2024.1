@@ -11,5 +11,5 @@
 ---
 
 <center>
-<img src="../assets/ehnehfaznfaz.png"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/ehnehfaznfaz.png"/>
 <center/>
