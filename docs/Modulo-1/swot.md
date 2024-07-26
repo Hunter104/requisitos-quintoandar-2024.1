@@ -11,5 +11,5 @@
 ---
 
 <center>
-<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/swot.png>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/swot.png?raw=true" style="width:50vw"/> 
 <center/>
