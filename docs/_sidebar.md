@@ -18,12 +18,13 @@
        - Argumentações
            - [Análise de Terreno](Modulo-1/pre-rastreabilidade/ARG-analise.md)
            - [Indica Aí](Modulo-1/pre-rastreabilidade/ARG-inidicaai.md)
-       - Personas
-       - Análise de Protocolo
        - Artefatos
            - [É Não É Faz Não Faz](Modulo-1/pre-rastreabilidade/faznfaz.md)
            - [Matriz SWOT](Modulo-1/pre-rastreabilidade/swot.md)
-           - [MoSCoW do mapa mental](Modulo-1/pre-rastreabilidade/MoSCow.md)
            - [Sobre](Modulo-1/pre-rastreabilidade/sobre.md)
     - [Elicitação](Modulo-1/elicitacao.md)
+       - Personas
+       - Análise de Protocolo
+       - Priorização
+           - [MoSCoW](Modulo-1/pre-rastreabilidade/MoSCow.md)
     - [Apresentação](Modulo-1/apresentacao.md)
