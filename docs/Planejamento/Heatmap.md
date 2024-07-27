@@ -6,7 +6,13 @@
 
 ---
 
-> O que é?
+> Um heatmap é um gráfico que usa cores para mostrar a frequência ou intensidade de dados.
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/heatmap.jpg?raw=true" style="width:50vw"/> 
+
+</center> 
 
 ---
 
