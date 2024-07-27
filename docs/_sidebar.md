@@ -10,12 +10,12 @@
     - [Metodologias](Planejamento/Metodologias.md)
 * Módulo 1
     - [Elicitação](Modulo-1/elicitacao.md)
-    - [Pré-Rastreabilidade](Modulo-1/pre-rastrabilidade.md)
+    - [Pré-Rastreabilidade](Modulo-1/pre-rastreabilidade/pre-rastrabilidade.md)
        - BrainStorm
-           - [Mapa-Mental Geral](Modulo-1/mapa-mental.md)
+           - [Mapa-Mental Geral](Modulo-1/pre-rastreabilidade/mapa-mental.md)
        - Rich Pictures
-           - [Geral](Modulo-1/RP-Geral.md)
-           - [Concorrência](Modulo-1/RP-Concorrencia.md)
+           - [Geral](Modulo-1/pre-rastreabilidade/RP-Geral.md)
+           - [Concorrência](Modulo-1/pre-rastreabilidade/RP-Concorrencia.md)
        - Argumentações
            - [1]()
            - [2]()
@@ -23,7 +23,8 @@
            - [A]()
        - Análise de Protocolo
        - Artefatos
-           - [É Não É Faz Não Faz](Modulo-1/faznfaz.md)
-           - [Matriz SWOT](Modulo-1/swot.md)
+           - [É Não É Faz Não Faz](Modulo-1/pre-rastreabilidade/faznfaz.md)
+           - [Matriz SWOT](Modulo-1/pre-rastreabilidade/swot.md)
            - [MoSCoW do mapa mental]()
+           - [Sobre](Modulo-1/pre-rastreabilidade/sobre.md)
     - [Apresentação](Modulo-1/apresentacao.md)
