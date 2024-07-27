@@ -6,11 +6,17 @@
 
 ---
 
+[//]: # ([oi]&#40;../../assets/Sobre-QA.pdf&#41;)
+
 > Estudo sobre a página sobre do QuintoAndar.
 
 <center>
 
-<iframe src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/Sobre-QA.pdf?raw=true" width="600" height="400"></iframe>
+```pdf
+
+../../assets/Sobre-QA.pdf
+
+```
 
 </center>
 
