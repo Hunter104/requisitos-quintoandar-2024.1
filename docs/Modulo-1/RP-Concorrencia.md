@@ -6,33 +6,13 @@
 
 ---
 
-> Rich Picture representando a concorrência do QuintoAndar.
+> Uma ferramenta visual que representa os processos, atores e interações na operação da empresa, representando a concorrência do QuintoAndar.
 
 <center>
 
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/RP-ConcorrenciaV1-0.png?raw=true" style="width:50vw"/> 
 
 </center>
-
----
-
-
-<center>
-
-# Versões anteriores
-
-</center>
-
-[//]: # (<details>)
-
-[//]: # (  <summary>V1.0 - Criação da primeira versão.</summary>)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # (<div align="center"><img src= "link"/></div>)
-
-[//]: # (</div>)
 
 ---
 
