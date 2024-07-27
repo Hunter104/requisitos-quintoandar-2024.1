@@ -6,17 +6,11 @@
 
 ---
 
-[//]: # ([oi]&#40;../../assets/Sobre-QA.pdf&#41;)
-
 > Estudo sobre a página sobre do QuintoAndar.
 
 <center>
 
-```pdf
-
-../../assets/Sobre-QA.pdf
-
-```
+<iframe src="./assets/Sobre-QA.pdf" width="560" height="650"></iframe>
 
 </center>
 
