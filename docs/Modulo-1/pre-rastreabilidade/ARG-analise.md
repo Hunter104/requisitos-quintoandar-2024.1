@@ -10,7 +10,7 @@
 
 <center>
 
-<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/arg-analise-terrenoV1-0?raw=true" style="width:50vw"/> 
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/arg-analise-terrenoV1-0.png?raw=true" style="width:50vw"/> 
 
 </center>
 
