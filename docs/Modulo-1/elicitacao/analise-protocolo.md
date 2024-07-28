@@ -24,25 +24,26 @@ No entanto, houve alguns empecilhos e barreiras ao tentar explorar certas funcio
 
 ### Tabela 1: Requisitos elicitados
 
-| Número | Requisito                                                                                                                              | Tipo |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| AP01   | Deve permitir que os usuários busquem imóveis.                                                                                         | RF01 |
-| AP02   | Deve fornecer opções de filtragem de imóveis.                                                                                          | RF02 |
-| AP03   | Deve mostrar fotos, vídeos, localização geográfica, tamanho, quantidade de quartos, se aceita pets, entre outros detalhes dos imóveis. | RF03 |
-| AP04   | Deve permitir a criação de alertas para notificar os usuários sobre novos imóveis disponíveis.                                         | RF04 |
-| AP05   | Os usuários devem poder adicionar imóveis à lista de favoritos, com opções de ordenação.                                               | RF05 |
-| AP06   | Os usuários devem poder agendar visitas a imóveis.                                                                                     | RF06 |
-| AP07   | Deve permitir que os usuários façam propostas para o proprietário dos imóvel.                                                          | RF07 |
-| AP08   | Deve permitir que os proprietários e interessados negociem valores e condições.                                                        | RF08 |
-| AP09   | Deve exibir imóveis similares e recomendações baseadas em buscas.                                                                      | RF09 |
-| AP10   | Os usuários devem poder conversar com corretores, inquilinos e proprietários.                                                          | RF10 |
-| AP11   | Deve exibir as notificações das conversas.                                                                                             | RF11 |
-| AP12   | Deve ter botões que permitem aos usuários compartilhar, através de um link, os detalhes do imóvel em outras plataformas.               | RF12 |
-| AP13   | Deve permitir que os usuários comprem e aluguem imóveis.                                                                               | RF13 |
-| AP14   | Deve permitir que o proprietário cadastre, anuncie e visualize seus imóveis.                                                           | RF14 |
-| AP15   | O proprietário deve poder agendar horários para tirar fotos do imóvel.                                                                 | RF15 |
-| AP16   | Deve permitir que o usuário indique outros imóveis.                                                                                    | RF16 |
-| AP17   | O proprietário e o interessado devem poder ver todos os seus agendamentos em um painel.                                                | RF17 |
+| Número | Requisito                                                                                                                   | Tipo |
+| ------ | --------------------------------------------------------------------------------------------------------------------------- | ---- |
+| AP01   | Deve permitir que os usuários busquem imóveis.                                                                              | RF01 |
+| AP02   | Deve fornecer opções de filtragem de imóveis.                                                                               | RF02 |
+| AP03   | Deve mostrar fotos, vídeos, localização, tamanho, quantidade de quartos, se aceita pets, entre outros detalhes dos imóveis. | RF03 |
+| AP04   | Deve permitir a visualização dos imóveis em um mapa interativo.                                                             | RF04 |
+| AP05   | Deve permitir a criação de alertas para notificar os usuários sobre novos imóveis disponíveis.                              | RF05 |
+| AP06   | Os usuários devem poder adicionar imóveis à lista de favoritos, com opções de ordenação.                                    | RF06 |
+| AP07   | Os usuários devem poder agendar visitas a imóveis.                                                                          | RF07 |
+| AP08   | Deve permitir que os usuários façam propostas para o proprietário dos imóveis.                                              | RF08 |
+| AP09   | Deve permitir que os proprietários e interessados negociem valores e condições.                                             | RF09 |
+| AP10   | Deve exibir imóveis similares e recomendações baseadas em buscas.                                                           | RF10 |
+| AP11   | Os usuários devem poder conversar com corretores, inquilinos e proprietários.                                               | RF11 |
+| AP12   | Deve exibir as notificações das conversas.                                                                                  | RF12 |
+| AP13   | Deve ter botões que permitem aos usuários compartilhar, através de um link, os detalhes do imóvel em outras plataformas.    | RF13 |
+| AP14   | Deve permitir que os usuários comprem e aluguem imóveis.                                                                    | RF14 |
+| AP15   | Deve permitir que o proprietário cadastre, anuncie e visualize seus imóveis.                                                | RF15 |
+| AP16   | O proprietário deve poder agendar horários para tirar fotos do imóvel.                                                      | RF16 |
+| AP17   | Deve permitir que o usuário indique outros imóveis.                                                                         | RF17 |
+| AP18   | O proprietário e o interessado devem poder ver todos os seus agendamentos em um painel.                                     | RF18 |
 
 ### Fonte: Cássio Reis
 
