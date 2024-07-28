@@ -12,7 +12,7 @@
 
 # Metodologia
 
-A técnica de análise de protocolo foi realizada pelos integrantes do grupo André e Cássio. O André utilizou o _app_ do QuintoAndar, descrevendo suas ações em voz alta, enquanto o Cássio anotava e gravava a reunião para analisar posteriormente. A gravação está disponível neste [link](https://youtu.be/zjiPAmT3zX4).
+A técnica de análise de protocolo foi realizada pelos integrantes do grupo André e Cássio, no dia 27/07/2024. O André utilizou o _app_ do QuintoAndar, descrevendo suas ações em voz alta, enquanto o Cássio anotava e gravava a reunião para analisar posteriormente. A gravação está disponível [neste link](https://youtu.be/zjiPAmT3zX4).
 
 Durante a análise, exploramos as principais funcionalidades dos perfis de inquilino, comprador e proprietário, previamente identificadas em um [brainstorming](Modulo-1/pre-rastreabilidade/mapa-mental.md) realizado pela equipe para definição do escopo. De um modo geral, para o perfil de inquilino e de comprador, foram testadas ações como a busca e filtragem de imóveis, o agendamento de visitas e o envio de propostas. Já no perfil de proprietário, analisamos o processo de cadastro, anúncio e indicação de imóveis.
 
@@ -24,25 +24,25 @@ No entanto, houve alguns empecilhos e barreiras ao tentar explorar certas funcio
 
 ### Tabela 1: Requisitos elicitados
 
-| Número | Requisito                                                                                         | Tipo |
-| ------ | ------------------------------------------------------------------------------------------------- | ---- |
-| AP01   | O sistema deve permitir que os usuários busquem imóveis.                                          | RF01 |
-| AP02   | O sistema deve fornecer opções de filtragem de imóveis.                                           | RF02 |
-| AP03   | O sistema deve mostrar fotos, vídeos e localização geográfica dos imóveis.                        | RF03 |
-| AP04   | O sistema deve criar alertas para notificar os usuários sobre novos imóveis disponíveis.          | RF04 |
-| AP05   | O sistema deve permitir que os usuários adicionem imóveis aos favoritos, com opções de ordenação. | RF05 |
-| AP06   | O sistema deve permitir que os usuários agendem visitas a imóveis.                                | RF06 |
-| AP07   | O sistema deve permitir que os usuários enviem propostas para imóveis.                            | RF07 |
-| AP08   | O sistema deve permitir que os proprietários e interessados negociem condições.                   | RF08 |
-| AP09   | O sistema deve exibir imóveis similares e recomendações baseadas em buscas.                       | RF09 |
-| AP10   | O sistema deve permitir que os usuários conversem com corretores, inquilinos e proprietários.     | RF10 |
-| AP11   | O sistema deve exibir as notificações das conversas.                                              | RF11 |
-| AP12   | O sistema deve incluir uma área de gerenciamento de conta.                                        | RF12 |
-| AP13   | O sistema deve permitir compartilhamento de imóveis.                                              | RF13 |
-| AP14   | O sistema deve permitir que os usuários comprem e aluguem imóveis.                                | RF14 |
-| AP15   | O sistema deve permitir que o proprietário cadastre, anuncie e visualize seus imóveis.            | RF15 |
-| AP16   | O sistema deve permitir que o proprietário agende horários para tirar fotos do imóvel.            | RF16 |
-| AP17   | O sistema deve permitir que o proprietário indique outros imóveis.                                | RF17 |
+| Número | Requisito                                                                                                                              | Tipo |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| AP01   | Deve permitir que os usuários busquem imóveis.                                                                                         | RF01 |
+| AP02   | Deve fornecer opções de filtragem de imóveis.                                                                                          | RF02 |
+| AP03   | Deve mostrar fotos, vídeos, localização geográfica, tamanho, quantidade de quartos, se aceita pets, entre outros detalhes dos imóveis. | RF03 |
+| AP04   | Deve permitir a criação de alertas para notificar os usuários sobre novos imóveis disponíveis.                                         | RF04 |
+| AP05   | Os usuários devem poder adicionar imóveis à lista de favoritos, com opções de ordenação.                                               | RF05 |
+| AP06   | Os usuários devem poder agendar visitas a imóveis.                                                                                     | RF06 |
+| AP07   | Deve permitir que os usuários façam propostas para o proprietário dos imóvel.                                                          | RF07 |
+| AP08   | Deve permitir que os proprietários e interessados negociem valores e condições.                                                        | RF08 |
+| AP09   | Deve exibir imóveis similares e recomendações baseadas em buscas.                                                                      | RF09 |
+| AP10   | Os usuários devem poder conversar com corretores, inquilinos e proprietários.                                                          | RF10 |
+| AP11   | Deve exibir as notificações das conversas.                                                                                             | RF11 |
+| AP12   | Deve ter botões que permitem aos usuários compartilhar, através de um link, os detalhes do imóvel em outras plataformas.               | RF12 |
+| AP13   | Deve permitir que os usuários comprem e aluguem imóveis.                                                                               | RF13 |
+| AP14   | Deve permitir que o proprietário cadastre, anuncie e visualize seus imóveis.                                                           | RF14 |
+| AP15   | O proprietário deve poder agendar horários para tirar fotos do imóvel.                                                                 | RF15 |
+| AP16   | Deve permitir que o usuário indique outros imóveis.                                                                                    | RF16 |
+| AP17   | O proprietário e o interessado devem poder ver todos os seus agendamentos em um painel.                                                | RF17 |
 
 ### Fonte: Cássio Reis
 
