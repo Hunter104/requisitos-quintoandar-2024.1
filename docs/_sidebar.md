@@ -22,9 +22,9 @@
            - [É Não É Faz Não Faz](Modulo-1/pre-rastreabilidade/faznfaz.md)
            - [Matriz SWOT](Modulo-1/pre-rastreabilidade/swot.md)
            - [Sobre](Modulo-1/pre-rastreabilidade/sobre.md)
-    - [Elicitação](Modulo-1/elicitacao.md)
+    - [Elicitação](Modulo-1/elicitacao/elicitacao.md)
        - Personas
-       - Análise de Protocolo
+       - [Análise de Protocolo](Modulo-1/elicitacao/analise-protocolo.md)
        - Priorização
            - [MoSCoW](Modulo-1/pre-rastreabilidade/MoSCow.md)
     - [Apresentação](Modulo-1/apresentacao.md)
