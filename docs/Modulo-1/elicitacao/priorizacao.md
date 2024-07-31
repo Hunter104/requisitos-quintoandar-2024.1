@@ -43,6 +43,6 @@
 |    Data    | Versão |       Descrição       | Autores                                                                                                                                                                                                                                    |
 |:----------:|:------:|:---------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 27/07/2024 | `1.0`  | Criação do documento. | [João Antonio G.](https://github.com/joaoseisei)                                                                                                                                                                                           |
-| 20/07/2024 | `1.1`  |    Adiciona MoSCoW    | [Artur Bartz](https://github.com/H0lzz), [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [João Carvalho](https://github.com/joaoseisei), [Letícia Hladczuk](https://github.com/HladczukLe) |
+| 30/07/2024 | `1.1`  |   Adiciona MoSCoW.    | [Artur Bartz](https://github.com/H0lzz), [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [João Carvalho](https://github.com/joaoseisei), [Letícia Hladczuk](https://github.com/HladczukLe) |
 
 </div>
