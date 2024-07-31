@@ -6,7 +6,15 @@
 
 ---
 
-> O que é?
+> Para a priorização dos requisitos levantados, utilizamos a técnica MoSCoW. Essa abordagem classifica os requisitos em quatro categorias: Must have (deve ter), Should have (deveria ter), Could have (poderia ter) e Would. O objetivo é garantir que as funcionalidades essenciais sejam atendidas primeiro, enquanto as menos críticas são priorizadas de acordo com a importância para o projeto. Essa técnica ajuda a focar no que é mais importante para o sucesso do projeto e a gerenciar expectativas de forma eficiente.
+
+<center>
+    <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/moscow1.jpg?raw=true" style="width:50vw"/> 
+</center>
+
+<center>
+    <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/moscow2.jpg?raw=true" style="width:50vw"/> 
+</center>
 
 ---
 
