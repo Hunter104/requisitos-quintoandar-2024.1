@@ -7,7 +7,8 @@
 * Planejamento
     - [Heatmap](Planejamento/Heatmap.md)
     - [Ferramentas utilizadas](Planejamento/Ferramentas.md)
-    - [Metodologias](Planejamento/Metodologias.md)
+
+[//]: # (    - [Metodologias]&#40;Planejamento/Metodologias.md&#41;)
 * Módulo 1
     - [Pré-Rastreabilidade](Modulo-1/pre-rastreabilidade/pre-rastrabilidade.md)
        - BrainStorm
@@ -46,6 +47,5 @@
            - [Conclusão](Modulo-1/elicitacao/jornada-usuario.md#conclusão)
            - [Histórico de Versão](Modulo-1/elicitacao/jornada-usuario.md#histórico-de-versão)
        - [Análise de Protocolo](Modulo-1/elicitacao/analise-protocolo.md)
-       - Priorização
-           - [MoSCoW](Modulo-1/pre-rastreabilidade/MoSCow.md)
+       - [Priorização](Modulo-1/elicitacao/priorizacao)
     - [Apresentação](Modulo-1/apresentacao.md)
