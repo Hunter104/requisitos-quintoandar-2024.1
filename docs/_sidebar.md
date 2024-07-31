@@ -23,7 +23,8 @@
            - [Matriz SWOT](Modulo-1/pre-rastreabilidade/swot.md)
            - [Sobre](Modulo-1/pre-rastreabilidade/sobre.md)
     - [Elicitação](Modulo-1/elicitacao/elicitacao.md)
-       - Personas
+       - [Personas](Modulo-1/elicitacao/personas.md)
+           - [João Silva](Modulo-1/elicitacao/personas.md#joão-silva)
        - [Análise de Protocolo](Modulo-1/elicitacao/analise-protocolo.md)
        - Priorização
            - [MoSCoW](Modulo-1/pre-rastreabilidade/MoSCow.md)

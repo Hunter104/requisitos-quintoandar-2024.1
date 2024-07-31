@@ -9,8 +9,12 @@
 > A análise de protocolo é uma técnica de elicitação de requisitos que busca compreender em profundidade como as pessoas pensam e agem ao realizar determinada tarefa. Dessa forma, o analista observa um indivíduo enquanto ele executa uma atividade e solicita que o participante verbalize seus pensamentos em voz alta durante todo o processo.
 
 ---
+<center>
 
 # Metodologia
+
+</center>
+
 
 A técnica de análise de protocolo foi realizada pelos integrantes do grupo André e Cássio, no dia 27/07/2024. O André utilizou o _app_ do QuintoAndar, descrevendo suas ações em voz alta, enquanto o Cássio anotava e gravava a reunião para analisar posteriormente. A gravação está disponível [neste link](https://youtu.be/zjiPAmT3zX4).
 
@@ -18,14 +22,26 @@ Durante a análise, exploramos as principais funcionalidades dos perfis de inqui
 
 No entanto, houve alguns empecilhos e barreiras ao tentar explorar certas funcionalidades, como repasses e contratos. Essas limitações impactaram a abrangência da análise, mas ainda assim conseguimos obter uma compreensão significativa dos requisitos e documentá-los adequadamente.
 
+
+---
+
+<center>
+
 # Requisitos Elicitados
+
+</center>
+
 
 <center>
 
 ### Tabela 1: Requisitos elicitados
 
+</center>
+
+<div style="margin: 0 auto; width: fit-content;">
+
 | Número | Requisito                                                                                                                   | Tipo |
-| ------ | --------------------------------------------------------------------------------------------------------------------------- | ---- |
+|--------|-----------------------------------------------------------------------------------------------------------------------------|------|
 | AP01   | Deve permitir que os usuários busquem imóveis.                                                                              | RF01 |
 | AP02   | Deve fornecer opções de filtragem de imóveis.                                                                               | RF02 |
 | AP03   | Deve mostrar fotos, vídeos, localização, tamanho, quantidade de quartos, se aceita pets, entre outros detalhes dos imóveis. | RF03 |
@@ -45,9 +61,15 @@ No entanto, houve alguns empecilhos e barreiras ao tentar explorar certas funcio
 | AP17   | Deve permitir que o usuário indique outros imóveis.                                                                         | RF17 |
 | AP18   | O proprietário e o interessado devem poder ver todos os seus agendamentos em um painel.                                     | RF18 |
 
+</div>
+
+<center>
+
 ### Fonte: Cássio Reis
 
 </center>
+
+---
 
 <center>
 
@@ -58,7 +80,7 @@ No entanto, houve alguns empecilhos e barreiras ao tentar explorar certas funcio
 <div style="margin: 0 auto; width: fit-content;">
 
 | Data       | Versão | Descrição             | Autores                                                                                 |
-| ---------- | ------ | --------------------- | --------------------------------------------------------------------------------------- |
+|------------|--------|-----------------------|-----------------------------------------------------------------------------------------|
 | 28/07/2024 | `1.0`  | Criação do documento. | [André Silva](https://github.com/Hunter104), [Cássio Reis](https://github.com/csreis72) |
 
 </div>
