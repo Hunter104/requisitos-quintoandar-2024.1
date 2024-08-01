@@ -50,7 +50,7 @@ Página para o trabalho da disciplina Requisitos de Software com o professor Mau
 
 | Data       | Versão | Descrição             | Autores                                                                                                                                                                                                                                                                                 |
 |------------|--------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 23/07/2024 | 1.0    | Criação do documento. | [André Silva](https://github.com/Hunter104), [Artur Bartz](https://github.com/H0lzz), [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [João Carvalho](https://github.com/joaoseisei), [Letícia Hladczuk](https://github.com/HladczukLe) |
+| 23/07/2024 | `1.0`    | Criação do documento. | [André Silva](https://github.com/Hunter104), [Artur Bartz](https://github.com/H0lzz), [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [João Carvalho](https://github.com/joaoseisei), [Letícia Hladczuk](https://github.com/HladczukLe) |
 
 </div>
 
@@ -65,8 +65,8 @@ Página para o trabalho da disciplina Requisitos de Software com o professor Mau
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Entrega 1 (29/07/2024) |
-|------------------------|
-|                        |
+| Entrega 1 (29/07/2024)       |
+|------------------------------|
+| [Apresentação do módulo 1](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/apresentacao) |
 
 </div>
