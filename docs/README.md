@@ -65,8 +65,8 @@ Página para o trabalho da disciplina Requisitos de Software com o professor Mau
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Entrega 1 (29/07/2024)       |
-|------------------------------|
+| Entrega 1 (31/07/2024)                                                                                        |
+|---------------------------------------------------------------------------------------------------------------|
 | [Apresentação do módulo 1](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/apresentacao) |
 
 </div>
