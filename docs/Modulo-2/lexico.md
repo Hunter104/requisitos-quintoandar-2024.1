@@ -73,9 +73,21 @@
 
 # L01 Acordo
 
+|                   |                                                                                                                                              |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Acordo                                                                                                                                       |
+| **Classificação** | VERBO                                                                                                                                        |
+| **Sinônimo**      | Concordância, em conformidade.                                                                                                               |
+| **Noção**         | Um [proprietário](#l35-proprietário) e um futuro [inquilino](#l26-inquilino) concordam em relação aos termos de negociação de um [imóvel](#l24-imóvel). |
+| **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) realiza acordo com [inquilino](#l26-inquilino).</li>  </ul>                                                                       |
+
+---
+
+# L02 Adicionar imóvel
+
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | Acordo                                                                 |
+| **Nome**          | LEXICO EXEMPLO - 1                                                     |
 | **Classificação** | VERBO / OBJETO / ESTADO                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
@@ -83,75 +95,63 @@
 
 ---
 
-# L02 Adicionar imóvel
-
-|                   |                                                                                                                               |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Adicionar imóvel                                                                                                              |
-| **Classificação** | VERBO                                                                                                                         |
-| **Sinônimo**      | Inserir [imóvel](#l24-imóvel), Cadastrar [imóvel](#l24-imóvel).                                                               |
-| **Noção**         | O processo de incluir um novo [imóvel](#l24-imóvel) em um sistema ou banco de dados por um [proprietário](#l35-proprietário). |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                        |
-
----
-
 # L03 Afiliado
 
-|                   |                                                                                                                                              |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Afiliado                                                                                                                                     |
-| **Classificação** | OBJETO                                                                                                                                       |
-| **Sinônimo**      | Associado, Parceiro.                                                                                                                         |
-| **Noção**         | Um afiliado é uma [usuários](USUARIO) que está associada para promover ou vender produtos ou serviços em troca de uma comissão ou benefício. |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                       |
+|                   |                                                                        |
+|-------------------|------------------------------------------------------------------------|
+| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Classificação** | VERBO / OBJETO / ESTADO                                                |
+| **Sinônimo**      | TEXTO                                                                  |
+| **Noção**         | TEXTO                                                                  |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
 
 ---
 
 # L04 Ajuda e atendimento
 
-|                   |                                                                                                                                                                          |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Ajuda e atendimento                                                                                                                                                      |
-| **Classificação** | OBJETO                                                                                                                                                                   |
-| **Sinônimo**      | Suporte, Assistência.                                                                                                                                                    |
-| **Noção**         | Ajuda e atendimento referem-se aos serviços oferecidos para auxiliar [usuários](USUARIO) com dúvidas, pode incluir suporte técnico, orientação e resolução de problemas. |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                                                   |
+|                   |                                                                        |
+|-------------------|------------------------------------------------------------------------|
+| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Classificação** | VERBO / OBJETO / ESTADO                                                |
+| **Sinônimo**      | TEXTO                                                                  |
+| **Noção**         | TEXTO                                                                  |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
 
 ---
 
 # L05 Alerta
 
-|                   |                                                                                                                |
-|-------------------|----------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Alerta                                                                                                         |
-| **Classificação** | OBJETO                                                                                                         |
-| **Sinônimo**      | Aviso, Notificação.                                                                                            |
-| **Noção**         | Um alerta é uma [mensagem](#l28-mensagem) ou sinal que informa sobre uma situação que requer atenção imediata. |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                         |
+|                   |                                                                        |
+|-------------------|------------------------------------------------------------------------|
+| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Classificação** | VERBO / OBJETO / ESTADO                                                |
+| **Sinônimo**      | TEXTO                                                                  |
+| **Noção**         | TEXTO                                                                  |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
 
 ---
 
 # L06 Alertas criados
 
-|                   |                                                                                                                                                                                                               |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Alertas criados                                                                                                                                                                                               |
-| **Classificação** | OBJETO                                                                                                                                                                                                        |
-| **Sinônimo**      | -                                                                                                                                                                                                             |
-| **Noção**         | Alertas criados referem-se a notificações ou avisos que foram gerados por um [usuário](USUARIO)                                                                                                               |
-| **Impacto**       | <ul>  <li>Facilita o monitoramento e a gestão de eventos importantes ao manter um registro de alertas.</li> <li>Ajuda a garantir que nenhuma notificação importante seja perdida ou negligenciada.</li> </ul> |
+|                   |                                                                        |
+|-------------------|------------------------------------------------------------------------|
+| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Classificação** | VERBO / OBJETO / ESTADO                                                |
+| **Sinônimo**      | TEXTO                                                                  |
+| **Noção**         | TEXTO                                                                  |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
 
 ---
 
 # L07 Aluguel
 
-|                   |                                                                                                                                                                                                                                                   |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Aluguel                                                                                                                                                                                                                                           |
-| **Classificação** | OBJETO                                                                                                                                                                                                                                            |
-| **Sinônimo**      | Locação, Arrendamento.                                                                                                                                                                                                                            |
-| **Noção**         | Aluguel é o contrato ou acordo pelo qual uma parte [proprietário](#l35-proprietário) concede à outra parte [inquilino](#l26-inquilino) o direito de usar um [imóvel](#l24-imóvel), por um período determinado em troca de um pagamento periódico. |
-| **Impacto**       | <ul>  <li>Proporciona uma fonte de receita contínua para o [proprietário](#l35-proprietário).</li>  <li>Oferece aos [inquilino](#l26-inquilino) a possibilidade de usar um [imóvel](#l24-imóvel) sem a necessidade de compra.</li>   </ul>        |
+|                   |                                                                        |
+|-------------------|------------------------------------------------------------------------|
+| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Classificação** | VERBO / OBJETO / ESTADO                                                |
+| **Sinônimo**      | TEXTO                                                                  |
+| **Noção**         | TEXTO                                                                  |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
 
 ---
 
@@ -203,9 +203,7 @@
 
 ---
 
-# L12 Condomínio (taxa)
-
-> taxa
+# L12 Condomínio
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
