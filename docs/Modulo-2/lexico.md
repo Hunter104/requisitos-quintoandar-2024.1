@@ -19,34 +19,39 @@
 | L02 - Ajuda e atendimento                         |
 | L03 - Alertas criados                             |
 | L04 - Aluguel                                     |
-| L04 - Alterar o país                              | 
-| L04 - Anunciar imóvel                             |
-| L06 - Buscar imóveis                              |
-| L07 - Cadastrar imóvel                            |
-| L07 - Condomínio                                  |
-| L08 - Contratos                                   |
-| L09 - Corretores                                  |
-| L10 - Deletar conta                               |
-| L10 - Detalhes do valor                           |
-| L11 - Encontrar imóveis                           |
-| L12 - Favoritos                                   |
-| L13 - Fazer Proposta                              |
-| L14 - Gerenciar conta                             |
-| L15 - Imóveis anunciados                          |
-| L16 - Inquilino                                   |
-| L17 - IPTU                                        |
-| L17 - Meu lar                                     |
-| L18 - Meus imóveis                                |
-| L19 - Passo a passo do imóvel                     |
-| L20 - Proprietário                                |
-| L21 - Propostas enviadas                          |
-| L22 - Recomendados                                |
-| L23 - Repasses                                    |
-| L24 - Repasses                                    |
-| L24 - Seguro Incêndio                             |
-| L25 - Taxa de serviço                             |
-| L25 - Total                                       |
-| L25 - Visitas agendadas                           |
+| L05 - Alterar o país                              |
+| L06 - Anunciar imóvel                             |
+| L07 - Buscar imóveis                              |
+| L08 - Cadastrar imóvel                            |
+| L09 - Condomínio                                  |
+| L10 - Conta                                       |
+| L11 - Corretores                                  |
+| L12 - Criar proposta customizada                  |
+| L13 - Deletar conta                               |
+| L14 - Detalhes do valor                           |
+| L15 - Encontrar imóveis                           |
+| L16 - Favoritos                                   |
+| L17 - Fazer Proposta                              |
+| L18 - Gerenciar conta                             |
+| L19 - Imóvel                                      |
+| L20 - Imóveis anunciados                          |
+| L21 - Inquilino                                   |
+| L22 - IPTU                                        |
+| L23 - Meu lar                                     |
+| L24 - Meus imóveis                                |
+| L25 - Passo a passo do imóvel                     |
+| L26 - Proprietário                                |
+| L27 - Propor um novo valor                        |
+| L28 - Propostas enviadas                          |
+| L29 - Recomendados                                |
+| L30 - Repasses                                    |
+| L31 - Repasses                                    |
+| L32 - Solicitar                                   |
+| L33 - Seguro Incêndio                             |
+| L34 - Taxa de serviço                             |
+| L35 - Total                                       |
+| L36 - Ver todos os valores                        |
+| L37 - Visitas agendadas                           |
 
 </div>
 
