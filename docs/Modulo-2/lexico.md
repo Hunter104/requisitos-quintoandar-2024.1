@@ -11,9 +11,47 @@
 
 ---
 
+<div style="margin: 0 auto; width: fit-content;">
+
+| Lexigramas                                        |
+|---------------------------------------------------|
+| [L01 - Adicionar imóvel](#l01---adicionar-imóvel) |
+| L02 - Ajuda e atendimento                         |
+| L03 - Alertas criados                             |
+| L04 - Anunciar imóvel                             |
+| L05 - Anunciar imóvel                             |
+| L06 - Buscar imóveis                              |
+| L07 - Cadastrar imóvel                            |
+| L08 - Contratos                                   |
+| L09 - Corretores                                  |
+| L10 - Deletar conta                               |
+| L11 - Encontrar imóveis                           |
+| L12 - Favoritos                                   |
+| L13 - Favoritos                                   |
+| L14 - Gerenciar conta                             |
+| L15 - Imóveis anunciados                          |
+| L16 - Inquilino                                   |
+| L17 - Meu lar                                     |
+| L18 - Meus imóveis                                |
+| L19 - Passo a passo do imóvel                     |
+| L20 - Proprietário                                |
+| L21 - Propostas enviadas                          |
+| L22 - Recomendados                                |
+| L23 - Repasses                                    |
+| L24 - Repasses                                    |
+| L25 - Visitas agendadas                           |
+
+</div>
+
+---
+
+# L01 - Adicionar imóvel
+
+---
+
 > HIPERLINK:
 
-[LÉXICO EXEMPLO](#lexico-exemplo---1)
+[LÉXICO EXEMPLO](#l01---adicionar-imóvel)
 
 # LEXICO EXEMPLO - 1
 
@@ -39,33 +77,6 @@
 
 
 ---
-
-## Léxicos 
-- L01 - Adicionar imóvel
-- L02 - Ajuda e atendimento
-- L03 - Alertas criados
-- L04 - Anunciar imóvel
-- L05 - Anunciar imóvel
-- L06 - Buscar imóveis
-- L07 - Cadastrar imóvel
-- L08 - Contratos
-- L09 - Corretores
-- L10 - Deletar conta
-- L11 - Encontrar imóveis
-- L12 - Favoritos
-- L13 - Favoritos
-- L14 - Gerenciar conta
-- L15 - Imóveis anunciados
-- L16 - Inquilino
-- L17 - Meu lar
-- L18 - Meus imóveis
-- L19 - Passo a passo do imóvel
-- L20 - Proprietário
-- L21 - Propostas enviadas
-- L22 - Recomendados
-- L23 - Repasses
-- L24 - Repasses
-- L25 - Visitas agendadas 
 
 
 <center>
