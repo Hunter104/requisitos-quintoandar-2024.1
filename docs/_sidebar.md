@@ -70,10 +70,18 @@
 
 * Módulo 2
     - [Léxicos](Modulo-2/lexico.md)
+       - [Histórico de Versão](Modulo-2/lexico.md#histórico-de-versão)
     - [Cenários](Modulo-2/cenario.md)
+       - [Histórico de Versão](Modulo-2/cenario.md#histórico-de-versão)
     - [Casos de Uso](Modulo-2/casos-uso.md)
+       - [Histórico de Versão](Modulo-2/casos-uso.md#histórico-de-versão)
     - [ES](Modulo-2/es.md)
+       - [Histórico de Versão](Modulo-2/es.md#histórico-de-versão)
     - [Ágil](Modulo-2/agil.md)
+       - [Histórico de Versão](Modulo-2/agil.md#histórico-de-versão)
     - [Gore NFR](Modulo-2/gore-nfr.md)
+       - [Histórico de Versão](Modulo-2/gore-nfr.md#histórico-de-versão)
     - [Gore i*](Modulo-2/gore-i.md)
+       - [Histórico de Versão](Modulo-2/gore-i.md#histórico-de-versão)
     - [Apresentação](Modulo-2/apresentacao.md)
+       - [Histórico de Versão](Modulo-2/apresentacao.md#histórico-de-versão)
