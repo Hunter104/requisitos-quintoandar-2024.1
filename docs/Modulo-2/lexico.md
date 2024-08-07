@@ -15,43 +15,55 @@
 
 | Lexigramas                                        |
 |---------------------------------------------------|
-| [L01 - Adicionar imóvel](#l01---adicionar-imóvel) |
-| L02 - Ajuda e atendimento                         |
-| L03 - Alertas criados                             |
-| L04 - Aluguel                                     |
-| L05 - Alterar o país                              |
-| L06 - Anunciar imóvel                             |
-| L07 - Buscar imóveis                              |
-| L08 - Cadastrar imóvel                            |
-| L09 - Condomínio                                  |
-| L10 - Conta                                       |
-| L11 - Corretores                                  |
-| L12 - Criar proposta customizada                  |
-| L13 - Deletar conta                               |
-| L14 - Detalhes do valor                           |
-| L15 - Encontrar imóveis                           |
-| L16 - Favoritos                                   |
-| L17 - Fazer Proposta                              |
-| L18 - Gerenciar conta                             |
-| L19 - Imóvel                                      |
-| L20 - Imóveis anunciados                          |
-| L21 - Inquilino                                   |
-| L22 - IPTU                                        |
-| L23 - Meu lar                                     |
-| L24 - Meus imóveis                                |
-| L25 - Passo a passo do imóvel                     |
-| L26 - Proprietário                                |
-| L27 - Propor um novo valor                        |
-| L28 - Propostas enviadas                          |
-| L29 - Recomendados                                |
-| L30 - Repasses                                    |
-| L31 - Repasses                                    |
-| L32 - Solicitar                                   |
-| L33 - Seguro Incêndio                             |
-| L34 - Taxa de serviço                             |
-| L35 - Total                                       |
-| L36 - Ver todos os valores                        |
-| L37 - Visitas agendadas                           |
+| L01 - Acordo                                      |
+| [L02 - Adicionar imóvel](#l01---adicionar-imóvel) |
+| L03 - Afiliado                                    |
+| L04 - Ajuda e atendimento                         |
+| L05 - Alerta                                      |
+| L06 - Alertas criados                             |
+| L07 - Aluguel                                     |
+| L08 - Alterar o país                              |
+| L09 - Anunciar imóvel                             |
+| L10 - Buscar imóveis                              |
+| L11 - Cadastrar imóvel                            |
+| L12 - Condomínio                                  |
+| L13 - Conta                                       |
+| L14 - Corretor                                    |
+| L15 - Corretor credenciado                        |
+| L16 - Criar proposta customizada                  |
+| L17 - Deletar conta                               |
+| L18 - Detalhes do valor                           |
+| L19 - Encontrar imóveis                           |
+| L20 - Favoritos                                   |
+| L21 - Fazer Proposta                              |
+| L22 - Filtro                                      |
+| L23 - Gerenciar conta                             |
+| L24 - Imóvel                                      |
+| L25 - Imóveis anunciados                          |
+| L26 - Inquilino                                   |
+| L27 - IPTU                                        |
+| L28 - Mensagem                                    |
+| L29 - Mensagem essencial                          |
+| L30 - Mensagem informativa                        |
+| L31 - Mensagem promocional                        |
+| L32 - Meu lar                                     |
+| L33 - Meus imóveis                                |
+| L34 - Passo a passo do imóvel                     |
+| L35 - Proprietário                                |
+| L36 - Propor um novo valor                        |
+| L37 - Proposta                                    |
+| L38 - Propostas enviadas                          |
+| L39 - Recomendados                                |
+| L40 - Repasses                                    |
+| L41 - Seguro Incêndio                             |
+| L42 - Solicitar                                   |
+| L43 - Taxa de serviço                             |
+| L44 - Total                                       |
+| L45 - Ver detalhes do condomínio                  |
+| L46 - Ver todos os valores                        |
+| L47 - Visita                                      |
+| L48 - Visitas agendadas                           |
+
 
 </div>
 
