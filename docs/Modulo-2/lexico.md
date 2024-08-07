@@ -18,19 +18,23 @@
 | [L01 - Adicionar imóvel](#l01---adicionar-imóvel) |
 | L02 - Ajuda e atendimento                         |
 | L03 - Alertas criados                             |
+| L04 - Aluguel                                     |
+| L04 - Alterar o país                              | 
 | L04 - Anunciar imóvel                             |
-| L05 - Anunciar imóvel                             |
 | L06 - Buscar imóveis                              |
 | L07 - Cadastrar imóvel                            |
+| L07 - Condomínio                                  |
 | L08 - Contratos                                   |
 | L09 - Corretores                                  |
 | L10 - Deletar conta                               |
+| L10 - Detalhes do valor                           |
 | L11 - Encontrar imóveis                           |
 | L12 - Favoritos                                   |
-| L13 - Favoritos                                   |
+| L13 - Fazer Proposta                              |
 | L14 - Gerenciar conta                             |
 | L15 - Imóveis anunciados                          |
 | L16 - Inquilino                                   |
+| L17 - IPTU                                        |
 | L17 - Meu lar                                     |
 | L18 - Meus imóveis                                |
 | L19 - Passo a passo do imóvel                     |
@@ -39,6 +43,9 @@
 | L22 - Recomendados                                |
 | L23 - Repasses                                    |
 | L24 - Repasses                                    |
+| L24 - Seguro Incêndio                             |
+| L25 - Taxa de serviço                             |
+| L25 - Total                                       |
 | L25 - Visitas agendadas                           |
 
 </div>
