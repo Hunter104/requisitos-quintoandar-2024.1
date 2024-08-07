@@ -13,347 +13,68 @@
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Lexigramas                                                      |
-|-----------------------------------------------------------------|
-| [L01 - Adicionar imóvel](#l01-adicionar-imóvel)                 |
-| [L02 - Ajuda e atendimento](#l02-ajuda-e-atendimento)           |
-| [L03 - Alertas criados](#l03---alertas-criados)                 |
-| [L04 - Anunciar imóvel](#l04---anunciar-imóvel)                 |
-| [L05 - Anunciar imóvel](#l05---anunciar-imóvel)                 |
-| [L06 - Buscar imóveis](#l06---buscar-imóveis)                   |
-| [L07 - Cadastrar imóvel](#l07---cadastrar-imóvel)               |
-| [L08 - Contratos](#l08---contratos)                             |
-| [L09 - Corretores](#l09---corretores)                           |
-| [L10 - Deletar conta](#l10---deletar-conta)                     |
-| [L11 - Encontrar imóveis](#l11---encontrar-imóveis)             |
-| [L12 - Favoritos](#l12---favoritos)                             |
-| [L13 - Favoritos](#l13---favoritos)                             |
-| [L14 - Gerenciar conta](#l14---gerenciar-conta)                 |
-| [L15 - Imóveis anunciados](#l15---imóveis-anunciados)           |
-| [L16 - Inquilino](#l16---inquilino)                             |
-| [L17 - Meu lar](#l17---meu-lar)                                 |
-| [L18 - Meus imóveis](#l18---meus-imóveis)                       |
-| [L19 - Passo a passo do imóvel](#l19---passo-a-passo-do-imóvel) |
-| [L20 - Proprietário](#l20---proprietário)                       |
-| [L21 - Propostas enviadas](#l21---propostas-enviadas)           |
-| [L22 - Recomendados](#l22---recomendados)                       |
-| [L23 - Repasses](#l23---repasses)                               |
-| [L24 - Repasses](#l24---repasses)                               |
-| [L25 - Visitas agendadas](#l25---visitas-agendadas)             |
-
-
+| Lexigramas                                        |
+|---------------------------------------------------|
+| L01 - Acordo                                      |
+| [L02 - Adicionar imóvel](#l01---adicionar-imóvel) |
+| L03 - Afiliado                                    |
+| L04 - Ajuda e atendimento                         |
+| L05 - Alerta                                      |
+| L06 - Alertas criados                             |
+| L07 - Aluguel                                     |
+| L08 - Alterar o país                              |
+| L09 - Anunciar imóvel                             |
+| L10 - Buscar imóveis                              |
+| L11 - Cadastrar imóvel                            |
+| L12 - Condomínio                                  |
+| L13 - Conta                                       |
+| L14 - Corretor                                    |
+| L15 - Corretor credenciado                        |
+| L16 - Criar proposta customizada                  |
+| L17 - Deletar conta                               |
+| L18 - Detalhes do valor                           |
+| L19 - Encontrar imóveis                           |
+| L20 - Favoritos                                   |
+| L21 - Fazer Proposta                              |
+| L22 - Filtro                                      |
+| L23 - Gerenciar conta                             |
+| L24 - Imóvel                                      |
+| L25 - Imóveis anunciados                          |
+| L26 - Inquilino                                   |
+| L27 - IPTU                                        |
+| L28 - Mensagem                                    |
+| L29 - Mensagem essencial                          |
+| L30 - Mensagem informativa                        |
+| L31 - Mensagem promocional                        |
+| L32 - Meu lar                                     |
+| L33 - Meus imóveis                                |
+| L34 - Passo a passo do imóvel                     |
+| L35 - Proprietário                                |
+| L36 - Propor um novo valor                        |
+| L37 - Proposta                                    |
+| L38 - Propostas enviadas                          |
+| L39 - Recomendados                                |
+| L40 - Repasses                                    |
+| L41 - Seguro Incêndio                             |
+| L42 - Solicitar                                   |
+| L43 - Taxa de serviço                             |
+| L44 - Total                                       |
+| L45 - Ver detalhes do condomínio                  |
+| L46 - Ver todos os valores                        |
+| L47 - Visita                                      |
+| L48 - Visitas agendadas                           |
 
 </div>
 
 ---
 
-# L01 Adicionar imóvel
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L02 - Ajuda e atendimento
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L03 - Alertas criados
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L04 - Anunciar imóvel
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L05 - Anunciar imóvel
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L06 - Buscar imóveis
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L07 - Cadastrar imóvel
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L08 - Contratos
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L09 - Corretores
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L10 - Deletar conta
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L11 - Encontrar imóveis
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L12 - Favoritos
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L13 - Favoritos
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L14 - Gerenciar conta
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L15 - Imóveis anunciados
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L16 - Inquilino
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L17 - Meu lar
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L18 - Meus imóveis
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L19 - Passo a passo do imóvel
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L20 - Proprietário
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L21 Propostas enviadas
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L22 Recomendados
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L23 Repasses
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L24 Repasses
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
-
-# L25 Visitas agendadas
-
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
-
----
+# L01 - Adicionar imóvel
 
 ---
 
 > HIPERLINK:
 
-[LÉXICO EXEMPLO](#l25-adicionar-imóvel)
-
-# L25 Adicionar imóvel
+[LÉXICO EXEMPLO](#l01---adicionar-imóvel)
 
 # LEXICO EXEMPLO - 1
 
