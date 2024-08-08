@@ -76,9 +76,9 @@
 |                   |                                                                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Acordo                                                                                                                                       |
-| **Classificação** | Verbo                                                                                                                                        |
-| **Sinônimo**      | Concordância, em conformidade.                                                                                                               |
-| **Noção**         | Um [proprietário](#l35-proprietário) e um futuro [inquilino](#l26-inquilino) concordam em relação aos termos de negociação de um [imóvel](#l24-imóvel). |
+| **Classificação** | Objeto                                                                                                                                        |
+| **Sinônimo**      | contrato, trato, tratado, pacto, convênio|
+| **Noção**         | <ul> <li> Um ajuste formal entre partes <li>Um [proprietário](#l35-proprietário) e um futuro [inquilino](#l26-inquilino) concordam em relação aos termos de negociação de um [imóvel](#l24-imóvel). </li>|
 | **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) realiza acordo com [inquilino](#l26-inquilino).</li>  </ul>                                                                       |
 
 ---
