@@ -171,11 +171,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Nome**          | Anunciar imóvel |
+| **Classificação** | VERBO |
+| **Sinônimo**      | Divulgar imóvel, declara imóvel, cadastrar imóvel|
+| **Noção**         | <ul>  <li>Tarefa realizada pelo proprietário do imóvel </li> <li> Acontece quando um propietário passa pelo processo de cadastro no aplicativo</li> <li> Proprietário vau oara a aba de menu e clica em anunciar imóvel</li> <li> Proprietário insere seus dados pessoais e dados do imóvel </li> <li> Ao finalizar o cadastro a empresa agenda uma visita para tirar fotos do imóvel </li> <li> o imóvel é publicado </li> </ul> |
+| **Impacto**       | <ul>  <li> O imóvel fica disponível para busca na aplicação</li>  <li> O imóvel fica disponível para propostas de aluguel ou compra</li> <li> O imóvel fica disponível para agendamento de visitas</li> <li> O proprietário fica disponível para receber mensagens, negociações e propostas </li>  </ul> |
 
 ---
 
