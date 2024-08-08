@@ -100,7 +100,7 @@
 |                   |                                                                                                                                              |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Afiliado                                                                                                                                     |
-| **Classificação** | OBJETO                                                                                                                                       |
+| **Classificação** | Objeto                                                                                                                                       |
 | **Sinônimo**      | Associado, Parceiro.                                                                                                                         |
 | **Noção**         | Um afiliado é uma [usuários](USUARIO) que está associada para promover ou vender produtos ou serviços em troca de uma comissão ou benefício. |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                       |
@@ -112,7 +112,7 @@
 |                   |                                                                                                                                                                          |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Ajuda e atendimento                                                                                                                                                      |
-| **Classificação** | OBJETO                                                                                                                                                                   |
+| **Classificação** | Objeto                                                                                                                                                                   |
 | **Sinônimo**      | Suporte, Assistência.                                                                                                                                                    |
 | **Noção**         | Ajuda e atendimento referem-se aos serviços oferecidos para auxiliar [usuários](USUARIO) com dúvidas, pode incluir suporte técnico, orientação e resolução de problemas. |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                                                   |
@@ -124,7 +124,7 @@
 |                   |                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Alerta                                                                                                         |
-| **Classificação** | OBJETO                                                                                                         |
+| **Classificação** | Objeto                                                                                                         |
 | **Sinônimo**      | Aviso, Notificação.                                                                                            |
 | **Noção**         | Um alerta é uma [mensagem](#l28-mensagem) ou sinal que informa sobre uma situação que requer atenção imediata. |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                         |
@@ -136,7 +136,7 @@
 |                   |                                                                                                                                                                                                               |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Alertas criados                                                                                                                                                                                               |
-| **Classificação** | OBJETO                                                                                                                                                                                                        |
+| **Classificação** | Objeto                                                                                                                                                                                                        |
 | **Sinônimo**      | -                                                                                                                                                                                                             |
 | **Noção**         | Alertas criados referem-se a notificações ou avisos que foram gerados por um [usuário](USUARIO)                                                                                                               |
 | **Impacto**       | <ul>  <li>Facilita o monitoramento e a gestão de eventos importantes ao manter um registro de alertas.</li> <li>Ajuda a garantir que nenhuma notificação importante seja perdida ou negligenciada.</li> </ul> |
@@ -148,7 +148,7 @@
 |                   |                                                                                                                                                                                                                                                   |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Aluguel                                                                                                                                                                                                                                           |
-| **Classificação** | OBJETO                                                                                                                                                                                                                                            |
+| **Classificação** | Objeto                                                                                                                                                                                                                                            |
 | **Sinônimo**      | Locação, Arrendamento.                                                                                                                                                                                                                            |
 | **Noção**         | Aluguel é o contrato ou acordo pelo qual uma parte [proprietário](#l35-proprietário) concede à outra parte [inquilino](#l26-inquilino) o direito de usar um [imóvel](#l24-imóvel), por um período determinado em troca de um pagamento periódico. |
 | **Impacto**       | <ul>  <li>Proporciona uma fonte de receita contínua para o [proprietário](#l35-proprietário).</li>  <li>Oferece aos [inquilino](#l26-inquilino) a possibilidade de usar um [imóvel](#l24-imóvel) sem a necessidade de compra.</li>   </ul>        |
@@ -160,7 +160,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / OBJETO / ESTADO                                                |
+| **Classificação** | VERBO / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -196,7 +196,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -208,7 +208,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -220,7 +220,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -232,7 +232,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -244,7 +244,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -256,7 +256,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -269,7 +269,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -281,7 +281,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -293,7 +293,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -305,7 +305,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -317,7 +317,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -329,7 +329,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -341,7 +341,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -353,7 +353,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -365,7 +365,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -377,7 +377,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -389,7 +389,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -401,7 +401,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -413,7 +413,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -425,7 +425,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -437,7 +437,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -449,7 +449,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -461,7 +461,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -473,7 +473,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -485,7 +485,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -497,7 +497,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -509,7 +509,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -521,7 +521,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -533,7 +533,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -545,7 +545,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -557,7 +557,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -569,7 +569,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -581,7 +581,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -593,7 +593,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -605,7 +605,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -617,7 +617,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -629,7 +629,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -641,7 +641,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / OBJETO / ESTADO                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
