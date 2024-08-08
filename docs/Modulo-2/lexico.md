@@ -88,7 +88,7 @@
 |                   |                                                                                                                               |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Adicionar imóvel                                                                                                              |
-| **Classificação** | VERBO                                                                                                                         |
+| **Classificação** | Verbo                                                                                                                         |
 | **Sinônimo**      | Inserir [imóvel](#l24-imóvel), Cadastrar [imóvel](#l24-imóvel).                                                               |
 | **Noção**         | O processo de incluir um novo [imóvel](#l24-imóvel) em um sistema ou banco de dados por um [proprietário](#l35-proprietário). |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                        |
@@ -160,7 +160,7 @@
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
 | **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | VERBO / Objeto / Estado                                                |
+| **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
