@@ -79,7 +79,7 @@
 | **Classificação** | Objeto                                                                                                                                        |
 | **Sinônimo**      | contrato, trato, tratado, pacto, convênio|
 | **Noção**         | <ul> <li> Um ajuste formal entre partes <li>Um [proprietário](#l35-proprietário) e um futuro [inquilino](#l26-inquilino) concordam em relação aos termos de negociação de um [imóvel](#l24-imóvel). </li>|
-| **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) realiza acordo com [inquilino](#l26-inquilino).</li>  </ul>                                                                       |
+| **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) realiza acordo com [inquilino](#l26-inquilino).</li> <li> [proprietário](#l35-proprietário) pode negociar um acordo com seu [inquilino](#l26-inquilino)</li>   </ul>                                                                       |
 
 ---
 
@@ -115,7 +115,7 @@
 | **Classificação** | Objeto                                                                                                                                                                   |
 | **Sinônimo**      | Suporte, Assistência.                                                                                                                                                    |
 | **Noção**         | Ajuda e atendimento referem-se aos serviços oferecidos para auxiliar [usuários](USUARIO) com dúvidas, pode incluir suporte técnico, orientação e resolução de problemas. |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                                                   |
+| **Impacto**       | <ul>  <li>Um [usuario](USUARIO) pode acessar a área de ajuda e atendimento para resolver uma dúvida rápida</li>  <li>um [usuario](USUARIO) pode acessar a área de ajuda e atendimento para obter suporte técnico em caso de algum problema com o aplicativo</li>   </ul>                                                                                                   |
 
 ---
 
@@ -127,7 +127,7 @@
 | **Classificação** | Objeto                                                                                                         |
 | **Sinônimo**      | Aviso, Notificação.                                                                                            |
 | **Noção**         | Um alerta é uma [mensagem](#l28-mensagem) ou sinal que informa sobre uma situação que requer atenção imediata. |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                         |
+| **Impacto**       | <ul>  <li>Um alerta notifica situações importantes para [inquilinos](#l26-inquilino) ou para [proprietários](#l35-proprietário) por meio de notificações de smartphones  </li> </ul>                                         |
 
 ---
 
