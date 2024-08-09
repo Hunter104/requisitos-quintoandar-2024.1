@@ -603,22 +603,22 @@
 
 # L45 Ver detalhes do condomínio
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | Ver detalhes do condomínio                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                 |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Ver detalhes do condomínio                                                                                                      |
+| **Classificação** | Verbo                                                                                                                           |
+| **Sinônimo**      | Ver informações sobre o [condomínio](#l12-condomínio).                                                                          |
+| **Noção**         | Botão que se clicado exibe informações gerais sobre o [condomínio](#l12-condomínio) como, por exemplo, se possui área de lazer. |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                          |
 
 ---
 
 # L46 Ver todos os valores
 
 |                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | Ver todos os valores                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
+| ----------------- | ---------------------------------------------------------------------- |
+| **Nome**          | Ver todos os valores                                                   |
+| **Classificação** | Verbo                                                                  |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
