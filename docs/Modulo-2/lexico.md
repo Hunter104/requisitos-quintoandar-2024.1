@@ -579,13 +579,13 @@
 
 # L43 Taxa de serviço
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | Taxa de serviço                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                               |
+| ----------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Taxa de serviço                                                                                               |
+| **Classificação** | Objeto                                                                                                        |
+| **Sinônimo**      | -                                                                                                             |
+| **Noção**         | Valor mensal que auxilia na manutenção e atualização constante da plataforma do Quinto andar e  sua operação. |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                        |
 
 ---
 
