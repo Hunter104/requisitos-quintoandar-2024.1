@@ -270,11 +270,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Nome**          | Deletar conta |
+| **Classificação** | Verbo |
+| **Sinônimo**      | |
+| **Noção**         | <ul> <li>Tarefa realizada por um [usuário](#l49-usuário) </li> <li> Acontece quando um [usuário](#l49-usuário) clica no botão de deletar [conta](#l13-conta)  </li> <li> O [usuário](#l49-usuário) aperta no botão de excluir a sua [conta](#l13-conta) e em seguida clica em continuar </li> <li> O [usuário](#l49-usuário) responde um formulário </li> <li> a equipe do quintoandar avalia a exclusão dos dados </li> </ul>|
+| **Impacto**       | <ul>  <li>A [conta](#l13-conta) do [usuário](#l49-usuário) é excluida do sistema</li>  <li>O [usuário](#l49-usuário) perde acesso ao sistema</li>  </ul> |
 
 ---
 
