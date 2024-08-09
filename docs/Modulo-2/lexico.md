@@ -554,13 +554,13 @@
 
 # L41 Seguro Incêndio
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | Seguro Incêndio                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                         |
+| ----------------- | ----------------------------------------------------------------------- |
+| **Nome**          | Seguro Incêndio                                                         |
+| **Classificação** | Objeto                                                                  |
+| **Sinônimo**      | -                                                                       |
+| **Noção**         | Taxa de seguro como proteção financeira a incêndios em uma propriedade. |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>  |
 
 ---
 
