@@ -591,13 +591,13 @@
 
 # L44 Total
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | Total                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                              |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Total                                                                                                                        |
+| **Classificação** | Estado                                                                                                                       |
+| **Sinônimo**      | Valor total, preço completo.                                                                                                 |
+| **Noção**         | Preço total sobre um [imóvel](#l24-imóvel). Esse valor compreende: [aluguel](#l07-aluguel), [taxa de condomínio](#l12-condomínio), [IPTU](#l27-iptu), [seguro Incêndio](#l41-seguro-incêndio) e [taxa de serviço](#l43-taxa-de-serviço). |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                       |
 
 ---
 
