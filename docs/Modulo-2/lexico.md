@@ -564,7 +564,7 @@
 | **Classificação** | Objeto                                                                  |
 | **Sinônimo**      | -                                                                       |
 | **Noção**         | Taxa de seguro como proteção financeira a incêndios em uma propriedade. |
-| **Impacto**       | <ul>  <li>Protege o [Imóvel](#l24-imóvel) contra incêndios</li>  </ul>  |
+| **Impacto**       | <ul>  <li>Protege o [imóvel](#l24-imóvel) contra incêndios</li>  </ul>  |
 |                   |                                                                         |
 
 ---
