@@ -531,11 +531,11 @@
 # L39 Recomendados
 
 |                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
+| ----------------- | ---------------------------------------------------------------------- |
+| **Nome**          | Recomendados                                                           |
+| **Classificação** | Objeto                                                                 |
+| **Sinônimo**      | Indicados, sugeridos, propostos.                                       |
+| **Noção**         | Lista de [imóveis](#l24-imóvel) escolhidos e recomendados a um usuário baseado em suas buscas e preferências.                                                                |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
 
 ---
