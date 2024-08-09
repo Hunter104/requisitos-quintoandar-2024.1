@@ -566,13 +566,14 @@
 
 # L42 Solicitar
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | Solicitar                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                      |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Solicitar                                                                                                                                                                                            |
+| **Classificação** | Verbo                                                                                                                                                                                                |
+| **Sinônimo**      | Pedir nova [proposta](#l37-proposta), enviar ao [proprietário](#l35-proprietário) uma nova [proposta](#l37-proposta).                                                                                |
+| **Noção**         | Evento no qual um usuário envia uma [proposta](#l37-proposta) por um [imóvel](#l24-imóvel), diferente da anterior, a um [proprietário](#l35-proprietário).                                           |
+| **Impacto**       | <ul>  <li>Usuário [propõe um novo valor](#l36-propor-um-novo-valor) por um [imóvel](#l24-imóvel)</li>  <li>Usuário envia [proposta](#l37-proposta) a um [proprietário](#l35-proprietário)</li> </ul> |
+|                   |                                                                                                                                                                                                      |
 
 ---
 
