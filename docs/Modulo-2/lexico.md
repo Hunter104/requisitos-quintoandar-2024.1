@@ -544,7 +544,7 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Nome**          | Repasses                                                     |
 | **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
@@ -556,7 +556,7 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Nome**          | Seguro Incêndio                                                     |
 | **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
@@ -568,7 +568,7 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Nome**          | Solicitar                                                     |
 | **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
@@ -580,7 +580,7 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Nome**          | Taxa de serviço                                                     |
 | **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
@@ -592,7 +592,7 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Nome**          | Total                                                     |
 | **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
@@ -604,7 +604,7 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Nome**          | Ver detalhes do condomínio                                                     |
 | **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
@@ -616,7 +616,7 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Nome**          | Ver todos os valores                                                     |
 | **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
@@ -626,13 +626,14 @@
 
 # L47 Visita
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                                            |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Visita                                                                                                                                                                                                                     |
+| **Classificação** | Verbo / Objeto / Estado                                                                                                                                                                                                    |
+| **Sinônimo**      | Visitação, inspeção, ida.                                                                                                                                                                                                  |
+| **Noção**         | Evento no qual um possível [inquilino](#l26-inquilino) acompanhado de um [corretor](#l14-corretor) vão até o [imóvel](#l24-imóvel) de um [proprietário](#l35-proprietário).                                                |
+| **Impacto**       | <ul>  <li>[Inquilino](#l26-inquilino) visita [imóvel](#l24-imóvel)  de [proprietário](#l35-proprietário)</li>  <li>[Corretor](#l14-corretor) visita [imóvel](#l24-imóvel)  de [proprietário](#l35-proprietário)</li> </ul> |
+|                   |                                                                                                                                                                                                                            |
 
 ---
 
@@ -640,7 +641,7 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Nome**          | Visitas agendadas                                                     |
 | **Classificação** | Verbo / Objeto / Estado                                                |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
