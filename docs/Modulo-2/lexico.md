@@ -542,13 +542,13 @@
 
 # L40 Repasses
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | Repasses                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                           |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Repasses                                                                                                                                  |
+| **Classificação** | Verbo / Objeto / Estado                                                                                                                   |
+| **Sinônimo**      | Revenda ou transferência de financiamento.                                                                                                |
+| **Noção**         | Transferência de financiamento de um [imóvel](#l24-imóvel) de uma pessoa para outra. Revenda do financiamento de uma casa ou apartamento. |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                    |
 
 ---
 
