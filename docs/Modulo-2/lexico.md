@@ -518,13 +518,13 @@
 
 # L38 Propostas enviadas
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                            |
+| ----------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Propostas enviadas                                                                                         |
+| **Classificação** | Objeto                                                                                                     |
+| **Sinônimo**      | -                                                                                                          |
+| **Noção**         | Lista de todas as [propostas](#l37-proposta), de aluguel e de compra que estão em andamento ou canceladas. |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                     |
 
 ---
 
