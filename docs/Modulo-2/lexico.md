@@ -519,106 +519,107 @@
 
 # L38 Propostas enviadas
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                            |
+| ----------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Propostas enviadas                                                                                         |
+| **Classificação** | Objeto                                                                                                     |
+| **Sinônimo**      | -                                                                                                          |
+| **Noção**         | Lista de todas as [propostas](#l37-proposta), de aluguel e de compra que estão em andamento ou canceladas. |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                     |
 
 ---
 
 # L39 Recomendados
 
 |                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
+| ----------------- | ---------------------------------------------------------------------- |
+| **Nome**          | Recomendados                                                           |
+| **Classificação** | Objeto                                                                 |
+| **Sinônimo**      | Indicados, sugeridos, propostos.                                       |
+| **Noção**         | Lista de [imóveis](#l24-imóvel) escolhidos e recomendados a um usuário baseado em suas buscas e preferências.                                                                |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
 
 ---
 
 # L40 Repasses
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                           |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Repasses                                                                                                                                  |
+| **Classificação** | Verbo / Objeto / Estado                                                                                                                   |
+| **Sinônimo**      | Revenda ou transferência de financiamento.                                                                                                |
+| **Noção**         | Transferência de financiamento de um [imóvel](#l24-imóvel) de uma pessoa para outra. Revenda do financiamento de uma casa ou apartamento. |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                    |
 
 ---
 
 # L41 Seguro Incêndio
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                         |
+| ----------------- | ----------------------------------------------------------------------- |
+| **Nome**          | Seguro Incêndio                                                         |
+| **Classificação** | Objeto                                                                  |
+| **Sinônimo**      | -                                                                       |
+| **Noção**         | Taxa de seguro como proteção financeira a incêndios em uma propriedade. |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>  |
 
 ---
 
 # L42 Solicitar
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                      |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Solicitar                                                                                                                                                                                            |
+| **Classificação** | Verbo                                                                                                                                                                                                |
+| **Sinônimo**      | Pedir nova [proposta](#l37-proposta), enviar ao [proprietário](#l35-proprietário) uma nova [proposta](#l37-proposta).                                                                                |
+| **Noção**         | Evento no qual um usuário envia uma [proposta](#l37-proposta) por um [imóvel](#l24-imóvel), diferente da anterior, a um [proprietário](#l35-proprietário).                                           |
+| **Impacto**       | <ul>  <li>Usuário [propõe um novo valor](#l36-propor-um-novo-valor) por um [imóvel](#l24-imóvel)</li>  <li>Usuário envia [proposta](#l37-proposta) a um [proprietário](#l35-proprietário)</li> </ul> |
+|                   |                                                                                                                                                                                                      |
 
 ---
 
 # L43 Taxa de serviço
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                               |
+| ----------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Taxa de serviço                                                                                               |
+| **Classificação** | Objeto                                                                                                        |
+| **Sinônimo**      | -                                                                                                             |
+| **Noção**         | Valor mensal que auxilia na manutenção e atualização constante da plataforma do Quinto andar e  sua operação. |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                        |
 
 ---
 
 # L44 Total
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                              |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Total                                                                                                                        |
+| **Classificação** | Estado                                                                                                                       |
+| **Sinônimo**      | Valor total, preço completo.                                                                                                 |
+| **Noção**         | Preço total sobre um [imóvel](#l24-imóvel). Esse valor compreende: [aluguel](#l07-aluguel), [taxa de condomínio](#l12-condomínio), [IPTU](#l27-iptu), [seguro Incêndio](#l41-seguro-incêndio) e [taxa de serviço](#l43-taxa-de-serviço). |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                       |
 
 ---
 
 # L45 Ver detalhes do condomínio
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                 |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Ver detalhes do condomínio                                                                                                      |
+| **Classificação** | Verbo                                                                                                                           |
+| **Sinônimo**      | Ver informações sobre o [condomínio](#l12-condomínio).                                                                          |
+| **Noção**         | Botão que se clicado exibe informações gerais sobre o [condomínio](#l12-condomínio) como, por exemplo, se possui área de lazer. |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                          |
 
 ---
 
 # L46 Ver todos os valores
 
 |                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
+| ----------------- | ---------------------------------------------------------------------- |
+| **Nome**          | Ver todos os valores                                                   |
+| **Classificação** | Verbo                                                                  |
 | **Sinônimo**      | TEXTO                                                                  |
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
@@ -627,25 +628,26 @@
 
 # L47 Visita
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                                            |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Visita                                                                                                                                                                                                                     |
+| **Classificação** | Objeto                                                                                                                                                                                                                     |
+| **Sinônimo**      | Visitação, inspeção, ida.                                                                                                                                                                                                  |
+| **Noção**         | Evento no qual um possível [inquilino](#l26-inquilino) acompanhado de um [corretor](#l14-corretor) vão até o [imóvel](#l24-imóvel) de um [proprietário](#l35-proprietário).                                                |
+| **Impacto**       | <ul>  <li>[Inquilino](#l26-inquilino) visita [imóvel](#l24-imóvel)  de [proprietário](#l35-proprietário)</li>  <li>[Corretor](#l14-corretor) visita [imóvel](#l24-imóvel)  de [proprietário](#l35-proprietário)</li> </ul> |
+|                   |                                                                                                                                                                                                                            |
 
 ---
 
 # L48 Visitas agendadas
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Visitas agendadas                                                                                                                                                                                                           |
+| **Classificação** | Objeto                                                                                                                                                                                                                      |
+| **Sinônimo**      | Agenda de visitas, conjunto de visitas marcadas.                                                                                                                                                                            |
+| **Noção**         | Lista de futuras [visitas](#l47-visita) que estão confirmadas entre um possível [inquilino](#l26-inquilino), um [corretor](#l14-corretor) e um [proprietário](#l35-proprietário) para um determinado [imóvel](#l24-imóvel). |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                                                                                                      |
 
 ---
 
