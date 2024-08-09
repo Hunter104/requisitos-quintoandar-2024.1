@@ -629,7 +629,7 @@
 |                   |                                                                                                                                                                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Visita                                                                                                                                                                                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                                                                                                                                                                    |
+| **Classificação** | Objeto                                                                                                                                                                                                                     |
 | **Sinônimo**      | Visitação, inspeção, ida.                                                                                                                                                                                                  |
 | **Noção**         | Evento no qual um possível [inquilino](#l26-inquilino) acompanhado de um [corretor](#l14-corretor) vão até o [imóvel](#l24-imóvel) de um [proprietário](#l35-proprietário).                                                |
 | **Impacto**       | <ul>  <li>[Inquilino](#l26-inquilino) visita [imóvel](#l24-imóvel)  de [proprietário](#l35-proprietário)</li>  <li>[Corretor](#l14-corretor) visita [imóvel](#l24-imóvel)  de [proprietário](#l35-proprietário)</li> </ul> |
@@ -639,13 +639,13 @@
 
 # L48 Visitas agendadas
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | Visitas agendadas                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Visitas agendadas                                                                                                                                                                                                           |
+| **Classificação** | Objeto                                                                                                                                                                                                                      |
+| **Sinônimo**      | Agenda de visitas, conjunto de visitas marcadas.                                                                                                                                                                            |
+| **Noção**         | Lista de futuras [visitas](#l47-visita) que estão confirmadas entre um possível [inquilino](#l26-inquilino), um [corretor](#l14-corretor) e um [proprietário](#l35-proprietário) para um determinado [imóvel](#l24-imóvel). |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                                                                                                      |
 
 ---
 
