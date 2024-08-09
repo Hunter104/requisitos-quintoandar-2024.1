@@ -63,6 +63,7 @@
 | [L46 - Ver todos os valores](#l46-ver-todos-os-valores)             |
 | [L47 - Visita](#l47-visita)                                         |
 | [L48 - Visitas agendadas](#l48-visitas-agendadas)                   |
+| [L49 - Usuário](#l49-usuário)                   |
 
 
 > comprador, usuario, fotografo.
@@ -115,7 +116,7 @@
 | **Classificação** | Objeto                                                                                                                                                                   |
 | **Sinônimo**      | Suporte, Assistência.                                                                                                                                                    |
 | **Noção**         | Ajuda e atendimento referem-se aos serviços oferecidos para auxiliar [usuários](USUARIO) com dúvidas, pode incluir suporte técnico, orientação e resolução de problemas. |
-| **Impacto**       | <ul>  <li>Um [usuario](USUARIO) pode acessar a área de ajuda e atendimento para resolver uma dúvida rápida</li>  <li>um [usuario](USUARIO) pode acessar a área de ajuda e atendimento para obter suporte técnico em caso de algum problema com o aplicativo</li>   </ul>                                                                                                   |
+| **Impacto**       | <ul>  <li>Um [usuario](USUARIO) pode acessar a área de ajuda e atendimento para resolver uma dúvida rápida</li>  <li>um [usuario](USUARIO) pode acessar a área de ajuda e atendimento para obter suporte técnico em caso de algum problema com o aplicativo</li>   </ul> |
 
 ---
 
@@ -224,7 +225,7 @@
 | **Classificação** | Objeto |
 | **Sinônimo**      | |
 | **Noção**         | Registro utilizado por um fornecedor de serviços online para identificar um assinante ou cliente|
-| **Impacto**       | <ul>  <li></li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Impacto**       | <ul>  <li>Um [usuário](#l49-usuário) cria uma conta para utilizar o aplicativo </li>  <li>Um [usuário](#l49-usuário) que deseja alterar os dados da sua conta pode ir [gerenciar sua conta](#l23-gerenciar-conta) </li> <li>Um [usuário](#l49-usuário) que deseja cessar o uso do aplicativo pode ir [deletar sua conta](#l17-deletar-conta) </li>  </ul> |
 
 ---
 
