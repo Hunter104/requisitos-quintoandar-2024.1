@@ -545,13 +545,14 @@
 
 # L40 Repasses
 
-|                   |                                                                                                                                           |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**          | Repasses                                                                                                                                  |
-| **Classificação** | Verbo / Objeto / Estado                                                                                                                   |
-| **Sinônimo**      | Revenda ou transferência de financiamento.                                                                                                |
-| **Noção**         | Transferência de financiamento de um [imóvel](#l24-imóvel) de uma pessoa para outra. Revenda do financiamento de uma casa ou apartamento. |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                    |
+|                   |                                                                                                                                                                      |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Repasses                                                                                                                                                             |
+| **Classificação** | Verbo / Objeto / Estado                                                                                                                                              |
+| **Sinônimo**      | Revenda ou transferência de financiamento.                                                                                                                           |
+| **Noção**         | Transferência de financiamento de um [imóvel](#l24-imóvel) de uma pessoa para outra. Revenda do financiamento de uma casa ou apartamento.                            |
+| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) revende um [imóvel](#l24-imóvel) a outro [usuário](#l49-usuário)</li>  <li>Financiamento do imóvel passa a outra pessoa</li> </ul> |
+|                   |                                                                                                                                                                      |
 
 ---
 
@@ -563,7 +564,8 @@
 | **Classificação** | Objeto                                                                  |
 | **Sinônimo**      | -                                                                       |
 | **Noção**         | Taxa de seguro como proteção financeira a incêndios em uma propriedade. |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>  |
+| **Impacto**       | <ul>  <li>Protege o [Imóvel](#l24-imóvel) contra incêndios</li>  </ul>  |
+|                   |                                                                         |
 
 ---
 
