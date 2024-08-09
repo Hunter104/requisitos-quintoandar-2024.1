@@ -75,8 +75,8 @@
 
 |                   |                                                                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**          | Acordo                                                                                                                                       |
-| **Classificação** | Objeto                                                                                                                                        |
+| **Nome**          | Acordo|
+| **Classificação** | Objeto|
 | **Sinônimo**      | contrato, trato, tratado, pacto, convênio|
 | **Noção**         | <ul> <li> Um ajuste formal entre partes <li>Um [proprietário](#l35-proprietário) e um futuro [inquilino](#l26-inquilino) concordam em relação aos termos de negociação de um [imóvel](#l24-imóvel). </li>|
 | **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) realiza acordo com [inquilino](#l26-inquilino).</li> <li> [proprietário](#l35-proprietário) pode negociar um acordo com seu [inquilino](#l26-inquilino)</li>   </ul>                                                                       |
@@ -155,6 +155,7 @@
 
 ---
 
+<!-- Qual seria a relevância disso? -->
 # L08 Alterar o país
 
 |                   |                                                                        |
@@ -207,11 +208,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Nome**          | Condomínio |
+| **Classificação** | Objeto |
+| **Sinônimo**      | copropriedade |
+| **Noção**         | Conjunto habitacional composto por vários apartamentos ou imóveis com entrada e saída controlada|
+| **Impacto**       | <ul> <li>É possível comprar ou alugar casas de condomínio na aplicação</li>  <li>É possível filtrar apenas por casas de condomínio na aplicação</li>  </ul> |
 
 ---
 
@@ -219,11 +220,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Nome**          | Conta |
+| **Classificação** | Objeto |
+| **Sinônimo**      | |
+| **Noção**         | Registro utilizado por um fornecedor de serviços online para identificar um assinante ou cliente|
+| **Impacto**       | <ul>  <li></li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
 
 ---
 
@@ -646,6 +647,17 @@
 | **Noção**         | TEXTO                                                                  |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
 
+---
+
+# L49 Usuário
+
+|   |   |
+|---|---|
+|**Nome**| Usuário |
+|**Classificação**| Objeto |
+|**Sinônimo** | cliente, utilizador |
+|**Noção** | <ul> <li>Pessoa que utiliza o serviço ou aplicação </li> <li> Um usuário pode ser um [inquilino](#l26-inquilino), um potencial comprador, um [afiliado](#l03-afiliado) ou um [proprietário](#l35-proprietário) </li> |
+|**Impacto** | <ul> <li>Um usuário que é um [inquilino](#l26-inquilino) pode iniciar uma conversa com seu proprietário</li> <li>Um usuário que é um [inquilino](#l01-acordo) pode negociar um [acordo](#l01-acordo) com seu proprietário </li> <li>Um usuário que é um [proprietário](#l35-proprietário) pode [anunciar um imóvel](#l09-anunciar-imóvel) </li> |
 ---
 
 <center>
