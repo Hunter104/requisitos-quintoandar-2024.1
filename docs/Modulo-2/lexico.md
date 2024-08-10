@@ -103,7 +103,7 @@
 | **Nome**          | Afiliado                                                                                                                                     |
 | **Classificação** | Objeto                                                                                                                                       |
 | **Sinônimo**      | Associado, Parceiro.                                                                                                                         |
-| **Noção**         | Um afiliado é uma [usuários](USUARIO) que está associada para promover ou vender produtos ou serviços em troca de uma comissão ou benefício. |
+| **Noção**         | Um afiliado é uma [usuários](#l49-usuário) que está associada para promover ou vender produtos ou serviços em troca de uma comissão ou benefício. |
 | **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                       |
 
 ---
@@ -115,8 +115,8 @@
 | **Nome**          | Ajuda e atendimento                                                                                                                                                      |
 | **Classificação** | Objeto                                                                                                                                                                   |
 | **Sinônimo**      | Suporte, Assistência.                                                                                                                                                    |
-| **Noção**         | Ajuda e atendimento referem-se aos serviços oferecidos para auxiliar [usuários](USUARIO) com dúvidas, pode incluir suporte técnico, orientação e resolução de problemas. |
-| **Impacto**       | <ul>  <li>Um [usuario](USUARIO) pode acessar a área de ajuda e atendimento para resolver uma dúvida rápida</li>  <li>um [usuario](USUARIO) pode acessar a área de ajuda e atendimento para obter suporte técnico em caso de algum problema com o aplicativo</li>   </ul> |
+| **Noção**         | Ajuda e atendimento referem-se aos serviços oferecidos para auxiliar [usuários](#l49-usuário) com dúvidas, pode incluir suporte técnico, orientação e resolução de problemas. |
+| **Impacto**       | <ul>  <li>Um [usuario](#l49-usuário) pode acessar a área de ajuda e atendimento para resolver uma dúvida rápida</li>  <li>um [usuario](USUARIO) pode acessar a área de ajuda e atendimento para obter suporte técnico em caso de algum problema com o aplicativo</li>   </ul> |
 
 ---
 
@@ -139,7 +139,7 @@
 | **Nome**          | Alertas criados                                                                                                                                                                                               |
 | **Classificação** | Objeto                                                                                                                                                                                                        |
 | **Sinônimo**      | -                                                                                                                                                                                                             |
-| **Noção**         | Alertas criados referem-se a notificações ou avisos que foram gerados por um [usuário](USUARIO)                                                                                                               |
+| **Noção**         | Alertas criados referem-se a notificações ou avisos que foram gerados por um [usuário](#l49-usuário)                                                                                                               |
 | **Impacto**       | <ul>  <li>Facilita o monitoramento e a gestão de eventos importantes ao manter um registro de alertas.</li> <li>Ajuda a garantir que nenhuma notificação importante seja perdida ou negligenciada.</li> </ul> |
 
 ---
