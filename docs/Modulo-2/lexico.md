@@ -233,11 +233,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Nome**          | Corretor |
+| **Classificação** | Objeto |
+| **Sinônimo**      | agenciador, agente, despachante, inculcador, intermediário                                                                  |
+| **Noção**         | Agente de negócios cuja função consisnte em aproximar as partes intereressadas em determinada transação                                                              |
+| **Impacto**       | <ul>  <li>O corretor tem como função facilitar a interação entre compradores/[inquilinos](#l26-inquilino) e [propietário](#l35-proprietário) de [imóveis](#l24-imóvel)  </li>   </ul> |
 
 ---
 
