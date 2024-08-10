@@ -188,8 +188,8 @@
 | **Nome**          | Buscar imóveis|
 | **Classificação** | Verbo |
 | **Sinônimo**      | procurar imóveis, descobrir imóveis|
-| **Noção**         | <ul> <li> Tarefa realizada por [inquilino](#l26-inquilino) /compradors ou compradores </li> <li> [inquilino](#l26-inquilino) /comprador vai para a aba de busca no aplicativo </li> <li> [inquilino](#l26-inquilino) /comprador coloca a região  onde os imóveis devem estar localizados </li> <li> inquilino/comprador escolhe se os móveis devem estar dispoíveis para aluguel ou para compra </li> <li> inquilino/comprador pode aplicar zero ou mais filtros para busca mais específica </li> <li> [inquilino](#l26-inquilino)/comprador pode aplicar um critério de ordenação </li> </ul>|
-| **Impacto**       | <ul>  <li> Imóveis disponíveis que se adequam aos filtros aparecerão no aplicativo</li>  <li> Imóveis aparecerão na ordem escolhida</li> <li>imóveis aparecerão com as informações mais relevantes, como fotos, preço, tamanho, quantidade de quartos e vagas de estacionamento, e localização</li>  </ul> |
+| **Noção**         | <ul> <li> Tarefa realizada por [inquilino](#l26-inquilino) /compradors ou compradores </li> <li> [inquilino](#l26-inquilino) /comprador vai para a aba de busca no aplicativo </li> <li> [inquilino](#l26-inquilino) /comprador coloca a região  onde os imóveis devem estar localizados </li> <li> inquilino/comprador escolhe se os móveis devem estar dispoíveis para aluguel ou para compra </li> <li> inquilino/comprador pode aplicar zero ou mais [ filtros ](#l22-filtro) para busca mais específica </li> <li> [inquilino](#l26-inquilino)/comprador pode aplicar um critério de ordenação </li> </ul>|
+| **Impacto**       | <ul>  <li> Imóveis disponíveis que se adequam aos [ filtros ](#l22-filtro) aparecerão no aplicativo</li>  <li> Imóveis aparecerão na ordem escolhida</li> <li>imóveis aparecerão com as informações mais relevantes, como fotos, preço, tamanho, quantidade de quartos e vagas de estacionamento, e localização</li>  </ul> |
 
 ---
 
@@ -330,11 +330,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Nome**          | Filtro |
+| **Classificação** | Objeto |
+| **Sinônimo**      |                                                                   |
+| **Noção**         | ferramentas que permitem à [usuários](#l49-usuário) de uma ferramenta de busca a personalizar os resultados |
+| **Impacto**       | <ul>  <li>Um [usuário](#l49-usuário) que está [buscando um imóvel](#l10-buscar-imóveis) a ser mais específico em suas preferências</li> </ul> |
 
 ---
 
