@@ -378,11 +378,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Nome**          | Inquilino |
+| **Classificação** | Objeto 
+| **Sinônimo**      | habitante, locatário, morador, residente                                                                  |
+| **Noção**         | <ul> <li>Sujeito que reside num imóvel que não lhe pertence</li>  <li>aquele que vive num local que foi alugado</li> |
+| **Impacto**       | <ul>  <li>Um inquilino pode negociar [acordos](#l01-acordo) com o seu [proprietário](#l35-proprietário)</li>  <li>Um inquilino pode conversar com seu [proprietário](#l35-proprietário) por meio de [mensagens](#l28-mensagem) na aplicação</li> </ul> |
 
 ---
 
