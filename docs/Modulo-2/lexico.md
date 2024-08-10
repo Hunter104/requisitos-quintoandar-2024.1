@@ -66,7 +66,7 @@
 | [L49 - Usuário](#l49-usuário)                                       |
 
 
-> comprador, usuario, fotografo.
+> comprador, fotografo.
 
 </div>
 
