@@ -486,11 +486,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Nome**          | Proprietário                                                     |
+| **Classificação** | Objeto / Estado                                                |
+| **Sinônimo**      | senhorio, locador, arrendador |
+| **Noção**         | Pessoa que possui bens [imóveis](#l24-imóvel)                                                                 |
+| **Impacto**       | <ul>  <li>Um proprietário pode [anunciar seu imóvel](#l09-anunciar-imóvel) para ficar disponível para [busca](#l10-buscar-imóveis) para outros [usuários](#l49-usuário)</li>  <li>Um proprietário pode negociar [acordos](#l01-acordo) com o seu [inquilino](#l26-inquilino)</li> <li>Um proprietário pode conversar com seu [inquilino](#l26-inquilino) através de [mensagens](#l28-mensagem) na aplicação</li>  </ul> |
 
 ---
 
