@@ -390,11 +390,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Nome**          | IPTU |
+| **Classificação** | Objeto |
+| **Sinônimo**      | |
+| **Noção**         | <ul><li>Imposto Predial e Territorial Urbano</li> <li>imposto que incide sobre todas as pessoas físicas ou jurídicas que possuam propriedades privadas urbanas</li></ul>                                                                  |
+| **Impacto**       | <ul>  <li>O [proprietário](#l35-proprietário) de um [imóvel](#l24-imóvel) geralmente é responsável por pagar o IPTU</li>  <li>Um [ usuário ]( #l49-usuário ) que esteja [buscando imóveis](#l10-buscar-imóveis) podera ver o valor do IPTU na interface da aplicação</li> </ul> |
 
 ---
 
