@@ -450,11 +450,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+| **Nome**          | Meu Lar |
+| **Classificação** | Objeto |
+| **Sinônimo**      |                                                                   |
+| **Noção**         | Área da aplicação destinada ao gerenciamento e visualização de informaçõe srelacionadas                                                                  |
+| **Impacto**       | <ul>  <li>Um [inquilino](#l26-inquilino) pode baixar o contrato de locação na área de meu lar </li>  <li>Um [inquilino](#l26-inquilino) pode solicitar reembolso ou reparos para locações administradas pelo quinto andar</li> <li>Um [inquilino](#l26-inquilino) pode verificar pagamentos do [imóvel](#l24-imóvel) na área de Meu Lar</li>  </ul> |
 
 ---
 
