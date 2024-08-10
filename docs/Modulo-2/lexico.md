@@ -173,11 +173,11 @@
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
-| **Nome**          | Anunciar imóvel |
+| **Nome**          | Anunciar [imóvel](#l24-imóvel) |
 | **Classificação** | Verbo |
-| **Sinônimo**      | Divulgar imóvel, declara imóvel, cadastrar imóvel|
-| **Noção**         | <ul>  <li>Tarefa realizada pelo proprietário do imóvel </li> <li> Acontece quando um propietário passa pelo processo de cadastro no aplicativo</li> <li> Proprietário vau oara a aba de menu e clica em anunciar imóvel</li> <li> Proprietário insere seus dados pessoais e dados do imóvel </li> <li> Ao finalizar o cadastro a empresa agenda uma visita para tirar fotos do imóvel </li> <li> o imóvel é publicado </li> </ul> |
-| **Impacto**       | <ul>  <li> O imóvel fica disponível para busca na aplicação</li>  <li> O imóvel fica disponível para propostas de aluguel ou compra</li> <li> O imóvel fica disponível para agendamento de visitas</li> <li> O proprietário fica disponível para receber mensagens, negociações e propostas </li>  </ul> |
+| **Sinônimo**      | Divulgar [imóvel](#l24-imóvel), declara imóvel, cadastrar imóvel|
+| **Noção**         | <ul>  <li>Tarefa realizada pelo proprietário do [imóvel](#l24-imóvel) </li> <li> Acontece quando um propietário passa pelo processo de cadastro no aplicativo</li> <li> Proprietário vau oara a aba de menu e clica em anunciar imóvel</li> <li> Proprietário insere seus dados pessoais e dados do imóvel </li> <li> Ao finalizar o cadastro a empresa agenda uma visita para tirar fotos do imóvel </li> <li> o imóvel é publicado </li> </ul> |
+| **Impacto**       | <ul>  <li> O [imóvel](#l24-imóvel) fica disponível para busca na aplicação</li>  <li> O imóvel fica disponível para propostas de aluguel ou compra</li> <li> O imóvel fica disponível para agendamento de visitas</li> <li> O proprietário fica disponível para receber mensagens, negociações e propostas </li>  </ul> |
 
 ---
 
@@ -381,7 +381,7 @@
 | **Nome**          | Inquilino |
 | **Classificação** | Objeto 
 | **Sinônimo**      | habitante, locatário, morador, residente                                                                  |
-| **Noção**         | <ul> <li>Sujeito que reside num imóvel que não lhe pertence</li>  <li>aquele que vive num local que foi alugado</li> |
+| **Noção**         | <ul> <li>Sujeito que reside num [imóvel](#l24-imóvel) que não lhe pertence</li>  <li>aquele que vive num local que foi alugado</li> |
 | **Impacto**       | <ul>  <li>Um inquilino pode negociar [acordos](#l01-acordo) com o seu [proprietário](#l35-proprietário)</li>  <li>Um inquilino pode conversar com seu [proprietário](#l35-proprietário) por meio de [mensagens](#l28-mensagem) na aplicação</li> </ul> |
 
 ---
