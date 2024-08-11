@@ -508,13 +508,14 @@
 
 # L37 Proposta
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                              |
+| ----------------- | -------------------------------------------------------------------------------------------- |
+| **Nome**          | Proposta                                                                                     |
+| **Classificação** | Objeto                                                                                       |
+| **Sinônimo**      | Oferta                                                                                       |
+| **Noção**         | Valores e definições para venda ou [aluguel](#l07-aluguel) de um [imóvel](#l24-imóvel).      |
+| **Impacto**       | <ul>  <li>Define termos para [aluguel](#l07-aluguel) de um [imóvel](#l24-imóvel)</li>  </ul> |
+|                   |                                                                                              |
 
 ---
 
