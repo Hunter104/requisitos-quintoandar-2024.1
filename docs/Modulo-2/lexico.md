@@ -243,13 +243,14 @@
 
 # L15 Corretor credenciado
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                         |
+| ----------------- | --------------------------------------------------------------------------------------- |
+| **Nome**          | Corretor credenciado                                                                    |
+| **Classificação** | Objeto                                                                                  |
+| **Sinônimo**      | Agente credenciado, integro, reconhecido, autenticado.                                  |
+| **Noção**         | [Corretor](#l14-corretor) certificado por órgão competente, comprovando sua qualicação. |
+| **Impacto**       | <ul>  <li>Garante processos seguros envolvendo [imóveis](#l24-imóvel)</li>   </ul>      |
+|                   |                                                                                         |
 
 ---
 
@@ -402,8 +403,8 @@
 
 |                   |                                                                                                |
 | ----------------- | ---------------------------------------------------------------------------------------------- |
-| **Nome**          | LEXICO EXEMPLO - 1                                                                             |
-| **Classificação** | Verbo / Objeto / Estado                                                                        |
+| **Nome**          | Mensagem                                                                                       |
+| **Classificação** | Objeto                                                                                         |
 | **Sinônimo**      | Nota, recado.                                                                                  |
 | **Noção**         | Texto enviado por chat entre dois [usuários](#l49-usuário) para comunicação.                   |
 | **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) manda mensagem para outro [usuário](#l49-usuário)</li> </ul> |
