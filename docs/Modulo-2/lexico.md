@@ -341,13 +341,14 @@
 
 # L23 Gerenciar conta
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                  |
+| ----------------- | -------------------------------------------------------------------------------- |
+| **Nome**          | Gerenciar conta                                                                  |
+| **Classificação** | Verbo                                                                            |
+| **Sinônimo**      | -                                                                                |
+| **Noção**         | Botão que se clicado permite a edição de informações de uma [conta](#l13-conta). |
+| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) edita sua [conta](#l13-conta)</li>  </ul>      |
+|                   |                                                                                  |
 
 ---
 
