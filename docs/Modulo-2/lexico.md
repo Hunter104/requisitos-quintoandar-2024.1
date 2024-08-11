@@ -317,13 +317,14 @@
 
 # L21 Fazer Proposta
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                      |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Fazer Proposta                                                                                                                                                                                       |
+| **Classificação** | Verbo                                                                                                                                                                                                |
+| **Sinônimo**      | [Solicitar](#l42-solicitar).                                                                                                                                                                         |
+| **Noção**         | Evento no qual um usuário envia uma [proposta](#l37-proposta) por um [imóvel](#l24-imóvel), diferente da anterior, a um [proprietário](#l35-proprietário).                                           |
+| **Impacto**       | <ul>  <li>Usuário [propõe um novo valor](#l36-propor-um-novo-valor) por um [imóvel](#l24-imóvel)</li>  <li>Usuário envia [proposta](#l37-proposta) a um [proprietário](#l35-proprietário)</li> </ul> |
+|                   |                                                                                                                                                                                                      |
 
 ---
 
@@ -516,7 +517,7 @@
 | ----------------- | -------------------------------------------------------------------------------------------- |
 | **Nome**          | Proposta                                                                                     |
 | **Classificação** | Objeto                                                                                       |
-| **Sinônimo**      | Oferta.                                                                                       |
+| **Sinônimo**      | Oferta.                                                                                      |
 | **Noção**         | Valores e definições para venda ou [aluguel](#l07-aluguel) de um [imóvel](#l24-imóvel).      |
 | **Impacto**       | <ul>  <li>Define termos para [aluguel](#l07-aluguel) de um [imóvel](#l24-imóvel)</li>  </ul> |
 |                   |                                                                                              |
@@ -580,7 +581,7 @@
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Solicitar                                                                                                                                                                                            |
 | **Classificação** | Verbo                                                                                                                                                                                                |
-| **Sinônimo**      | Pedir nova [proposta](#l37-proposta), enviar ao [proprietário](#l35-proprietário) uma nova [proposta](#l37-proposta).                                                                                |
+| **Sinônimo**      | Pedir nova [proposta](#l37-proposta), enviar ao [proprietário](#l35-proprietário) uma nova [proposta](#l37-proposta), [fazer proposta](#l21-fazer-proposta).                                         |
 | **Noção**         | Evento no qual um usuário envia uma [proposta](#l37-proposta) por um [imóvel](#l24-imóvel), diferente da anterior, a um [proprietário](#l35-proprietário).                                           |
 | **Impacto**       | <ul>  <li>Usuário [propõe um novo valor](#l36-propor-um-novo-valor) por um [imóvel](#l24-imóvel)</li>  <li>Usuário envia [proposta](#l37-proposta) a um [proprietário](#l35-proprietário)</li> </ul> |
 |                   |                                                                                                                                                                                                      |
