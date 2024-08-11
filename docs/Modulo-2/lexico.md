@@ -496,13 +496,13 @@
 
 # L36 Propor um novo valor
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                               |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Propor um novo valor                                                                                                                                                          |
+| **Classificação** | Objeto                                                                                                                                                                        |
+| **Sinônimo**      | Enviar nova proposta, definir termos para [solicitar](#l42-solicitar).                                                                                                        |
+| **Noção**         | Botão que quando clicado permite ao [usuário](#l49-usuário) a criação de uma nova [proposta](#l37-proposta) customizada para [solicitar](#l42-solicitar) ao [proprietário](#l35-proprietário). |
+| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) cria nova [proposta](#l37-proposta) para o [proprietário](#l35-proprietário)</li> </ul>                                                                                                        |
 
 ---
 
@@ -512,7 +512,7 @@
 | ----------------- | -------------------------------------------------------------------------------------------- |
 | **Nome**          | Proposta                                                                                     |
 | **Classificação** | Objeto                                                                                       |
-| **Sinônimo**      | Oferta                                                                                       |
+| **Sinônimo**      | Oferta.                                                                                       |
 | **Noção**         | Valores e definições para venda ou [aluguel](#l07-aluguel) de um [imóvel](#l24-imóvel).      |
 | **Impacto**       | <ul>  <li>Define termos para [aluguel](#l07-aluguel) de um [imóvel](#l24-imóvel)</li>  </ul> |
 |                   |                                                                                              |
