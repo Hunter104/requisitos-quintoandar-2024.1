@@ -366,13 +366,14 @@
 
 # L25 Imóveis anunciados
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nome**          | Imóveis anunciados                                                                                                                                                                                                                                                 |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                             |
+| **Sinônimo**      | [Imóveis](#l24-imóvel) disponiveis para compra/[aluguel](#l07-aluguel).                                                                                                                                                                                            |
+| **Noção**         | Lista dos [imóveis](#l24-imóvel) [cadastrados](#l11-cadastrar-imóvel) de um [proprietário](#l35-proprietário) que estão disponíveis para compra/[aluguel](#l07-aluguel).                                                                                           |
+| **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) vê seus [imóveis](#l24-imóvel) disponíveis para compra/[aluguel](#l07-aluguel)</li>  <li>Um [usuário](#l49-usuário) poderia comprar/[alugar](#l07-aluguel) esses [imóveis](#l24-imóvel)</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                                                                                    |
 
 ---
 
