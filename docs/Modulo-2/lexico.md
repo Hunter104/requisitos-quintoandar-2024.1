@@ -403,14 +403,13 @@
 
 # L28 Imóveis anunciados
 
-|                   |                                                                                                                                                                                                                                                                    |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Imóveis anunciados                                                                                                                                                                                                                                                 |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                             |
-| **Sinônimo**      | [Imóveis](#l24-imóvel) disponiveis para compra/[aluguel](#l07-aluguel).                                                                                                                                                                                            |
-| **Noção**         | Lista dos [imóveis](#l24-imóvel) [cadastrados](#l11-cadastrar-imóvel) de um [proprietário](#l35-proprietário) que estão disponíveis para compra/[aluguel](#l07-aluguel).                                                                                           |
-| **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) vê seus [imóveis](#l24-imóvel) disponíveis para compra/[aluguel](#l07-aluguel)</li>  <li>Um [usuário](#l49-usuário) poderia comprar/[alugar](#l07-aluguel) esses [imóveis](#l24-imóvel)</li> <li>IMPACTO 3</li>  </ul> |
-|                   |                                                                                                                                                                                                                                                                    |
+|                   |                                                                                                                                                                                                                                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Imóveis anunciados                                                                                                                                                                                                                                                                               |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                           |
+| **Sinônimo**      | [Imóveis](#l24-imóvel) disponiveis para [compra](#l12-compra)/[aluguel](#l07-aluguel).                                                                                                                                                                                                           |
+| **Noção**         | Lista dos [imóveis](#l24-imóvel) [cadastrados](#l11-cadastrar-imóvel) de um [proprietário](#l35-proprietário) que estão disponíveis para [compra](#l12-compra)/[aluguel](#l07-aluguel).                                                                                                          |
+| **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) vê seus [imóveis](#l24-imóvel) disponíveis para [compra](#l12-compra)/[aluguel](#l07-aluguel)</li>  <li>Um [usuário](#l49-usuário) poderia [comprar](#l12-compra)/[alugar](#l07-aluguel) esses [imóveis](#l24-imóvel)</li> <li>IMPACTO 3</li>  </ul> |
 
 ---
 
@@ -419,7 +418,7 @@
 |                   |                                                                                                                                                                                                                                                        |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Inquilino                                                                                                                                                                                                                                              |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                 
+| **Classificação** | Objeto                                                                                                                                                                                                                                                 |
 | **Sinônimo**      | habitante, locatário, morador, residente                                                                                                                                                                                                               |
 | **Noção**         | <ul> <li>Sujeito que reside num [imóvel](#l24-imóvel) que não lhe pertence</li>  <li>aquele que vive num local que foi alugado</li>                                                                                                                    |
 | **Impacto**       | <ul>  <li>Um inquilino pode negociar [acordos](#l01-acordo) com o seu [proprietário](#l35-proprietário)</li>  <li>Um inquilino pode conversar com seu [proprietário](#l35-proprietário) por meio de [mensagens](#l28-mensagem) na aplicação</li> </ul> |
@@ -525,13 +524,13 @@
 
 # L38 Passo a passo do imóvel
 
-|                   |                                                                                                                                                         |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Passo a passo do imóvel                                                                                                                                 |
-| **Classificação** | Objeto                                                                                                                                                  |
-| **Sinônimo**      | -                                                                                                                                                       |
-| **Noção**         | Parte do app que descreve de forma linear todos os processos pelos quais um [imóvel](#l24-imóvel) passa para ser [alugado](#l07-aluguel) ou [comprado]. |
-| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) vê fluxo de [imóvel](#l24-imóvel)</li> </ul>                                                                          |
+|                   |                                                                                                                                                                      |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Passo a passo do imóvel                                                                                                                                              |
+| **Classificação** | Objeto                                                                                                                                                               |
+| **Sinônimo**      | -                                                                                                                                                                    |
+| **Noção**         | Parte do app que descreve de forma linear todos os processos pelos quais um [imóvel](#l24-imóvel) passa para ser [alugado](#l07-aluguel) ou [comprado](#l12-compra). |
+| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) vê fluxo de [imóvel](#l24-imóvel)</li> </ul>                                                                                       |
 
 ---
 
@@ -579,9 +578,8 @@
 | **Nome**          | Propostas enviadas                                                                                                                                                                                       |
 | **Classificação** | Objeto                                                                                                                                                                                                   |
 | **Sinônimo**      | -                                                                                                                                                                                                        |
-| **Noção**         | Lista de todas as [propostas](#l37-proposta), de aluguel e de compra que estão em andamento ou canceladas.                                                                                               |
+| **Noção**         | Lista de todas as [propostas](#l37-proposta), de [aluguel](#l07-aluguel) e de [compra](#l12-compra) que estão em andamento ou canceladas.                                                                |
 | **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) vê todas as [propostas](#l37-proposta) que enviou</li>  <li>[Usuário](#l49-usuário) vê se a [proposta](#l37-proposta) está em andamento ou se foi cancelada</li> </ul> |
-|                   |                                                                                                                                                                                                          |
 
 ---
 
