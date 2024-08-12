@@ -238,9 +238,9 @@
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Condomínio                                                                                                                                                  |
 | **Classificação** | Objeto                                                                                                                                                      |
-| **Sinônimo**      | copropriedade                                                                                                                                               |
-| **Noção**         | Conjunto habitacional composto por vários apartamentos ou imóveis com entrada e saída controlada                                                            |
-| **Impacto**       | <ul> <li>É possível comprar ou alugar casas de condomínio na aplicação</li>  <li>É possível filtrar apenas por casas de condomínio na aplicação</li>  </ul> |
+| **Sinônimo**      | Copropriedade.                                                                                                                                               |
+| **Noção**         | Conjunto habitacional composto por vários apartamentos ou imóveis com entrada e saída controlada.                                                            |
+| **Impacto**       | <ul> <li>É possível [comprar](#l12-compra) ou [alugar](#l07-aluguel) casas de condomínio na aplicação</li>  <li>É possível [filtrar apenas](#l14-condomínio) por casas de condomínio na aplicação</li>  </ul> |
 
 ---
 
@@ -264,7 +264,7 @@
 | **Classificação** | Objeto                                                                                                                                                                                |
 | **Sinônimo**      | agenciador, agente, despachante, inculcador, intermediário                                                                                                                            |
 | **Noção**         | Agente de negócios cuja função consisnte em aproximar as partes intereressadas em determinada transação                                                                               |
-| **Impacto**       | <ul>  <li>O corretor tem como função facilitar a interação entre compradores/[inquilinos](#l26-inquilino) e [propietário](#l35-proprietário) de [imóveis](#l24-imóvel)  </li>   </ul> |
+| **Impacto**       | <ul>  <li>O corretor tem como função facilitar a interação entre [compradores](#l13-comprador)/[inquilinos](#l26-inquilino) e [propietário](#l35-proprietário) de [imóveis](#l24-imóvel)  </li>   </ul> |
 
 ---
 
