@@ -156,16 +156,16 @@
 
 ---
 
-<!-- Qual seria a relevância disso? -->
 # L08 Alterar o país
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                 |
+| ----------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Alterar o país                                                                                                  |
+| **Classificação** | Objeto                                                                                                          |
+| **Sinônimo**      | Mudar região de [busca de imóvel](#l10-buscar-imóveis).                                                         |
+| **Noção**         | Permite [filtrar](#l22-filtro)/selecionar em qual país a [busca de imóvel](#l10-buscar-imóveis) será realizada. |
+| **Impacto**       | <ul>  <li>[Ususário](#l49-usuário) seleciona país</li> </ul>                                                     |
+|                   |                                                                                                                 |
 
 ---
 
