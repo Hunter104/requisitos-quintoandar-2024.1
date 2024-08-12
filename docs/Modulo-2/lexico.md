@@ -1,8 +1,8 @@
-<center>
+<div style="text-align: center;">
 
 # Léxicos
 
-</center>
+</div>
 
 ---
 
@@ -81,20 +81,20 @@
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Acordo                                                                                                                                                                                                            |
 | **Classificação** | Objeto                                                                                                                                                                                                            |
-| **Sinônimo**      | contrato, trato, tratado, pacto, convênio.                                                                                                                                                                        |
-| **Noção**         | <ul> <li> Um ajuste formal entre partes <li>Um [proprietário](#l39-proprietário) e um futuro [inquilino](#l29-inquilino)  concordam em relação aos termos de negociação de um [imóvel](#l27-imóvel) . </li>       |
+| **Sinônimo**      | Contrato, trato, tratado, pacto, convênio.                                                                                                                                                                        |
+| **Noção**         | <ul> <li> Um ajuste formal entre partes. <li>Um [proprietário](#l39-proprietário) e um futuro [inquilino](#l29-inquilino)  concordam em relação aos termos de negociação de um [imóvel](#l27-imóvel) . </li>      |
 | **Impacto**       | <ul>  <li>[Proprietário](#l39-proprietário) realiza acordo com [inquilino](#l29-inquilino).</li> <li> [Proprietário](#l39-proprietário) pode negociar um acordo com seu [inquilino](#l29-inquilino).</li>   </ul> |
 
 ---
 
 # L02 Adicionar imóvel
 
-|                   |                                                                                                                                                                                                                                                                                                   |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Adicionar imóvel                                                                                                                                                                                                                                                                                  |
-| **Classificação** | Verbo                                                                                                                                                                                                                                                                                             |
-| **Sinônimo**      | Inserir [imóvel](#l27-imóvel), cadastrar [imóvel](#l27-imóvel).                                                                                                                                                                                                                                   |
-| **Noção**         | O processo de incluir um novo [imóvel](#l27-imóvel) em um sistema ou banco de dados por um [proprietário](#l39-proprietário).                                                                                                                                                                     |
+|                   |                                                                                                                                                                                                                                                                                                                      |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Adicionar imóvel                                                                                                                                                                                                                                                                                                     |
+| **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                |
+| **Sinônimo**      | Inserir [imóvel](#l27-imóvel), cadastrar [imóvel](#l27-imóvel).                                                                                                                                                                                                                                                      |
+| **Noção**         | O processo de incluir um novo [imóvel](#l27-imóvel) em um sistema ou banco de dados por um [proprietário](#l39-proprietário).                                                                                                                                                                                        |
 | **Impacto**       | <ul> <li>Facilita a gestão e o acompanhamento dos [imóveis](#l27-imóvel) cadastrados no sistema.</li> <li>Aumenta a visibilidade do [imóvel](#l27-imóvel) para potenciais [interessados](#l30-interessado).</li> <li>Permite a realização de transações ou ofertas relacionadas ao [imóvel](#l27-imóvel).</li> </ul> |
 
 ---
@@ -142,20 +142,20 @@
 | **Nome**          | Alertas criados                                                                                                                                                                                                               |
 | **Classificação** | Objeto                                                                                                                                                                                                                        |
 | **Sinônimo**      | Notificações criadas.                                                                                                                                                                                                         |
-| **Noção**         | Alertas criados referem-se a notificações ou avisos que foram gerados por um [usuário](#l53-usuário)                                                                                                                          |
+| **Noção**         | Alertas criados referem-se a notificações ou avisos que foram gerados por um [usuário](#l53-usuário).                                                                                                                         |
 | **Impacto**       | <ul>  <li>Facilita o monitoramento e a gestão de eventos importantes ao manter um registro de [alertas](#l05-alerta) .</li> <li>Ajuda a garantir que nenhuma notificação importante seja perdida ou negligenciada.</li> </ul> |
 
 ---
 
 # L07 Aluguel
 
-|                   |                                                                                                                                                                                                                                                              |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Aluguel                                                                                                                                                                                                                                                      |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                       |
-| **Sinônimo**      | Locação, arrendamento.                                                                                                                                                                                                                                       |
-| **Noção**         | Aluguel é o contrato ou acordo pelo qual uma parte [proprietário](#l39-proprietário)  concede à outra parte [inquilino](#l29-inquilino) o direito de usar um [imóvel](#l27-imóvel) , por um período determinado em troca de um pagamento periódico.          |
-| **Impacto**       | <ul>  <li>Proporciona uma fonte de receita contínua para o [proprietário](#l39-proprietário) .</li>  <li>Oferece aos [inquilino](#l29-inquilino) a possibilidade de usar um [imóvel](#l27-imóvel)  sem a necessidade de [compra](#l12-compra) .</li>   </ul> |
+|                   |                                                                                                                                                                                                                                                             |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Aluguel                                                                                                                                                                                                                                                     |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                      |
+| **Sinônimo**      | Locação, arrendamento.                                                                                                                                                                                                                                      |
+| **Noção**         | Aluguel é o contrato ou acordo pelo qual uma parte [proprietário](#l39-proprietário)  concede à outra parte [inquilino](#l29-inquilino) o direito de usar um [imóvel](#l27-imóvel) , por um período determinado em troca de um pagamento periódico.         |
+| **Impacto**       | <ul>  <li>Proporciona uma fonte de receita contínua para o [proprietário](#l39-proprietário).</li>  <li>Oferece aos [inquilino](#l29-inquilino) a possibilidade de usar um [imóvel](#l27-imóvel)  sem a necessidade de [compra](#l12-compra) .</li>   </ul> |
 
 ---
 
@@ -179,7 +179,7 @@
 | **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Sinônimo**      | Divulgar [imóvel](#l27-imóvel), declara [imóvel](#l27-imóvel) , cadastrar [imóvel](#l27-imóvel).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Noção**         | <ul>  <li>Tarefa realizada pelo [proprietário](#l39-proprietário)  do [imóvel](#l27-imóvel).</li> <li> Acontece quando um [proprietário](#l39-proprietário) passa pelo processo de cadastro no aplicativo.</li> <li> [Proprietário](#l39-proprietário) vai para a aba de menu e clica em anunciar imóvel.</li> <li> [Proprietário](#l39-proprietário)  insere seus dados pessoais e dados do [imóvel](#l27-imóvel). </li> <li> Ao finalizar o cadastro a empresa agenda uma visita para tirar fotos do [imóvel](#l27-imóvel) usando um [fotografo](#l25-fotografo) . </li> <li> o [imóvel](#l27-imóvel)  é publicado </li> </ul> |
-| **Impacto**       | <ul>  <li> O [imóvel](#l24-imóvel) fica disponível para busca na aplicação</li>  <li> O [imóvel](#l24-imóvel) fica disponível para propostas de [aluguel](#l07-aluguel) ou [compra](#l12-compra).</li> <li> O [imóvel](#l24-imóvel) fica disponível para agendamento de [visitas](#l51-visita). </li> <li> O [proprietário](#l39-proprietário) fica disponível para receber mensagens, negociações e [propostas](#l41-proposta). </li>  </ul>                                                                                                                                                                                    |
+| **Impacto**       | <ul>  <li> O [imóvel](#l27-imóvel) fica disponível para busca na aplicação</li>  <li> O [imóvel](#l27-imóvel) fica disponível para propostas de [aluguel](#l07-aluguel) ou [compra](#l12-compra).</li> <li> O [imóvel](#l27-imóvel) fica disponível para agendamento de [visitas](#l51-visita). </li> <li> O [proprietário](#l39-proprietário) fica disponível para receber mensagens, negociações e [propostas](#l41-proposta). </li>  </ul>                                                                                                                                                                                    |
 
 ---
 
@@ -189,9 +189,9 @@
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Buscar imóveis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Sinônimo**      | procurar [imóveis](#l27-imóvel) , descobrir [imóveis](#l27-imóvel)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Noção**         | <ul> <li> Tarefa realizada por [inquilino](#l29-inquilino) / [comprador](#l13-comprador)  ou compradores.</li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador)  vai para a aba de busca no aplicativo. </li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) coloca a região  onde os [imóveis](#l27-imóvel)  devem estar localizados. </li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) escolhe se os [imóveis](#l27-imóvel) devem estar dispoíveis para [aluguel](#l07-aluguel) ou para [compra](#l12-compra).</li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) pode aplicar zero ou mais [ filtros ](#l22-filtro) para busca mais específica.</li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) pode aplicar um critério de ordenação. </li> </ul> |
-| **Impacto**       | <ul>  <li> [Imóveis](#l24-imóvel) disponíveis que se adequam aos [ filtros ](#l22-filtro) aparecerão no aplicativo.</li>  <li> [Imóveis](#l24-imóvel) aparecerão na ordem escolhida.</li> <li>[Imóveis](#l24-imóvel) aparecerão com as informações mais relevantes, como fotos, preço, tamanho, quantidade de quartos e vagas de estacionamento, e localização.</li>  </ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Sinônimo**      | Procurar [imóveis](#l27-imóvel) , descobrir [imóveis](#l27-imóvel).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Noção**         | <ul> <li> Tarefa realizada por [inquilino](#l29-inquilino) / [comprador](#l13-comprador)  ou compradores.</li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador)  vai para a aba de busca no aplicativo. </li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) coloca a região  onde os [imóveis](#l27-imóvel)  devem estar localizados. </li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) escolhe se os [imóveis](#l27-imóvel) devem estar dispoíveis para [aluguel](#l07-aluguel) ou para [compra](#l12-compra).</li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) pode aplicar zero ou mais [ filtros ](#l24-filtro) para busca mais específica.</li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) pode aplicar um critério de ordenação. </li> </ul> |
+| **Impacto**       | <ul>  <li> [Imóveis](#l27-imóvel) disponíveis que se adequam aos  [filtros](#l24-filtro) aparecerão no aplicativo.</li>  <li> [Imóveis](#l27-imóvel) aparecerão na ordem escolhida.</li> <li>[Imóveis](#l27-imóvel) aparecerão com as informações mais relevantes, como fotos, preço, tamanho, quantidade de quartos e vagas de estacionamento, e localização.</li>  </ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ---
 
@@ -233,50 +233,49 @@
 
 # L14 Condomínio
 
-|                   |                                                                                                                                                             |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Condomínio                                                                                                                                                  |
-| **Classificação** | Objeto                                                                                                                                                      |
-| **Sinônimo**      | Copropriedade.                                                                                                                                               |
-| **Noção**         | Conjunto habitacional composto por vários apartamentos ou imóveis com entrada e saída controlada.                                                            |
-| **Impacto**       | <ul> <li>É possível [comprar](#l12-compra) ou [alugar](#l07-aluguel) casas de condomínio na aplicação</li>  <li>É possível [filtrar apenas](#l14-condomínio) por casas de condomínio na aplicação</li>  </ul> |
+|                   |                                                                                                                                                                                                                 |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Condomínio                                                                                                                                                                                                      |
+| **Classificação** | Objeto                                                                                                                                                                                                          |
+| **Sinônimo**      | Copropriedade.                                                                                                                                                                                                  |
+| **Noção**         | Conjunto habitacional composto por vários apartamentos ou [imóveis](#l27-imóvel) com entrada e saída controlada.                                                                                                |
+| **Impacto**       | <ul> <li>É possível [comprar](#l12-compra) ou [alugar](#l07-aluguel) casas de condomínio na aplicação.</li>  <li>É possível [filtrar apenas](#l14-condomínio) por casas de condomínio na aplicação.</li>  </ul> |
 
 ---
 
 # L15 Conta
 
-|                   |                                                                                                                                                                                                                                                                                                                                                           |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Conta                                                                                                                                                                                                                                                                                                                                                     |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                    |
-| **Sinônimo**      |                                                                                                                                                                                                                                                                                                                                                           |
-| **Noção**         | Registro utilizado por um fornecedor de serviços online para identificar um assinante ou cliente                                                                                                                                                                                                                                                          |
-| **Impacto**       | <ul>  <li>Um [usuário](#l49-usuário) cria uma conta para utilizar o aplicativo </li>  <li>Um [usuário](#l49-usuário) que deseja alterar os dados da sua conta pode ir [gerenciar sua conta](#l23-gerenciar-conta) </li> <li>Um [usuário](#l49-usuário) que deseja cessar o uso do aplicativo pode ir [deletar sua conta](#l17-deletar-conta) </li>  </ul> |
+|                   |                                                                                                                                                                                                                                                                                                                                                              |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Conta                                                                                                                                                                                                                                                                                                                                                        |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                       |
+| **Sinônimo**      | -                                                                                                                                                                                                                                                                                                                                                            |
+| **Noção**         | Registro utilizado por um fornecedor de serviços online para identificar um assinante ou cliente.                                                                                                                                                                                                                                                            |
+| **Impacto**       | <ul>  <li>Um [usuário](#l53-usuário) cria uma conta para utilizar o aplicativo. </li>  <li>Um [usuário](#l53-usuário) que deseja alterar os dados da sua conta pode ir [gerenciar sua conta](#l26-gerenciar-conta). </li> <li>Um [usuário](#l53-usuário) que deseja cessar o uso do aplicativo pode ir [deletar sua conta](#l19-deletar-conta). </li>  </ul> |
 
 ---
 
 # L16 Corretor
 
-|                   |                                                                                                                                                                                       |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Corretor                                                                                                                                                                              |
-| **Classificação** | Objeto                                                                                                                                                                                |
-| **Sinônimo**      | agenciador, agente, despachante, inculcador, intermediário                                                                                                                            |
-| **Noção**         | Agente de negócios cuja função consisnte em aproximar as partes intereressadas em determinada transação                                                                               |
-| **Impacto**       | <ul>  <li>O corretor tem como função facilitar a interação entre [compradores](#l13-comprador)/[inquilinos](#l26-inquilino) e [propietário](#l35-proprietário) de [imóveis](#l24-imóvel)  </li>   </ul> |
+|                   |                                                                                                                                                                                                          |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Corretor                                                                                                                                                                                                 |
+| **Classificação** | Objeto                                                                                                                                                                                                   |
+| **Sinônimo**      | agenciador, agente, despachante, inculcador, intermediário.                                                                                                                                              |
+| **Noção**         | Agente de negócios cuja função consisnte em aproximar as partes intereressadas em determinada transação.                                                                                                 |
+| **Impacto**       | <ul>  <li>O corretor tem como função facilitar a interação entre [compradores](#l13-comprador)/[inquilinos](#l29-inquilino) e [propietário](#l39-proprietário) de [imóveis](#l27-imóvel).  </li>   </ul> |
 
 ---
 
 # L17 Corretor credenciado
 
-|                   |                                                                                         |
-|-------------------|-----------------------------------------------------------------------------------------|
-| **Nome**          | Corretor credenciado                                                                    |
-| **Classificação** | Objeto                                                                                  |
-| **Sinônimo**      | Agente credenciado, integro, reconhecido, autenticado.                                  |
-| **Noção**         | [Corretor](#l14-corretor) certificado por órgão competente, comprovando sua qualicação. |
-| **Impacto**       | <ul>  <li>Garante processos seguros envolvendo [imóveis](#l24-imóvel)</li>   </ul>      |
-|                   |                                                                                         |
+|                   |                                                                                          |
+|-------------------|------------------------------------------------------------------------------------------|
+| **Nome**          | Corretor credenciado                                                                     |
+| **Classificação** | Objeto                                                                                   |
+| **Sinônimo**      | Agente credenciado, integro, reconhecido, autenticado.                                   |
+| **Noção**         | [Corretor](#l13-comprador) certificado por órgão competente, comprovando sua qualicação. |
+| **Impacto**       | <ul>  <li>Garante processos seguros envolvendo [imóveis](#l27-imóvel).</li>   </ul>      |
 
 ---
 
@@ -294,13 +293,13 @@
 
 # L19 Deletar conta
 
-|                   |                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Deletar conta                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Sinônimo**      |                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Noção**         | <ul> <li>Tarefa realizada por um [usuário](#l49-usuário) </li> <li> Acontece quando um [usuário](#l49-usuário) clica no botão de deletar [conta](#l13-conta)  </li> <li> O [usuário](#l49-usuário) aperta no botão de excluir a sua [conta](#l13-conta) e em seguida clica em continuar </li> <li> O [usuário](#l49-usuário) responde um formulário </li> <li> a equipe do quintoandar avalia a exclusão dos dados </li> </ul> |
-| **Impacto**       | <ul>  <li>A [conta](#l13-conta) do [usuário](#l49-usuário) é excluida do sistema</li>  <li>O [usuário](#l49-usuário) perde acesso ao sistema</li>  </ul>                                                                                                                                                                                                                                                                       |
+|                   |                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Deletar conta                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Sinônimo**      |                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Noção**         | <ul> <li>Tarefa realizada por um [usuário](#l53-usuário). </li> <li> Acontece quando um [usuário](#l53-usuário) clica no botão de deletar [conta](#l15-conta).  </li> <li> O [usuário](#l53-usuário) aperta no botão de excluir a sua [conta](#l15-conta) e em seguida clica em continuar. </li> <li> O [usuário](#l53-usuário) responde um formulário. </li> <li> a equipe do quintoandar avalia a exclusão dos dados. </li> </ul> |
+| **Impacto**       | <ul>  <li>A [conta](#l15-conta) do [usuário](#l53-usuário) é excluida do sistema.</li>  <li>O [usuário](#l53-usuário) perde acesso ao sistema.</li>  </ul>                                                                                                                                                                                                                                                                          |
 
 ---
 
@@ -335,32 +334,32 @@
 | **Nome**          | Favoritos                                                                                                                                                                                              |
 | **Classificação** | Objeto                                                                                                                                                                                                 |
 | **Sinônimo**      | Prediletos, escolhidos, selecionados.                                                                                                                                                                  |
-| **Noção**         | Lista de [imóveis](#l24-imóvel) selecionados/favoritados por um [usuário](#l49-usuário).                                                                                                               |
-| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) pode adicionar e remover [imóveis](#l24-imóvel) dessa lista</li>  <li>[Usuário](#l49-usuário) provavelmente tem [interesse] nesses [imóveis](#l24-imóvel)</li> </ul> |
+| **Noção**         | Lista de [imóveis](#l27-imóvel) selecionados/favoritados por um [usuário](#l53-usuário).                                                                                                               |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) pode adicionar e remover [imóveis](#l27-imóvel) dessa lista.</li>  <li>[Usuário](#l53-usuário) provavelmente tem interesse nesses [imóveis](#l27-imóvel).</li> </ul> |
 
 ---
 
 # L23 Fazer Proposta
 
-|                   |                                                                                                                                                                                                      |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Fazer Proposta                                                                                                                                                                                       |
-| **Classificação** | Verbo                                                                                                                                                                                                |
-| **Sinônimo**      | [Solicitar](#l42-solicitar).                                                                                                                                                                         |
-| **Noção**         | Evento no qual um usuário envia uma [proposta](#l37-proposta) por um [imóvel](#l24-imóvel), diferente da anterior, a um [proprietário](#l35-proprietário).                                           |
-| **Impacto**       | <ul>  <li>Usuário [propõe um novo valor](#l36-propor-um-novo-valor) por um [imóvel](#l24-imóvel)</li>  <li>Usuário envia [proposta](#l37-proposta) a um [proprietário](#l35-proprietário)</li> </ul> |
+|                   |                                                                                                                                                                                                                                        |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Fazer Proposta                                                                                                                                                                                                                         |
+| **Classificação** | Verbo                                                                                                                                                                                                                                  |
+| **Sinônimo**      | [Solicitar](#l46-solicitar).                                                                                                                                                                                                           |
+| **Noção**         | Evento no qual um usuário envia uma [proposta](#l41-proposta) por um [imóvel](#l27-imóvel), diferente da anterior, a um [proprietário](#l39-proprietário).                                                                             |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) [propõe um novo valor](#l40-propor-um-novo-valor) por um [imóvel](#l27-imóvel).</li>  <li>[Usuário](#l53-usuário) envia [proposta](#l41-proposta) a um [proprietário](#l39-proprietário).</li> </ul> |
 
 ---
 
 # L24 Filtro
 
-|                   |                                                                                                                                               |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Filtro                                                                                                                                        |
-| **Classificação** | Objeto                                                                                                                                        |
-| **Sinônimo**      |                                                                                                                                               |
-| **Noção**         | ferramentas que permitem à [usuários](#l49-usuário) de uma ferramenta de busca a personalizar os resultados                                   |
-| **Impacto**       | <ul>  <li>Um [usuário](#l49-usuário) que está [buscando um imóvel](#l10-buscar-imóveis) a ser mais específico em suas preferências</li> </ul> |
+|                   |                                                                                                                                                |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Filtro                                                                                                                                         |
+| **Classificação** | Objeto                                                                                                                                         |
+| **Sinônimo**      | Seletor.                                                                                                                                       |
+| **Noção**         | ferramentas que permitem à [usuários](#l53-usuário) de uma ferramenta de busca a personalizar os resultados.                                   |
+| **Impacto**       | <ul>  <li>Um [usuário](#l53-usuário) que está [buscando um imóvel](#l10-buscar-imóveis) a ser mais específico em suas preferências.</li> </ul> |
 
 ---
 
@@ -383,44 +382,44 @@
 | **Nome**          | Gerenciar conta                                                                  |
 | **Classificação** | Verbo                                                                            |
 | **Sinônimo**      | -                                                                                |
-| **Noção**         | Botão que se clicado permite a edição de informações de uma [conta](#l13-conta). |
-| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) edita sua [conta](#l13-conta)</li>  </ul>      |
+| **Noção**         | Botão que se clicado permite a edição de informações de uma [conta](#l15-conta). |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) edita sua [conta](#l15-conta).</li>  </ul>     |
 
 ---
 
 # L27 Imóvel
 
-|                   |                                                                                                                                                                                                                    |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Imóvel                                                                                                                                                                                                             |
-| **Classificação** | Objeto                                                                                                                                                                                                             |
-| **Sinônimo**      | terreno, edificação, propriedade imobiliária                                                                                                                                                                       |
-| **Noção**         | Bem ou propriedade que não é móvel (terra, casa, apartamento, chácara etc.)                                                                                                                                        |
-| **Impacto**       | <ul>  <li>Um [usuário](#l49-usuário) pode [buscar imóveis](#l10-buscar-imóveis) na aplicação </li>  <li>Um [proprietário](#l35-proprietário) pode [anunciar imóvel](#l09-anunciar-imóvel) na aplicação </li> </ul> |
+|                   |                                                                                                                                                                                                                      |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Imóvel                                                                                                                                                                                                               |
+| **Classificação** | Objeto                                                                                                                                                                                                               |
+| **Sinônimo**      | terreno, edificação, propriedade imobiliária.                                                                                                                                                                        |
+| **Noção**         | Bem ou propriedade que não é móvel (terra, casa, apartamento, chácara etc.).                                                                                                                                         |
+| **Impacto**       | <ul>  <li>Um [usuário](#l53-usuário) pode [buscar imóveis](#l10-buscar-imóveis) na aplicação. </li>  <li>Um [proprietário](#l39-proprietário) pode [anunciar imóvel](#l09-anunciar-imóvel) na aplicação. </li> </ul> |
 
 ---
 
 # L28 Imóveis anunciados
 
-|                   |                                                                                                                                                                                                                                                                                                  |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Imóveis anunciados                                                                                                                                                                                                                                                                               |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                           |
-| **Sinônimo**      | [Imóveis](#l24-imóvel) disponiveis para [compra](#l12-compra)/[aluguel](#l07-aluguel).                                                                                                                                                                                                           |
-| **Noção**         | Lista dos [imóveis](#l24-imóvel) [cadastrados](#l11-cadastrar-imóvel) de um [proprietário](#l35-proprietário) que estão disponíveis para [compra](#l12-compra)/[aluguel](#l07-aluguel).                                                                                                          |
-| **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) vê seus [imóveis](#l24-imóvel) disponíveis para [compra](#l12-compra)/[aluguel](#l07-aluguel)</li>  <li>Um [usuário](#l49-usuário) poderia [comprar](#l12-compra)/[alugar](#l07-aluguel) esses [imóveis](#l24-imóvel)</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                                                                                                 |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Imóveis anunciados                                                                                                                                                                                                                                                              |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                          |
+| **Sinônimo**      | [Imóveis](#l27-imóvel) disponiveis para [compra](#l12-compra)/[aluguel](#l07-aluguel).                                                                                                                                                                                          |
+| **Noção**         | Lista dos [imóveis](#l27-imóvel) [cadastrados](#l11-cadastrar-imóvel) de um [proprietário](#l39-proprietário) que estão disponíveis para [compra](#l12-compra)/[aluguel](#l07-aluguel).                                                                                         |
+| **Impacto**       | <ul>  <li>[Proprietário](#l39-proprietário) vê seus [imóveis](#l27-imóvel) disponíveis para [compra](#l12-compra)/[aluguel](#l07-aluguel).</li>  <li>Um [usuário](#l53-usuário) poderia [comprar](#l12-compra)/[alugar](#l07-aluguel) esses [imóveis](#l27-imóvel).</li>  </ul> |
 
 ---
 
 # L29 Inquilino
 
-|                   |                                                                                                                                                                                                                                                        |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Inquilino                                                                                                                                                                                                                                              |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                 |
-| **Sinônimo**      | habitante, locatário, morador, residente                                                                                                                                                                                                               |
-| **Noção**         | <ul> <li>Sujeito que reside num [imóvel](#l24-imóvel) que não lhe pertence</li>  <li>aquele que vive num local que foi alugado</li>                                                                                                                    |
-| **Impacto**       | <ul>  <li>Um inquilino pode negociar [acordos](#l01-acordo) com o seu [proprietário](#l35-proprietário)</li>  <li>Um inquilino pode conversar com seu [proprietário](#l35-proprietário) por meio de [mensagens](#l28-mensagem) na aplicação</li> </ul> |
+|                   |                                                                                                                                                                                                                                                                                                 |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Inquilino                                                                                                                                                                                                                                                                                       |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                          |
+| **Sinônimo**      | habitante, locatário, morador, residente.                                                                                                                                                                                                                                                       |
+| **Noção**         | <ul> <li>Sujeito que reside num [imóvel](#l27-imóvel) que não lhe pertence.</li>  <li>aquele que vive num local que foi alugado.</li>                                                                                                                                                           |
+| **Impacto**       | <ul>  <li>Um [inquilino](#l29-inquilino)  pode negociar [acordos](#l01-acordo) com o seu [proprietário](#l39-proprietário).</li>  <li>Um [inquilino](#l29-inquilino)  pode conversar com seu [proprietário](#l39-proprietário)  por meio de [mensagens](#l32-mensagem) na aplicação.</li> </ul> |
 
 ---
 
@@ -712,11 +711,11 @@
 
 ---
 
-<center>
+<div style="text-align: center;">
 
 # Histórico de versão
 
-</center>
+</div>
 
 <div style="margin: 0 auto; width: fit-content;">
 
