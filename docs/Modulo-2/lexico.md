@@ -93,9 +93,9 @@
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Adicionar imóvel                                                                                                                                                                                                                                                                                  |
 | **Classificação** | Verbo                                                                                                                                                                                                                                                                                             |
-| **Sinônimo**      | Inserir [imóvel](#l27-imóvel), Cadastrar [imóvel](#l27-imóvel).                                                                                                                                                                                                                                   |
+| **Sinônimo**      | Inserir [imóvel](#l27-imóvel), cadastrar [imóvel](#l27-imóvel).                                                                                                                                                                                                                                   |
 | **Noção**         | O processo de incluir um novo [imóvel](#l27-imóvel) em um sistema ou banco de dados por um [proprietário](#l39-proprietário).                                                                                                                                                                     |
-| **Impacto**       | <ul> <li>Facilita a gestão e o acompanhamento dos [imóveeis](#l27-imóvel) cadastrados no sistema.</li> <li>Aumenta a visibilidade do [imóvel](#l27-imóvel) para potenciais interessados.</li> <li>Permite a realização de transações ou ofertas relacionadas ao [imóvel](#l27-imóvel).</li> </ul> |
+| **Impacto**       | <ul> <li>Facilita a gestão e o acompanhamento dos [imóveis](#l27-imóvel) cadastrados no sistema.</li> <li>Aumenta a visibilidade do [imóvel](#l27-imóvel) para potenciais [interessados](#l30-interessado).</li> <li>Permite a realização de transações ou ofertas relacionadas ao [imóvel](#l27-imóvel).</li> </ul> |
 
 ---
 
@@ -105,7 +105,7 @@
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Afiliado                                                                                                                                                                              |
 | **Classificação** | Objeto                                                                                                                                                                                |
-| **Sinônimo**      | Associado, Parceiro.                                                                                                                                                                  |
+| **Sinônimo**      | Associado, parceiro.                                                                                                                                                                  |
 | **Noção**         | Um afiliado é uma [usuário](#l53-usuário) que está associada para promover ou vender produtos ou serviços em troca de uma comissão ou benefício.                                      |
 | **Impacto**       | <ul> <li>Amplia o alcance de produtos ou serviços por meio de parcerias estratégicas.</li> <li>Gera receita adicional por meio de comissões ou benefícios para o afiliado.</li> </ul> |
 
@@ -117,7 +117,7 @@
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Ajuda e atendimento                                                                                                                                                                                                                                                                  |
 | **Classificação** | Objeto                                                                                                                                                                                                                                                                               |
-| **Sinônimo**      | Suporte, Assistência.                                                                                                                                                                                                                                                                |
+| **Sinônimo**      | Suporte, assistência.                                                                                                                                                                                                                                                                |
 | **Noção**         | Ajuda e atendimento referem-se aos serviços oferecidos para auxiliar [usuários](#l53-usuário) com dúvidas, pode incluir suporte técnico, orientação e resolução de problemas.                                                                                                        |
 | **Impacto**       | <ul>  <li>Um [usuário](#l53-usuário) pode acessar a área de ajuda e atendimento para resolver uma dúvida rápida.</li>  <li>Um [usuário](#l53-usuário) pode acessar a área de ajuda e atendimento para obter suporte técnico em caso de algum problema com o aplicativo.</li>   </ul> |
 
@@ -129,7 +129,7 @@
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Alerta                                                                                                                                                                               |
 | **Classificação** | Objeto                                                                                                                                                                               |
-| **Sinônimo**      | Aviso, Notificação.                                                                                                                                                                  |
+| **Sinônimo**      | Aviso, notificação.                                                                                                                                                                  |
 | **Noção**         | Um alerta é uma [mensagem](#l32-mensagem) ou sinal que informa sobre uma situação que requer atenção imediata.                                                                       |
 | **Impacto**       | <ul>  <li>Um alerta notifica situações importantes para [inquilinos](#l29-inquilino) ou para [proprietários](#l39-proprietário) por meio de notificações de smartphones. </li> </ul> |
 
@@ -153,7 +153,7 @@
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Aluguel                                                                                                                                                                                                                                                      |
 | **Classificação** | Objeto                                                                                                                                                                                                                                                       |
-| **Sinônimo**      | Locação, Arrendamento.                                                                                                                                                                                                                                       |
+| **Sinônimo**      | Locação, arrendamento.                                                                                                                                                                                                                                       |
 | **Noção**         | Aluguel é o contrato ou acordo pelo qual uma parte [proprietário](#l39-proprietário)  concede à outra parte [inquilino](#l29-inquilino) o direito de usar um [imóvel](#l27-imóvel) , por um período determinado em troca de um pagamento periódico.          |
 | **Impacto**       | <ul>  <li>Proporciona uma fonte de receita contínua para o [proprietário](#l39-proprietário) .</li>  <li>Oferece aos [inquilino](#l29-inquilino) a possibilidade de usar um [imóvel](#l27-imóvel)  sem a necessidade de [compra](#l12-compra) .</li>   </ul> |
 
@@ -237,9 +237,9 @@
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Condomínio                                                                                                                                                  |
 | **Classificação** | Objeto                                                                                                                                                      |
-| **Sinônimo**      | copropriedade                                                                                                                                               |
-| **Noção**         | Conjunto habitacional composto por vários apartamentos ou imóveis com entrada e saída controlada                                                            |
-| **Impacto**       | <ul> <li>É possível comprar ou alugar casas de condomínio na aplicação</li>  <li>É possível filtrar apenas por casas de condomínio na aplicação</li>  </ul> |
+| **Sinônimo**      | Copropriedade.                                                                                                                                               |
+| **Noção**         | Conjunto habitacional composto por vários apartamentos ou imóveis com entrada e saída controlada.                                                            |
+| **Impacto**       | <ul> <li>É possível [comprar](#l12-compra) ou [alugar](#l07-aluguel) casas de condomínio na aplicação</li>  <li>É possível [filtrar apenas](#l14-condomínio) por casas de condomínio na aplicação</li>  </ul> |
 
 ---
 
@@ -263,7 +263,7 @@
 | **Classificação** | Objeto                                                                                                                                                                                |
 | **Sinônimo**      | agenciador, agente, despachante, inculcador, intermediário                                                                                                                            |
 | **Noção**         | Agente de negócios cuja função consisnte em aproximar as partes intereressadas em determinada transação                                                                               |
-| **Impacto**       | <ul>  <li>O corretor tem como função facilitar a interação entre compradores/[inquilinos](#l26-inquilino) e [propietário](#l35-proprietário) de [imóveis](#l24-imóvel)  </li>   </ul> |
+| **Impacto**       | <ul>  <li>O corretor tem como função facilitar a interação entre [compradores](#l13-comprador)/[inquilinos](#l26-inquilino) e [propietário](#l35-proprietário) de [imóveis](#l24-imóvel)  </li>   </ul> |
 
 ---
 
