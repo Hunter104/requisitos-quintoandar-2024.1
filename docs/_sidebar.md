@@ -94,7 +94,7 @@
         - [L22 - Favoritos](Modulo-2/lexico.md#l22-favoritos)
         - [L23 - Fazer Proposta](Modulo-2/lexico.md#l23-fazer-proposta)
         - [L24 - Filtro](Modulo-2/lexico.md#l24-filtro)
-        - [L25 - Fotografo](Modulo-2/lexico.md#l25-fotografo)
+        - [L25 - Fotógrafo](Modulo-2/lexico.md#l25-fotógrafo)
         - [L26 - Gerenciar conta](Modulo-2/lexico.md#l26-gerenciar-conta)
         - [L27 - Imóvel](Modulo-2/lexico.md#l27-imóvel)
         - [L28 - Imóveis anunciados](Modulo-2/lexico.md#l28-imóveis-anunciados)
