@@ -111,7 +111,6 @@
 
 ---
 
-
 # L04 Ajuda e atendimento
 
 |                   |                                                                                                                                                                                                                                                                                      |
@@ -386,7 +385,6 @@
 | **Sinônimo**      | -                                                                                |
 | **Noção**         | Botão que se clicado permite a edição de informações de uma [conta](#l13-conta). |
 | **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) edita sua [conta](#l13-conta)</li>  </ul>      |
-|                   |                                                                                  |
 
 ---
 
@@ -444,82 +442,81 @@
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | IPTU                                                                                                                                                                                                                                                                            |
 | **Classificação** | Objeto                                                                                                                                                                                                                                                                          |
-| **Sinônimo**      |                                                                                                                                                                                                                                                                                 |
-| **Noção**         | <ul><li>Imposto Predial e Territorial Urbano</li> <li>imposto que incide sobre todas as pessoas físicas ou jurídicas que possuam propriedades privadas urbanas</li></ul>                                                                                                        |
-| **Impacto**       | <ul>  <li>O [proprietário](#l35-proprietário) de um [imóvel](#l24-imóvel) geralmente é responsável por pagar o IPTU</li>  <li>Um [ usuário ]( #l49-usuário ) que esteja [buscando imóveis](#l10-buscar-imóveis) podera ver o valor do IPTU na interface da aplicação</li> </ul> |
+| **Sinônimo**      | Imposto Predial e Territorial Urbano.                                                                                                                                                                                                                                           |
+| **Noção**         | <ul><li>Imposto que incide sobre todas as pessoas físicas ou jurídicas que possuam propriedades privadas urbanas.</li></ul>                                                                                                                                                     |
+| **Impacto**       | <ul>  <li>O [proprietário](#l39-proprietário) de um [imóvel](#l27-imóvel) geralmente é responsável por pagar o IPTU.</li>  <li>Um [ usuário ](#l53-usuário) que esteja [buscando imóveis](#l10-buscar-imóveis) podera ver o valor do IPTU na interface da aplicação.</li> </ul> |
 
 ---
 
 # L32 Mensagem
 
-|                   |                                                                                                |
-|-------------------|------------------------------------------------------------------------------------------------|
-| **Nome**          | Mensagem                                                                                       |
-| **Classificação** | Objeto                                                                                         |
-| **Sinônimo**      | Nota, recado.                                                                                  |
-| **Noção**         | Texto enviado por chat entre dois [usuários](#l49-usuário) para comunicação.                   |
-| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) manda mensagem para outro [usuário](#l49-usuário)</li> </ul> |
-|                   |                                                                                                |
+|                   |                                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **Nome**          | Mensagem                                                                                         |
+| **Classificação** | Objeto                                                                                           |
+| **Sinônimo**      | Nota, recado.                                                                                    |
+| **Noção**         | Texto enviado por chat entre dois [usuários](#l53-usuário)  para comunicação.                    |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário)  manda mensagem para outro [usuário](#l53-usuário).</li> </ul> |
 
 ---
 
 # L33 Mensagem essencial
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                                                                 |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Mensagem essencial                                                                                                                                                                                                                              |
+| **Classificação** | Objeto                                                                                                                                                                                                                                          |
+| **Sinônimo**      | Texto, Comunicação essencial.                                                                                                                                                                                                                   |
+| **Noção**         | Importante no campo "Meu Aluguel", onde irá fornecer histórico de pagamentos relacionados e pode ter declaração de imposto de renda.                                                                                                            |
+| **Impacto**       | <ul>  <li>Assegura que [usuários](#l53-usuário) tenham acesso a informações críticas sobre seus pagamentos e impostos.</li> <li>Facilita a organização financeira e a gestão de impostos ao fornecer um histórico claro e acessível.</li> </ul> |
 
 ---
 
 # L34 Mensagem informativa
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                                                                                                                                                           |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Mensagem informativa                                                                                                                                                                                                                                                                                                                      |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                    |
+| **Sinônimo**      | Texto, Comunicação informativa.                                                                                                                                                                                                                                                                                                           |
+| **Noção**         | Fornece informações relevantes sobre o serviço ou processo.                                                                                                                                                                                                                                                                               |
+| **Impacto**       | <ul>  <li>Instruções sobre como atualizar informações do [imóvel](#l27-imóvel) .</li>  <li>Como editar anúncio de [imóveis](#l27-imóvel) , como adicionar informações e pausar ou desativar anúncio.</li>  <li>Uteis para orientar o [usuário](#l53-usuário)  sobre como resolver determinadas ações ou problemas especificos.</li> </ul> |
 
 ---
 
 # L35 Mensagem promocional
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                      |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Mensagem promocional                                                                                                                                                                 |
+| **Classificação** | Objeto                                                                                                                                                                               |
+| **Sinônimo**      | Texto, Comunicação promocional.                                                                                                                                                      |
+| **Noção**         | Enviadas aos [usuários](#l53-usuário) para divulgar ofertas e descontos, podem ser enviadas por e-mail, SMS ou notificação do aplicativo.                                            |
+| **Impacto**       | <ul>  <li>Informa os [usuários](#l53-usuário) sobre oportunidades de [aluguel](#l07-aluguel) ou venda de [imóveis](#l27-imóvel), além de fornecer beneficios exclusivos.</li>  </ul> |
 
 ---
 
 # L36 Meu lar
 
-|                   |                                                                                                                                                                                                                                                                                                                                                     |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Meu Lar                                                                                                                                                                                                                                                                                                                                             |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                              |
-| **Sinônimo**      |                                                                                                                                                                                                                                                                                                                                                     |
-| **Noção**         | Área da aplicação destinada ao gerenciamento e visualização de informaçõe srelacionadas                                                                                                                                                                                                                                                             |
-| **Impacto**       | <ul>  <li>Um [inquilino](#l26-inquilino) pode baixar o contrato de locação na área de meu lar </li>  <li>Um [inquilino](#l26-inquilino) pode solicitar reembolso ou reparos para locações administradas pelo quinto andar</li> <li>Um [inquilino](#l26-inquilino) pode verificar pagamentos do [imóvel](#l24-imóvel) na área de Meu Lar</li>  </ul> |
+|                   |                                                                                                                                                                                                                                                                                                                                                        |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Meu Lar                                                                                                                                                                                                                                                                                                                                                |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                 |
+| **Sinônimo**      | Texto, Comunicação promocional.                                                                                                                                                                                                                                                                                                                        |
+| **Noção**         | Área da aplicação destinada ao gerenciamento e visualização de informações relacionadas.                                                                                                                                                                                                                                                               |
+| **Impacto**       | <ul>  <li>Um [inquilino](#l29-inquilino) pode baixar o contrato de locação na área de meu lar. </li>  <li>Um [inquilino](#l29-inquilino) pode solicitar reembolso ou reparos para locações administradas pelo quinto andar.</li> <li>Um [inquilino](#l29-inquilino) pode verificar pagamentos do [imóvel](#l27-imóvel) na área de Meu Lar.</li>  </ul> |
 
 ---
 
 # L37 Meus imóveis
 
-|                   |                                                                                                                                         |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Meus imóveis                                                                                                                            |
-| **Classificação** | Objeto                                                                                                                                  |
-| **Sinônimo**      | -                                                                                                                                       |
-| **Noção**         | Lista dos [imóveis](#l24-imóvel) [cadastrados](#l11-cadastrar-imóvel) por um [proprietário](#l35-proprietário).                         |
-| **Impacto**       | <ul>  <li>Permite ao [proprietário](#l35-proprietário) ver seus [imóveis](#l24-imóvel) [cadastrados](#l11-cadastrar-imóvel)</li>  </ul> |
+|                   |                                                                                                                                          |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Meus imóveis                                                                                                                             |
+| **Classificação** | Objeto                                                                                                                                   |
+| **Sinônimo**      | -                                                                                                                                        |
+| **Noção**         | Lista dos [imóveis](#l27-imóvel) [cadastrados](#l11-cadastrar-imóvel) por um [proprietário](#l39-proprietário).                          |
+| **Impacto**       | <ul>  <li>Permite ao [proprietário](#l39-proprietário) ver seus [imóveis](#l27-imóvel) [cadastrados](#l11-cadastrar-imóvel).</li>  </ul> |
 
 ---
 
@@ -530,20 +527,20 @@
 | **Nome**          | Passo a passo do imóvel                                                                                                                                              |
 | **Classificação** | Objeto                                                                                                                                                               |
 | **Sinônimo**      | -                                                                                                                                                                    |
-| **Noção**         | Parte do app que descreve de forma linear todos os processos pelos quais um [imóvel](#l24-imóvel) passa para ser [alugado](#l07-aluguel) ou [comprado](#l12-compra). |
-| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) vê fluxo de [imóvel](#l24-imóvel)</li> </ul>                                                                                       |
+| **Noção**         | Parte do app que descreve de forma linear todos os processos pelos quais um [imóvel](#l27-imóvel) passa para ser [alugado](#l07-aluguel) ou [comprado](#l12-compra). |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) vê fluxo de [imóvel](#l27-imóvel).</li> </ul>                                                                                      |
 
 ---
 
 # L39 Proprietário
 
-|                   |                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Proprietário                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Classificação** | Objeto / Estado                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Sinônimo**      | senhorio, locador, arrendador                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Noção**         | Pessoa que possui bens [imóveis](#l24-imóvel)                                                                                                                                                                                                                                                                                                                                                                           |
-| **Impacto**       | <ul>  <li>Um proprietário pode [anunciar seu imóvel](#l09-anunciar-imóvel) para ficar disponível para [busca](#l10-buscar-imóveis) para outros [usuários](#l49-usuário)</li>  <li>Um proprietário pode negociar [acordos](#l01-acordo) com o seu [inquilino](#l26-inquilino)</li> <li>Um proprietário pode conversar com seu [inquilino](#l26-inquilino) através de [mensagens](#l28-mensagem) na aplicação</li>  </ul> |
+|                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Proprietário                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Classificação** | Objeto / Estado                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Sinônimo**      | senhorio, locador, arrendador .                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Noção**         | Pessoa que possui bens [imóveis](#l27-imóvel).                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Impacto**       | <ul>  <li>Um [proprietário](#l39-proprietário) pode [anunciar seu imóvel](#l09-anunciar-imóvel) para ficar disponível para [busca](#l10-buscar-imóveis) para outros [usuários](#l53-usuário).</li>  <li>Um [proprietário](#l39-proprietário) pode negociar [acordos](#l01-acordo) com o seu [inquilino](#l29-inquilino).</li> <li>Um [proprietário](#l39-proprietário) pode conversar com seu [inquilino](#l29-inquilino) através de [mensagens](#l32-mensagem) na aplicação.</li>  </ul> |
 
 ---
 
@@ -553,59 +550,57 @@
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Propor um novo valor                                                                                                                                                                           |
 | **Classificação** | Objeto                                                                                                                                                                                         |
-| **Sinônimo**      | Enviar nova proposta, definir termos para [solicitar](#l42-solicitar).                                                                                                                         |
-| **Noção**         | Botão que quando clicado permite ao [usuário](#l49-usuário) a criação de uma nova [proposta](#l37-proposta) customizada para [solicitar](#l42-solicitar) ao [proprietário](#l35-proprietário). |
-| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) cria nova [proposta](#l37-proposta) para o [proprietário](#l35-proprietário)</li> </ul>                                                                      |
+| **Sinônimo**      | Enviar nova proposta, definir termos para [solicitar](#l46-solicitar).                                                                                                                         |
+| **Noção**         | Botão que quando clicado permite ao [usuário](#l53-usuário) a criação de uma nova [proposta](#l41-proposta) customizada para [solicitar](#l46-solicitar) ao [proprietário](#l39-proprietário). |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) cria nova [proposta](#l41-proposta) para o [proprietário](#l39-proprietário).</li> </ul>                                                                     |
 
 ---
 
 # L41 Proposta
 
-|                   |                                                                                              |
-|-------------------|----------------------------------------------------------------------------------------------|
-| **Nome**          | Proposta                                                                                     |
-| **Classificação** | Objeto                                                                                       |
-| **Sinônimo**      | Oferta.                                                                                      |
-| **Noção**         | Valores e definições para venda ou [aluguel](#l07-aluguel) de um [imóvel](#l24-imóvel).      |
-| **Impacto**       | <ul>  <li>Define termos para [aluguel](#l07-aluguel) de um [imóvel](#l24-imóvel)</li>  </ul> |
-|                   |                                                                                              |
+|                   |                                                                                               |
+|-------------------|-----------------------------------------------------------------------------------------------|
+| **Nome**          | Proposta                                                                                      |
+| **Classificação** | Objeto                                                                                        |
+| **Sinônimo**      | Oferta.                                                                                       |
+| **Noção**         | Valores e definições para venda ou [aluguel](#l07-aluguel) de um [imóvel](#l27-imóvel).       |
+| **Impacto**       | <ul>  <li>Define termos para [aluguel](#l07-aluguel) de um [imóvel](#l27-imóvel).</li>  </ul> |
 
 ---
 
 # L42 Propostas enviadas
 
-|                   |                                                                                                                                                                                                          |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Propostas enviadas                                                                                                                                                                                       |
-| **Classificação** | Objeto                                                                                                                                                                                                   |
-| **Sinônimo**      | -                                                                                                                                                                                                        |
-| **Noção**         | Lista de todas as [propostas](#l37-proposta), de [aluguel](#l07-aluguel) e de [compra](#l12-compra) que estão em andamento ou canceladas.                                                                |
-| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) vê todas as [propostas](#l37-proposta) que enviou</li>  <li>[Usuário](#l49-usuário) vê se a [proposta](#l37-proposta) está em andamento ou se foi cancelada</li> </ul> |
+|                   |                                                                                                                                                                                                              |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Propostas enviadas                                                                                                                                                                                           |
+| **Classificação** | Objeto                                                                                                                                                                                                       |
+| **Sinônimo**      | -                                                                                                                                                                                                            |
+| **Noção**         | Lista de todas as [propostas](#l41-proposta), de [aluguel](#l07-aluguel) e de [compra](#l12-compra) que estão em andamento ou canceladas.                                                                    |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário)  vê todas as [propostas](#l41-proposta) que enviou.</li>  <li>[Usuário](#l53-usuário)  vê se a [proposta](#l41-proposta) está em andamento ou se foi cancelada.</li> </ul> |
 
 ---
 
 # L43 Recomendados
 
-|                   |                                                                                                                         |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Recomendados                                                                                                            |
-| **Classificação** | Objeto                                                                                                                  |
-| **Sinônimo**      | Indicados, sugeridos, propostos.                                                                                        |
-| **Noção**         | Lista de [imóveis](#l24-imóvel) escolhidos e recomendados a um usuário baseado em suas buscas e preferências.           |
-| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) vê uma lista de [imóveis](#l24-imóvel) selecionados para os seu interesses</li> </ul> |
+|                   |                                                                                                                                |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Recomendados                                                                                                                   |
+| **Classificação** | Objeto                                                                                                                         |
+| **Sinônimo**      | Indicados, sugeridos, propostos.                                                                                               |
+| **Noção**         | Lista de [imóveis](#l27-imóvel) escolhidos e recomendados a um [usuário](#l53-usuário)  baseado em suas buscas e preferências. |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) vê uma lista de [imóveis](#l27-imóvel) selecionados para os seu interesses.</li> </ul>       |
 
 ---
 
 # L44 Repasses
 
-|                   |                                                                                                                                                                      |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Repasses                                                                                                                                                             |
-| **Classificação** | Verbo / Objeto / Estado                                                                                                                                              |
-| **Sinônimo**      | Revenda ou transferência de financiamento.                                                                                                                           |
-| **Noção**         | Transferência de financiamento de um [imóvel](#l24-imóvel) de uma pessoa para outra. Revenda do financiamento de uma casa ou apartamento.                            |
-| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) revende um [imóvel](#l24-imóvel) a outro [usuário](#l49-usuário)</li>  <li>Financiamento do imóvel passa a outra pessoa</li> </ul> |
-|                   |                                                                                                                                                                      |
+|                   |                                                                                                                                                                                       |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Repasses                                                                                                                                                                              |
+| **Classificação** | Verbo                                                                                                                                                                                 |
+| **Sinônimo**      | Revenda ou transferência de financiamento.                                                                                                                                            |
+| **Noção**         | Transferência de financiamento de um [imóvel](#l27-imóvel) de uma pessoa para outra. Revenda do financiamento de uma casa ou apartamento.                                             |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) revende um [imóvel](#l27-imóvel) a outro [usuário](#l53-usuário).</li>  <li>Financiamento do [imóvel](#l27-imóvel) passa a outra pessoa.</li> </ul> |
 
 ---
 
@@ -617,21 +612,19 @@
 | **Classificação** | Objeto                                                                  |
 | **Sinônimo**      | -                                                                       |
 | **Noção**         | Taxa de seguro como proteção financeira a incêndios em uma propriedade. |
-| **Impacto**       | <ul>  <li>Protege o [imóvel](#l24-imóvel) contra incêndios</li>  </ul>  |
-|                   |                                                                         |
+| **Impacto**       | <ul>  <li>Protege o [imóvel](#l27-imóvel) contra incêndios.</li>  </ul> |
 
 ---
 
 # L46 Solicitar
 
-|                   |                                                                                                                                                                                                      |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Solicitar                                                                                                                                                                                            |
-| **Classificação** | Verbo                                                                                                                                                                                                |
-| **Sinônimo**      | Pedir nova [proposta](#l37-proposta), enviar ao [proprietário](#l35-proprietário) uma nova [proposta](#l37-proposta), [fazer proposta](#l21-fazer-proposta).                                         |
-| **Noção**         | Evento no qual um usuário envia uma [proposta](#l37-proposta) por um [imóvel](#l24-imóvel), diferente da anterior, a um [proprietário](#l35-proprietário).                                           |
-| **Impacto**       | <ul>  <li>Usuário [propõe um novo valor](#l36-propor-um-novo-valor) por um [imóvel](#l24-imóvel)</li>  <li>Usuário envia [proposta](#l37-proposta) a um [proprietário](#l35-proprietário)</li> </ul> |
-|                   |                                                                                                                                                                                                      |
+|                   |                                                                                                                                                                                                                                           |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Solicitar                                                                                                                                                                                                                                 |
+| **Classificação** | Verbo                                                                                                                                                                                                                                     |
+| **Sinônimo**      | Pedir nova [proposta](#l41-proposta), enviar ao [proprietário](#l39-proprietário) uma nova [proposta](#l41-proposta), [fazer proposta](#l23-fazer-proposta).                                                                              |
+| **Noção**         | Evento no qual um usuário envia uma [proposta](#l41-proposta) por um [imóvel](#l27-imóvel), diferente da anterior, a um [proprietário](#l39-proprietário).                                                                                |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário)  [propõe um novo valor](#l40-propor-um-novo-valor)  por um [imóvel](#l27-imóvel).</li>  <li>[Usuário](#l53-usuário)  envia [proposta](#l41-proposta) a um [proprietário](#l39-proprietário).</li> </ul> |
 
 ---
 
@@ -643,8 +636,7 @@
 | **Classificação** | Objeto                                                                                                      |
 | **Sinônimo**      | -                                                                                                           |
 | **Noção**         | Valor mensal que auxilia na manutenção e atualização constante da plataforma do QuintoAndar e sua operação. |
-| **Impacto**       | <ul>  <li>[usuário](#l49-usuário) paga taxa de serviço ao QuintoAndar</li>  </ul>                           |
-|                   |                                                                                                             |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) paga taxa de serviço ao QuintoAndar.</li>  </ul>                          |
 
 ---
 
@@ -655,8 +647,8 @@
 | **Nome**          | Total                                                                                                                                                                                                                                    |
 | **Classificação** | Objeto                                                                                                                                                                                                                                   |
 | **Sinônimo**      | Valor total, preço completo.                                                                                                                                                                                                             |
-| **Noção**         | Preço total sobre um [imóvel](#l24-imóvel). Esse valor compreende: [aluguel](#l07-aluguel), [taxa de condomínio](#l12-condomínio), [IPTU](#l27-iptu), [seguro Incêndio](#l41-seguro-incêndio) e [taxa de serviço](#l43-taxa-de-serviço). |
-| **Impacto**       | <ul>  <li>Preço que deverá ser pago por um [usuário](#l49-usuário) a um [proprietário](#l35-proprietário)</li>  </ul>                                                                                                                    |
+| **Noção**         | Preço total sobre um [imóvel](#l27-imóvel). Esse valor compreende: [aluguel](#l07-aluguel), taxa de [condomínio](#l14-condomínio), [IPTU](#l31-iptu), [seguro Incêndio](#l45-seguro-incêndio) e [taxa de serviço](#l47-taxa-de-serviço). |
+| **Impacto**       | <ul>  <li>Preço que deverá ser pago por um [usuário](#l53-usuário) a um [proprietário](#l39-proprietário).</li>  </ul>                                                                                                                   |
 
 ---
 
@@ -666,10 +658,9 @@
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Ver detalhes do condomínio                                                                                                     |
 | **Classificação** | Verbo                                                                                                                          |
-| **Sinônimo**      | Ver informações sobre o [condomínio](#l12-condomínio).                                                                         |
-| **Noção**         | Link que se clicado exibe informações gerais sobre o [condomínio](#l12-condomínio) como, por exemplo, se possui área de lazer. |
-| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) vê detalhes do condomínio ao clicar em link</li> </ul>                                       |
-|                   |                                                                                                                                |
+| **Sinônimo**      | Ver informações sobre o [condomínio](#l14-condomínio).                                                                         |
+| **Noção**         | Link que se clicado exibe informações gerais sobre o [condomínio](#l14-condomínio) como, por exemplo, se possui área de lazer. |
+| **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) vê detalhes do condomínio ao clicar em link.</li> </ul>                                      |
 
 ---
 
@@ -687,14 +678,13 @@
 
 # L51 Visita
 
-|                   |                                                                                                                                                                                                                            |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Visita                                                                                                                                                                                                                     |
-| **Classificação** | Objeto                                                                                                                                                                                                                     |
-| **Sinônimo**      | Visitação, inspeção, ida.                                                                                                                                                                                                  |
-| **Noção**         | Evento no qual um possível [inquilino](#l26-inquilino) acompanhado de um [corretor](#l14-corretor) vão até o [imóvel](#l24-imóvel) de um [proprietário](#l35-proprietário).                                                |
-| **Impacto**       | <ul>  <li>[Inquilino](#l26-inquilino) visita [imóvel](#l24-imóvel)  de [proprietário](#l35-proprietário)</li>  <li>[Corretor](#l14-corretor) visita [imóvel](#l24-imóvel)  de [proprietário](#l35-proprietário)</li> </ul> |
-|                   |                                                                                                                                                                                                                            |
+|                   |                                                                                                                                                                                                                              |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Visita                                                                                                                                                                                                                       |
+| **Classificação** | Objeto                                                                                                                                                                                                                       |
+| **Sinônimo**      | Visitação, inspeção, ida.                                                                                                                                                                                                    |
+| **Noção**         | Evento no qual um possível [inquilino](#l29-inquilino) acompanhado de um [corretor](#l16-corretor) vão até o [imóvel](#l27-imóvel) de um [proprietário](#l39-proprietário).                                                  |
+| **Impacto**       | <ul>  <li>[Inquilino](#l29-inquilino) visita [imóvel](#l27-imóvel)  de [proprietário](#l39-proprietário).</li>  <li>[Corretor](#l16-corretor) visita [imóvel](#l27-imóvel)  de [proprietário](#l39-proprietário).</li> </ul> |
 
 ---
 
@@ -705,21 +695,20 @@
 | **Nome**          | Visitas agendadas                                                                                                                                                                                                           |
 | **Classificação** | Objeto                                                                                                                                                                                                                      |
 | **Sinônimo**      | Agenda de visitas, conjunto de visitas marcadas.                                                                                                                                                                            |
-| **Noção**         | Lista de futuras [visitas](#l47-visita) que estão confirmadas entre um possível [inquilino](#l26-inquilino), um [corretor](#l14-corretor) e um [proprietário](#l35-proprietário) para um determinado [imóvel](#l24-imóvel). |
-| **Impacto**       | <ul>  <li>Conjunto de [visitas](#l47-visita) nas quais um [proprietário](#l35-proprietário) recebe um [usuário](#l49-usuário) e um [corretor](#l14-corretor)</li>  </ul>                                                    |
-|                   |                                                                                                                                                                                                                             |
+| **Noção**         | Lista de futuras [visitas](#l51-visita) que estão confirmadas entre um possível [inquilino](#l29-inquilino), um [corretor](#l16-corretor) e um [proprietário](#l39-proprietário) para um determinado [imóvel](#l27-imóvel). |
+| **Impacto**       | <ul>  <li>Conjunto de [visitas](#l51-visita) nas quais um [proprietário](#l39-proprietário) recebe um [usuário](#l53-usuário) e um [corretor](#l16-corretor).</li>  </ul>                                                   |
 
 ---
 
 # L53 Usuário
 
-|                   |                                                                                                                                                                                                                                                                                                                                                 |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Usuário                                                                                                                                                                                                                                                                                                                                         |
-| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                          |
-| **Sinônimo**      | cliente, utilizador                                                                                                                                                                                                                                                                                                                             |
-| **Noção**         | <ul> <li>Pessoa que utiliza o serviço ou aplicação </li> <li> Um usuário pode ser um [inquilino](#l26-inquilino), um potencial comprador, um [afiliado](#l03-afiliado) ou um [proprietário](#l35-proprietário) </li>                                                                                                                            |
-| **Impacto**       | <ul> <li>Um usuário que é um [inquilino](#l26-inquilino) pode iniciar uma conversa com seu proprietário</li> <li>Um usuário que é um [inquilino](#l01-acordo) pode negociar um [acordo](#l01-acordo) com seu proprietário </li> <li>Um usuário que é um [proprietário](#l35-proprietário) pode [anunciar um imóvel](#l09-anunciar-imóvel) </li> |
+|                   |                                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Usuário                                                                                                                                                                                                                                                                                                                                                                   |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sinônimo**      | cliente, utilizador                                                                                                                                                                                                                                                                                                                                                       |
+| **Noção**         | <ul> <li>Pessoa que utiliza o serviço ou aplicação </li> <li> Um usuário pode ser um [inquilino](#l29-inquilino), um potencial comprador, um [afiliado](#l03-afiliado) ou um [proprietário](#l39-proprietário). </li>                                                                                                                                                     |
+| **Impacto**       | <ul> <li>Um usuário que é um [inquilino](#l29-inquilino) pode iniciar uma conversa com seu proprietário.</li> <li>Um usuário que é um [inquilino](#l29-inquilino) pode negociar um [acordo](#l01-acordo) com seu [proprietário](#l39-proprietário).</li> <li>Um usuário que é um [proprietário](#l39-proprietário) pode [anunciar um imóvel](#l09-anunciar-imóvel). </li> |
 
 ---
 
