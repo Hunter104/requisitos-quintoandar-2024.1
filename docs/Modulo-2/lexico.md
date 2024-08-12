@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 > Esse modelo ajuda a entender e simplificar a compreensão do contexto do QuintoAndar, pois identifica termos
 > específicos,
 > os define e indica onde são usados e quando podem ocorrer, proporcionando uma familiarização com o escopo.

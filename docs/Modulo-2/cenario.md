@@ -4,9 +4,7 @@
 
 </center>
 
----
-
-> O que é?
+> É uma descrição detalhada de uma sequência de ações e eventos que ilustram como um sistema deve interagir com seus usuários ou outros sistemas em uma situação específica.
 
 ---
 
