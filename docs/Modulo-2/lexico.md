@@ -14,7 +14,7 @@
 <div style="margin: 0 auto; width: fit-content;">
 
 | Lexigramas                                                          |
-| ------------------------------------------------------------------- |
+|---------------------------------------------------------------------|
 | [L01 - Acordo](#l01-acordo)                                         |
 | [L02 - Adicionar imóvel](#l02-adicionar-imóvel)                     |
 | [L03 - Afiliado](#l03-afiliado)                                     |
@@ -26,47 +26,50 @@
 | [L09 - Anunciar imóvel](#l09-anunciar-imóvel)                       |
 | [L10 - Buscar imóveis](#l10-buscar-imóveis)                         |
 | [L11 - Cadastrar imóvel](#l11-cadastrar-imóvel)                     |
-| [L12 - Condomínio](#l12-condomínio)                                 |
-| [L13 - Conta](#l13-conta)                                           |
-| [L14 - Corretor](#l14-corretor)                                     |
-| [L15 - Corretor credenciado](#l15-corretor-credenciado)             |
-| [L16 - Criar proposta customizada](#l16-criar-proposta-customizada) |
-| [L17 - Deletar conta](#l17-deletar-conta)                           |
-| [L18 - Detalhes do valor](#l18-detalhes-do-valor)                   |
-| [L19 - Encontrar imóveis](#l19-encontrar-imóveis)                   |
-| [L20 - Favoritos](#l20-favoritos)                                   |
-| [L21 - Fazer Proposta](#l21-fazer-proposta)                         |
-| [L22 - Filtro](#l22-filtro)                                         |
-| [L23 - Gerenciar conta](#l23-gerenciar-conta)                       |
-| [L24 - Imóvel](#l24-imóvel)                                         |
-| [L25 - Imóveis anunciados](#l25-imóveis-anunciados)                 |
-| [L26 - Inquilino](#l26-inquilino)                                   |
-| [L27 - IPTU](#l27-iptu)                                             |
-| [L28 - Mensagem](#l28-mensagem)                                     |
-| [L29 - Mensagem essencial](#l29-mensagem-essencial)                 |
-| [L30 - Mensagem informativa](#l30-mensagem-informativa)             |
-| [L31 - Mensagem promocional](#l31-mensagem-promocional)             |
-| [L32 - Meu lar](#l32-meu-lar)                                       |
-| [L33 - Meus imóveis](#l33-meus-imóveis)                             |
-| [L34 - Passo a passo do imóvel](#l34-passo-a-passo-do-imóvel)       |
-| [L35 - Proprietário](#l35-proprietário)                             |
-| [L36 - Propor um novo valor](#l36-propor-um-novo-valor)             |
-| [L37 - Proposta](#l37-proposta)                                     |
-| [L38 - Propostas enviadas](#l38-propostas-enviadas)                 |
-| [L39 - Recomendados](#l39-recomendados)                             |
-| [L40 - Repasses](#l40-repasses)                                     |
-| [L41 - Seguro Incêndio](#l41-seguro-incêndio)                       |
-| [L42 - Solicitar](#l42-solicitar)                                   |
-| [L43 - Taxa de serviço](#l43-taxa-de-serviço)                       |
-| [L44 - Total](#l44-total)                                           |
-| [L45 - Ver detalhes do condomínio](#l45-ver-detalhes-do-condomínio) |
-| [L46 - Ver todos os valores](#l46-ver-todos-os-valores)             |
-| [L47 - Visita](#l47-visita)                                         |
-| [L48 - Visitas agendadas](#l48-visitas-agendadas)                   |
-| [L49 - Usuário](#l49-usuário)                                       |
+| [L12 - Compra](#l12-compra)                                         |
+| [L13 - Comprador](#l13-comprador)                                   |
+| [L14 - Condomínio](#l14-condomínio)                                 |
+| [L15 - Conta](#l15-conta)                                           |
+| [L16 - Corretor](#l16-corretor)                                     |
+| [L17 - Corretor credenciado](#l17-corretor-credenciado)             |
+| [L18 - Criar proposta customizada](#l18-criar-proposta-customizada) |
+| [L19 - Deletar conta](#l19-deletar-conta)                           |
+| [L20 - Detalhes do valor](#l20-detalhes-do-valor)                   |
+| [L21 - Encontrar imóveis](#l21-encontrar-imóveis)                   |
+| [L22 - Favoritos](#l22-favoritos)                                   |
+| [L23 - Fazer Proposta](#l23-fazer-proposta)                         |
+| [L24 - Filtro](#l24-filtro)                                         |
+| [L25 - Fotografo](#l25-fotografo)                                   |
+| [L26 - Gerenciar conta](#l26-gerenciar-conta)                       |
+| [L27 - Imóvel](#l27-imóvel)                                         |
+| [L28 - Imóveis anunciados](#l28-imóveis-anunciados)                 |
+| [L29 - Inquilino](#l29-inquilino)                                   |
+| [L30 - Interessado](#l30-interessado)                               |
+| [L31 - IPTU](#l31-iptu)                                             |
+| [L32 - Mensagem](#l32-mensagem)                                     |
+| [L33 - Mensagem essencial](#l33-mensagem-essencial)                 |
+| [L34 - Mensagem informativa](#l34-mensagem-informativa)             |
+| [L35 - Mensagem promocional](#l35-mensagem-promocional)             |
+| [L36 - Meu lar](#l36-meu-lar)                                       |
+| [L37 - Meus imóveis](#l37-meus-imóveis)                             |
+| [L38 - Passo a passo do imóvel](#l38-passo-a-passo-do-imóvel)       |
+| [L39 - Proprietário](#l39-proprietário)                             |
+| [L40 - Propor um novo valor](#l40-propor-um-novo-valor)             |
+| [L41 - Proposta](#l41-proposta)                                     |
+| [L42 - Propostas enviadas](#l42-propostas-enviadas)                 |
+| [L43 - Recomendados](#l43-recomendados)                             |
+| [L44 - Repasses](#l44-repasses)                                     |
+| [L45 - Seguro Incêndio](#l45-seguro-incêndio)                       |
+| [L46 - Solicitar](#l46-solicitar)                                   |
+| [L47 - Taxa de serviço](#l47-taxa-de-serviço)                       |
+| [L48 - Total](#l48-total)                                           |
+| [L49 - Ver detalhes do condomínio](#l49-ver-detalhes-do-condomínio) |
+| [L50 - Ver todos os valores](#l50-ver-todos-os-valores)             |
+| [L51 - Visita](#l51-visita)                                         |
+| [L52 - Visitas agendadas](#l52-visitas-agendadas)                   |
+| [L53 - Usuário](#l53-usuário)                                       |
 
 
-> comprador, fotografo.
 
 </div>
 
@@ -74,37 +77,37 @@
 
 # L01 Acordo
 
-|                   |                                                                                                                                              |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**          | Acordo|
-| **Classificação** | Objeto|
-| **Sinônimo**      | contrato, trato, tratado, pacto, convênio|
-| **Noção**         | <ul> <li> Um ajuste formal entre partes <li>Um [proprietário](#l35-proprietário) e um futuro [inquilino](#l26-inquilino) concordam em relação aos termos de negociação de um [imóvel](#l24-imóvel). </li>|
-| **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) realiza acordo com [inquilino](#l26-inquilino).</li> <li> [proprietário](#l35-proprietário) pode negociar um acordo com seu [inquilino](#l26-inquilino)</li>   </ul>                                                                       |
+|                   |                                                                                                                                                                                                                  |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Acordo                                                                                                                                                                                                           |
+| **Classificação** | Objeto                                                                                                                                                                                                           |
+| **Sinônimo**      | contrato, trato, tratado, pacto, convênio.                                                                                                                                                                       |
+| **Noção**         | <ul> <li> Um ajuste formal entre partes <li>Um [proprietário](#l35-proprietário) e um futuro [inquilino](#l26-inquilino) concordam em relação aos termos de negociação de um [imóvel](#l24-imóvel). </li>        |
+| **Impacto**       | <ul>  <li>[Proprietário](#l35-proprietário) realiza acordo com [inquilino](#l26-inquilino).</li> <li> [proprietário](#l35-proprietário) pode negociar um acordo com seu [inquilino](#l26-inquilino)</li>   </ul> |
 
 ---
 
 # L02 Adicionar imóvel
 
-|                   |                                                                                                                               |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Adicionar imóvel                                                                                                              |
-| **Classificação** | Verbo                                                                                                                         |
-| **Sinônimo**      | Inserir [imóvel](#l24-imóvel), Cadastrar [imóvel](#l24-imóvel).                                                               |
-| **Noção**         | O processo de incluir um novo [imóvel](#l24-imóvel) em um sistema ou banco de dados por um [proprietário](#l35-proprietário). |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                        |
+|                   |                                                                                                                                                                                                                                                     |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Adicionar imóvel                                                                                                                                                                                                                                    |
+| **Classificação** | Verbo                                                                                                                                                                                                                                               |
+| **Sinônimo**      | Inserir [imóvel](#l24-imóvel), Cadastrar [imóvel](#l24-imóvel).                                                                                                                                                                                     |
+| **Noção**         | O processo de incluir um novo [imóvel](#l24-imóvel) em um sistema ou banco de dados por um [proprietário](#l35-proprietário).                                                                                                                       |
+| **Impacto**       | <ul> <li>Facilita a gestão e o acompanhamento dos imóveis cadastrados no sistema.</li> <li>Aumenta a visibilidade do imóvel para potenciais interessados.</li> <li>Permite a realização de transações ou ofertas relacionadas ao imóvel.</li> </ul> |
 
 ---
 
 # L03 Afiliado
 
-|                   |                                                                                                                                              |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Afiliado                                                                                                                                     |
-| **Classificação** | Objeto                                                                                                                                       |
-| **Sinônimo**      | Associado, Parceiro.                                                                                                                         |
-| **Noção**         | Um afiliado é uma [usuários](#l49-usuário) que está associada para promover ou vender produtos ou serviços em troca de uma comissão ou benefício. |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul>                                                                       |
+|                   |                                                                                                                                                                                       |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Afiliado                                                                                                                                                                              |
+| **Classificação** | Objeto                                                                                                                                                                                |
+| **Sinônimo**      | Associado, Parceiro.                                                                                                                                                                  |
+| **Noção**         | Um afiliado é uma [usuários](#l49-usuário) que está associada para promover ou vender produtos ou serviços em troca de uma comissão ou benefício.                                     |
+| **Impacto**       | <ul> <li>Amplia o alcance de produtos ou serviços por meio de parcerias estratégicas.</li> <li>Gera receita adicional por meio de comissões ou benefícios para o afiliado.</li> </ul> |
 
 ---
 
@@ -138,8 +141,8 @@
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Alertas criados                                                                                                                                                                                               |
 | **Classificação** | Objeto                                                                                                                                                                                                        |
-| **Sinônimo**      | -                                                                                                                                                                                                             |
-| **Noção**         | Alertas criados referem-se a notificações ou avisos que foram gerados por um [usuário](#l49-usuário)                                                                                                               |
+| **Sinônimo**      | Notificações criadas.                                                                                                                                                                                         |
+| **Noção**         | Alertas criados referem-se a notificações ou avisos que foram gerados por um [usuário](#l49-usuário)                                                                                                          |
 | **Impacto**       | <ul>  <li>Facilita o monitoramento e a gestão de eventos importantes ao manter um registro de alertas.</li> <li>Ajuda a garantir que nenhuma notificação importante seja perdida ou negligenciada.</li> </ul> |
 
 ---
@@ -156,40 +159,39 @@
 
 ---
 
-<!-- Qual seria a relevância disso? -->
 # L08 Alterar o país
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                           |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Alterar o país                                                                                                                                                                            |
+| **Classificação** | Verbo                                                                                                                                                                                     |
+| **Sinônimo**      | Modificar o país, Mudar o país.                                                                                                                                                           |
+| **Noção**         | Refere-se à ação de selecionar ou mudar o país associado ao perfil do usuário.                                                                                                            |
+| **Impacto**       | <ul> <li>Personaliza a experiência do usuário com base na localização geográfica.</li> <li>Garante a exibição de conteúdo e informações relevantes para a região selecionada.</li>  </ul> |
 
 ---
 
 # L09 Anunciar imóvel
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | Anunciar [imóvel](#l24-imóvel) |
-| **Classificação** | Verbo |
-| **Sinônimo**      | Divulgar [imóvel](#l24-imóvel), declara imóvel, cadastrar imóvel|
+|                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Anunciar [imóvel](#l24-imóvel)                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Sinônimo**      | Divulgar [imóvel](#l24-imóvel), declara imóvel, cadastrar imóvel                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Noção**         | <ul>  <li>Tarefa realizada pelo proprietário do [imóvel](#l24-imóvel) </li> <li> Acontece quando um propietário passa pelo processo de cadastro no aplicativo</li> <li> Proprietário vau oara a aba de menu e clica em anunciar imóvel</li> <li> Proprietário insere seus dados pessoais e dados do imóvel </li> <li> Ao finalizar o cadastro a empresa agenda uma visita para tirar fotos do imóvel </li> <li> o imóvel é publicado </li> </ul> |
-| **Impacto**       | <ul>  <li> O [imóvel](#l24-imóvel) fica disponível para busca na aplicação</li>  <li> O imóvel fica disponível para propostas de aluguel ou compra</li> <li> O imóvel fica disponível para agendamento de visitas</li> <li> O proprietário fica disponível para receber mensagens, negociações e propostas </li>  </ul> |
+| **Impacto**       | <ul>  <li> O [imóvel](#l24-imóvel) fica disponível para busca na aplicação</li>  <li> O [imóvel](#l24-imóvel) fica disponível para propostas de aluguel ou compra</li> <li> O [imóvel](#l24-imóvel) fica disponível para agendamento de visitas</li> <li> O proprietário fica disponível para receber mensagens, negociações e propostas </li>  </ul>                                                                                            |
 
 ---
 
 # L10 Buscar imóveis
 
-|                   |                                                                      :  |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | Buscar imóveis|
-| **Classificação** | Verbo |
-| **Sinônimo**      | procurar imóveis, descobrir imóveis|
-| **Noção**         | <ul> <li> Tarefa realizada por [inquilino](#l26-inquilino) /compradors ou compradores </li> <li> [inquilino](#l26-inquilino) /comprador vai para a aba de busca no aplicativo </li> <li> [inquilino](#l26-inquilino) /comprador coloca a região  onde os imóveis devem estar localizados </li> <li> inquilino/comprador escolhe se os móveis devem estar dispoíveis para aluguel ou para compra </li> <li> inquilino/comprador pode aplicar zero ou mais [ filtros ](#l22-filtro) para busca mais específica </li> <li> [inquilino](#l26-inquilino)/comprador pode aplicar um critério de ordenação </li> </ul>|
-| **Impacto**       | <ul>  <li> Imóveis disponíveis que se adequam aos [ filtros ](#l22-filtro) aparecerão no aplicativo</li>  <li> Imóveis aparecerão na ordem escolhida</li> <li>imóveis aparecerão com as informações mais relevantes, como fotos, preço, tamanho, quantidade de quartos e vagas de estacionamento, e localização</li>  </ul> |
+|                   | :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Buscar imóveis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Sinônimo**      | procurar imóveis, descobrir imóveis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Noção**         | <ul> <li> Tarefa realizada por [inquilino](#l26-inquilino) /compradors ou compradores </li> <li> [inquilino](#l26-inquilino) /comprador vai para a aba de busca no aplicativo </li> <li> [inquilino](#l26-inquilino) /comprador coloca a região  onde os imóveis devem estar localizados </li> <li> inquilino/comprador escolhe se os móveis devem estar dispoíveis para aluguel ou para compra </li> <li> inquilino/comprador pode aplicar zero ou mais [ filtros ](#l22-filtro) para busca mais específica </li> <li> [inquilino](#l26-inquilino)/comprador pode aplicar um critério de ordenação </li> </ul> |
+| **Impacto**       | <ul>  <li> [Imóveis](#l24-imóvel) disponíveis que se adequam aos [ filtros ](#l22-filtro) aparecerão no aplicativo</li>  <li> Imóveis aparecerão na ordem escolhida</li> <li>imóveis aparecerão com as informações mais relevantes, como fotos, preço, tamanho, quantidade de quartos e vagas de estacionamento, e localização</li>  </ul>                                                                                                                                                                                                                                                                      |
 
 ---
 
@@ -205,7 +207,31 @@
 
 ---
 
-# L12 Condomínio
+# L12 Compra
+
+|                   |                                                                        |
+|-------------------|------------------------------------------------------------------------|
+| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Classificação** | Verbo / Objeto / Estado                                                |
+| **Sinônimo**      | TEXTO                                                                  |
+| **Noção**         | TEXTO                                                                  |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+
+---
+
+# L13 Comprador
+
+|                   |                                                                        |
+|-------------------|------------------------------------------------------------------------|
+| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Classificação** | Verbo / Objeto / Estado                                                |
+| **Sinônimo**      | TEXTO                                                                  |
+| **Noção**         | TEXTO                                                                  |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+
+---
+
+# L14 Condomínio
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -217,7 +243,7 @@
 
 ---
 
-# L13 Conta
+# L15 Conta
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -229,7 +255,7 @@
 
 ---
 
-# L14 Corretor
+# L16 Corretor
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -241,7 +267,7 @@
 
 ---
 
-# L15 Corretor credenciado
+# L17 Corretor credenciado
 
 |                   |                                                                                         |
 | ----------------- | --------------------------------------------------------------------------------------- |
@@ -254,7 +280,7 @@
 
 ---
 
-# L16 Criar proposta customizada
+# L18 Criar proposta customizada
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -267,7 +293,7 @@
 ---
 
 
-# L17 Deletar conta
+# L19 Deletar conta
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -279,7 +305,7 @@
 
 ---
 
-# L18 Detalhes do valor
+# L20 Detalhes do valor
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -291,7 +317,7 @@
 
 ---
 
-# L19 Encontrar imóveis
+# L21 Encontrar imóveis
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -303,19 +329,19 @@
 
 ---
 
-# L20 Favoritos
+# L22 Favoritos
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                        |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Favoritos                                                                                                                                                                                              |
+| **Classificação** | Objeto                                                                                                                                                                                                 |
+| **Sinônimo**      | Prediletos, escolhidos, selecionados.                                                                                                                                                                  |
+| **Noção**         | Lista de [imóveis](#l24-imóvel) selecionados/favoritados por um [usuário](#l49-usuário).                                                                                                               |
+| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) pode adicionar e remover [imóveis](#l24-imóvel) dessa lista</li>  <li>[Usuário](#l49-usuário) provavelmente tem [interesse] nesses [imóveis](#l24-imóvel)</li> </ul> |
 
 ---
 
-# L21 Fazer Proposta
+# L23 Fazer Proposta
 
 |                   |                                                                                                                                                                                                      |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -324,11 +350,10 @@
 | **Sinônimo**      | [Solicitar](#l42-solicitar).                                                                                                                                                                         |
 | **Noção**         | Evento no qual um usuário envia uma [proposta](#l37-proposta) por um [imóvel](#l24-imóvel), diferente da anterior, a um [proprietário](#l35-proprietário).                                           |
 | **Impacto**       | <ul>  <li>Usuário [propõe um novo valor](#l36-propor-um-novo-valor) por um [imóvel](#l24-imóvel)</li>  <li>Usuário envia [proposta](#l37-proposta) a um [proprietário](#l35-proprietário)</li> </ul> |
-|                   |                                                                                                                                                                                                      |
 
 ---
 
-# L22 Filtro
+# L24 Filtro
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -340,7 +365,19 @@
 
 ---
 
-# L23 Gerenciar conta
+# L25 Fotografo
+
+|                   |                                                                        |
+|-------------------|------------------------------------------------------------------------|
+| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Classificação** | Verbo / Objeto / Estado                                                |
+| **Sinônimo**      | TEXTO                                                                  |
+| **Noção**         | TEXTO                                                                  |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+
+---
+
+# L26 Gerenciar conta
 
 |                   |                                                                                  |
 | ----------------- | -------------------------------------------------------------------------------- |
@@ -353,7 +390,7 @@
 
 ---
 
-# L24 Imóvel
+# L27 Imóvel
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -365,7 +402,7 @@
 
 ---
 
-# L25 Imóveis anunciados
+# L28 Imóveis anunciados
 
 |                   |                                                                                                                                                                                                                                                                    |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -378,7 +415,7 @@
 
 ---
 
-# L26 Inquilino
+# L29 Inquilino
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -390,7 +427,19 @@
 
 ---
 
-# L27 IPTU
+# L30 Interessado
+
+|                   |                                                                        |
+|-------------------|------------------------------------------------------------------------|
+| **Nome**          | LEXICO EXEMPLO - 1                                                     |
+| **Classificação** | Verbo / Objeto / Estado                                                |
+| **Sinônimo**      | TEXTO                                                                  |
+| **Noção**         | TEXTO                                                                  |
+| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+
+---
+
+# L31 IPTU
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -402,7 +451,7 @@
 
 ---
 
-# L28 Mensagem
+# L32 Mensagem
 
 |                   |                                                                                                |
 | ----------------- | ---------------------------------------------------------------------------------------------- |
@@ -415,7 +464,7 @@
 
 ---
 
-# L29 Mensagem essencial
+# L33 Mensagem essencial
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -427,7 +476,7 @@
 
 ---
 
-# L30 Mensagem informativa
+# L34 Mensagem informativa
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -439,7 +488,7 @@
 
 ---
 
-# L31 Mensagem promocional
+# L35 Mensagem promocional
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -451,7 +500,7 @@
 
 ---
 
-# L32 Meu lar
+# L36 Meu lar
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -463,7 +512,7 @@
 
 ---
 
-# L33 Meus imóveis
+# L37 Meus imóveis
 
 |                   |                                                                                                                 |
 | ----------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -475,19 +524,19 @@
 
 ---
 
-# L34 Passo a passo do imóvel
+# L38 Passo a passo do imóvel
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                         |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Passo a passo do imóvel                                                                                                                                 |
+| **Classificação** | Objeto                                                                                                                                                  |
+| **Sinônimo**      | -                                                                                                                                                       |
+| **Noção**         | Parte do app que descreve de forma linear todos os processos pelos quais um [imóvel](#l24-imóvel) passa para ser [alugado](#l07-aluguel) ou [comprado]. |
+| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) vê fluxo de [imóvel](#l24-imóvel)</li> </ul>                                                                          |
 
 ---
 
-# L35 Proprietário
+# L39 Proprietário
 
 |                   |                                                                        |
 |-------------------|------------------------------------------------------------------------|
@@ -499,7 +548,7 @@
 
 ---
 
-# L36 Propor um novo valor
+# L40 Propor um novo valor
 
 |                   |                                                                                                                                                                                                |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -511,7 +560,7 @@
 
 ---
 
-# L37 Proposta
+# L41 Proposta
 
 |                   |                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------- |
@@ -524,7 +573,7 @@
 
 ---
 
-# L38 Propostas enviadas
+# L42 Propostas enviadas
 
 |                   |                                                                                                                                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -537,7 +586,7 @@
 
 ---
 
-# L39 Recomendados
+# L43 Recomendados
 
 |                   |                                                                        |
 | ----------------- | ---------------------------------------------------------------------- |
@@ -549,7 +598,7 @@
 
 ---
 
-# L40 Repasses
+# L44 Repasses
 
 |                   |                                                                                                                                                                      |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -562,7 +611,7 @@
 
 ---
 
-# L41 Seguro Incêndio
+# L45 Seguro Incêndio
 
 |                   |                                                                         |
 | ----------------- | ----------------------------------------------------------------------- |
@@ -575,7 +624,7 @@
 
 ---
 
-# L42 Solicitar
+# L46 Solicitar
 
 |                   |                                                                                                                                                                                                      |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -588,7 +637,7 @@
 
 ---
 
-# L43 Taxa de serviço
+# L47 Taxa de serviço
 
 |                   |                                                                                                             |
 | ----------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -601,7 +650,7 @@
 
 ---
 
-# L44 Total
+# L48 Total
 
 |                   |                                                                                                                                                                                                                                          |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -613,7 +662,7 @@
 
 ---
 
-# L45 Ver detalhes do condomínio
+# L49 Ver detalhes do condomínio
 
 |                   |                                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -626,7 +675,7 @@
 
 ---
 
-# L46 Ver todos os valores
+# L50 Ver todos os valores
 
 |                   |                                                                        |
 | ----------------- | ---------------------------------------------------------------------- |
@@ -638,7 +687,7 @@
 
 ---
 
-# L47 Visita
+# L51 Visita
 
 |                   |                                                                                                                                                                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -651,7 +700,7 @@
 
 ---
 
-# L48 Visitas agendadas
+# L52 Visitas agendadas
 
 |                   |                                                                                                                                                                                                                             |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -664,7 +713,7 @@
 
 ---
 
-# L49 Usuário
+# L53 Usuário
 
 |   |   |
 |---|---|
@@ -673,6 +722,7 @@
 |**Sinônimo** | cliente, utilizador |
 |**Noção** | <ul> <li>Pessoa que utiliza o serviço ou aplicação </li> <li> Um usuário pode ser um [inquilino](#l26-inquilino), um potencial comprador, um [afiliado](#l03-afiliado) ou um [proprietário](#l35-proprietário) </li> |
 |**Impacto** | <ul> <li>Um usuário que é um [inquilino](#l26-inquilino) pode iniciar uma conversa com seu proprietário</li> <li>Um usuário que é um [inquilino](#l01-acordo) pode negociar um [acordo](#l01-acordo) com seu proprietário </li> <li>Um usuário que é um [proprietário](#l35-proprietário) pode [anunciar um imóvel](#l09-anunciar-imóvel) </li> |
+
 ---
 
 <center>
