@@ -513,7 +513,7 @@
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Meus imóveis                                                                                                                             |
 | **Classificação** | Objeto                                                                                                                                   |
-| **Sinônimo**      | -                                                                                                                                        |
+| **Sinônimo**      | Minhas propriedades.                                                                                                                     |
 | **Noção**         | Lista dos [imóveis](#l27-imóvel) [cadastrados](#l11-cadastrar-imóvel) por um [proprietário](#l39-proprietário).                          |
 | **Impacto**       | <ul>  <li>Permite ao [proprietário](#l39-proprietário) ver seus [imóveis](#l27-imóvel) [cadastrados](#l11-cadastrar-imóvel).</li>  </ul> |
 
@@ -525,7 +525,7 @@
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Passo a passo do imóvel                                                                                                                                              |
 | **Classificação** | Objeto                                                                                                                                                               |
-| **Sinônimo**      | -                                                                                                                                                                    |
+| **Sinônimo**      | Passo a passo do imóvel.                                                                                                                                             |
 | **Noção**         | Parte do app que descreve de forma linear todos os processos pelos quais um [imóvel](#l27-imóvel) passa para ser [alugado](#l07-aluguel) ou [comprado](#l12-compra). |
 | **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) vê fluxo de [imóvel](#l27-imóvel).</li> </ul>                                                                                      |
 
@@ -573,7 +573,7 @@
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Propostas enviadas                                                                                                                                                                                           |
 | **Classificação** | Objeto                                                                                                                                                                                                       |
-| **Sinônimo**      | -                                                                                                                                                                                                            |
+| **Sinônimo**      | Ofertas enviadas.                                                                                                                                                                                            |
 | **Noção**         | Lista de todas as [propostas](#l41-proposta), de [aluguel](#l07-aluguel) e de [compra](#l12-compra) que estão em andamento ou canceladas.                                                                    |
 | **Impacto**       | <ul>  <li>[Usuário](#l53-usuário)  vê todas as [propostas](#l41-proposta) que enviou.</li>  <li>[Usuário](#l53-usuário)  vê se a [proposta](#l41-proposta) está em andamento ou se foi cancelada.</li> </ul> |
 
@@ -609,7 +609,7 @@
 |-------------------|-------------------------------------------------------------------------|
 | **Nome**          | Seguro Incêndio                                                         |
 | **Classificação** | Objeto                                                                  |
-| **Sinônimo**      | -                                                                       |
+| **Sinônimo**      | Seguro contra danos por incêndio.                                       |
 | **Noção**         | Taxa de seguro como proteção financeira a incêndios em uma propriedade. |
 | **Impacto**       | <ul>  <li>Protege o [imóvel](#l27-imóvel) contra incêndios.</li>  </ul> |
 
@@ -633,7 +633,7 @@
 |-------------------|-------------------------------------------------------------------------------------------------------------|
 | **Nome**          | Taxa de serviço                                                                                             |
 | **Classificação** | Objeto                                                                                                      |
-| **Sinônimo**      | -                                                                                                           |
+| **Sinônimo**      | Cobrança de serviço.                                                                                        |
 | **Noção**         | Valor mensal que auxilia na manutenção e atualização constante da plataforma do QuintoAndar e sua operação. |
 | **Impacto**       | <ul>  <li>[Usuário](#l53-usuário) paga taxa de serviço ao QuintoAndar.</li>  </ul>                          |
 
