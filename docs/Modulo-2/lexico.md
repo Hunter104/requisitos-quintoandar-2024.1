@@ -478,13 +478,13 @@
 
 # L34 Passo a passo do imóvel
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                         |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**          | Passo a passo do imóvel                                                                                                                                 |
+| **Classificação** | Objeto                                                                                                                                                  |
+| **Sinônimo**      | -                                                                                                                                                       |
+| **Noção**         | Parte do app que descreve de forma linear todos os processos pelos quais um [imóvel](#l24-imóvel) passa para ser [alugado](#l07-aluguel) ou [comprado]. |
+| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) vê fluxo de [imóvel](#l24-imóvel)</li> </ul>                                                                                  |
 
 ---
 
