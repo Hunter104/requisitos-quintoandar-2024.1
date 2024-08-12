@@ -305,13 +305,14 @@
 
 # L20 Favoritos
 
-|                   |                                                                        |
-|-------------------|------------------------------------------------------------------------|
-| **Nome**          | LEXICO EXEMPLO - 1                                                     |
-| **Classificação** | Verbo / Objeto / Estado                                                |
-| **Sinônimo**      | TEXTO                                                                  |
-| **Noção**         | TEXTO                                                                  |
-| **Impacto**       | <ul>  <li>IMPACTO 1</li>  <li>IMPACTO 2</li> <li>IMPACTO 3</li>  </ul> |
+|                   |                                                                                                                                                                                                        |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nome**          | Favoritos                                                                                                                                                                                              |
+| **Classificação** | Objeto                                                                                                                                                                                                 |
+| **Sinônimo**      | Prediletos, escolhidos, selecionados.                                                                                                                                                                  |
+| **Noção**         | Lista de [imóveis](#l24-imóvel) selecionados/favoritados por um [usuário](#l49-usuário).                                                                                                               |
+| **Impacto**       | <ul>  <li>[Usuário](#l49-usuário) pode adicionar e remover [imóveis](#l24-imóvel) dessa lista</li>  <li>[Usuário](#l49-usuário) provavelmente tem [interesse] nesses [imóveis](#l24-imóvel)</li> </ul> |
+|                   |                                                                                                                                                                                                        |
 
 ---
 
