@@ -21,6 +21,7 @@
 
 <center><img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/casos-de-uso-principal.png?raw=true"></center>
 
+<!-- Tem que colocar os links para o léxico -->
 # UC01 - Ver mapa interativo
 
 |                   |                                                                                                                                                                                                                |
