@@ -26,6 +26,17 @@
 
 <center>
 
+# Diagrama de gerenciamento de conta
+
+</center>
+
+> Diagrama de casos de uso representando as funcionalidades relacionadas ao gerenciamento de conta
+
+<center><img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/casos-de-uso-gerenciamento-conta.png?raw=true"></center>
+
+
+<center>
+
 # Histórico de versão
 
 </center>
