@@ -34,6 +34,7 @@
 
 <center><img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/casos-de-uso-gerenciamento-conta.png?raw=true"></center>
 
+---
 
 <center>
 
