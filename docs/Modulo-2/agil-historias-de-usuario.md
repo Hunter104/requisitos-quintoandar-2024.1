@@ -168,6 +168,57 @@ Critérios de aceitação:
 - [ ] O proprietário deve poder gerenciar o aluguel de um imóvel.
 - [ ] O proprietário deve poder saber quem comprou ou alugou um imóvel.
 
+### US-15 - Conversas entre Usuários
+
+Eu, como usuário, quero conversar com corretores, inquilinos e proprietários para esclarecer dúvidas, negociar condições e facilitar o processo de aluguel e compra de imóveis.
+
+Critérios de Aceitação:
+
+- [ ] O usuário pode iniciar uma conversa com corretores, inquilinos e proprietários diretamente pelo aplicativo.
+- [ ] O usuário pode enviar e receber mensagens em tempo real.
+- [ ] O usuário recebe notificações quando há novas mensagens.
+- [ ] Todas as conversas são armazenadas e acessíveis no histórico de mensagens do aplicativo.
+
+### US16 - Compartilhamento de Detalhes do Imóvel
+
+Eu, como usuário, quero compartilhar os detalhes do imóvel através de um link para divulgar o imóvel em outras plataformas e facilitar o compartilhamento com amigos e familiares.
+
+- [ ] A página de detalhes do imóvel deve exibir um botão de compartilhamento.
+- [ ] Os botão deve permitir compartilhar o link do imóvel em plataformas populares (por exemplo, redes sociais, e-mail, mensagens instantâneas).
+- [ ] O link compartilhado deve redirecionar corretamente para a página de detalhes do imóvel no aplicativo.
+
+### US17 - Cadastro e Anúncio de Imóveis
+
+Eu, como proprietário, quero cadastrar e anunciar meus imóveis na plataforma para disponibilizá-los para locação ou venda.
+
+Critérios de Aceitação:
+
+- [ ] O sistema deve permitir que o proprietário insira o CEP do imóvel e um telefone válido.
+- [ ] O sistema deve permitir a seleção do tipo de imóvel (apartamento, casa, kitnet, etc.) e a inserção do endereço completo.
+- [ ] O sistema deve permitir que o proprietário insira características detalhadas do imóvel, como tamanho, número de quartos, e se é mobiliado, se aceita animais de estimação e sua relação com o imóvel (proprietário, administrador).
+- [ ] O sistema deve permitir a inserção inicial de valores como IPTU e taxas.
+- [ ] As informações inseridas devem ser salvas corretamente no banco de dados.
+
+### US18 - Anúncio de Imóveis
+
+Eu, como proprietário, quero agendar uma sessão de fotos profissionais para o meu imóvel para que o anúncio fique visualmente atraente e completo.
+
+- [ ] O proprietário deve fornecer informações do horário da portaria, se alguém mora no imóvel e tipo de entrada (chave, senha ou biometria).
+- [ ] O proprietário pode escolher uma data e hora para a sessão de fotos.
+- [ ] O proprietário deve poder reagendar a sessão de fotos, se necessário.
+
+### US19 - Indicação de Imóveis
+
+Eu, como usuário, quero indicar imóveis para o QuintoAndar usando o link ou a indicação simples para ganhar recompensas quando os imóveis forem publicados, alugados ou vendidos.
+
+Critérios de Aceitação:
+
+- [ ] O sistema deve permitir que o usuário envie uma indicação com link para o proprietário preencher os dados do imóvel.
+- [ ] O sistema deve permitir que o usuário envie uma indicação simples com os dados do imóvel e do proprietário.
+- [ ] O sistema deve confirmar o recebimento da indicação com uma mensagem.
+- [ ] O usuário deve poder ver o status da indicação em "Minhas Indicações".
+- [ ] O sistema deve calcular e pagar as recompensas no dia 15 do mês seguinte.
+
 <center>
 
 # Histórico de versão
