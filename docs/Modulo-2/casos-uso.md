@@ -233,9 +233,9 @@
 | **Ator(es)**          | Não usuário |
 | **Pré-condições**     | Acesso à internet, um email não vinculado ao sistema|
 | **Pós-Condições**     | O não usuário passa a ser usuário e tem uma conta cadastrada no sistema|
-| **Fluxo principal**   | **FP001** - Realizar cadastro <ol>  <li>Não usuário abre a aplicação</li> <li>Não usuário clica no botão "Acessar sua conta"</li> <li>Não usuário clica no botão "Continuar com o Google"</li> <li>Não usuário clica é levado à página do Google para permitir acesso à sua conta</li></ol>|
+| **Fluxo principal**   | **FP01** - Realizar cadastro <ol>  <li>Não usuário abre a aplicação</li> <li>Não usuário clica no botão "Acessar sua conta"</li> <li>Não usuário clica no botão "Continuar com o Google"</li> <li>Não usuário clica é levado à página do Google para permitir acesso à sua conta</li></ol>|
 | **Fluxo Alternativo** | <ul><li>**FA001**: Usuário associa-se com sua conta da Apple em vez de sua conta da google no passo 3, autenticando-se com o serviço da Apple</li> <li>**FA002** - Usuário associa-se com seu número de telefone em vez de um serviço externo no passo 3, informando o seu número de telefone</li> </ul> |
-| **Fluxo de Exceção**  | **FE001** - Erro de conexão previne o não usuário de criar a sua conta |
+| **Fluxo de Exceção**  | **FE01** - Erro de conexão previne o não usuário de criar a sua conta |
 
 # UC20 - Alterar conta
 
@@ -257,9 +257,9 @@
 | **Ator(es)**          | Usuário do QuintoAndar|
 | **Pré-condições**     | Acesso à internet, usuário já deve estar cadastrado na aplicação|
 | **Pós-Condições**     | Usuário terá acesso às suas informações e poderá utilizar as funcionalidades completas da aplicação|
-| **Fluxo principal**   | **FP002** - Fazer login <ol>  <li>Usuário abre a aplicação</li> <li>Usuário clica no botão "Acessar sua conta"</li> <li>Não usuário clica no botão "Continuar com o Google"</li> <li>Não usuário clica é levado à página do Google para permitir acesso à sua conta</li></ol>|
-| **Fluxo Alternativo** | <ul><li>**FA002**: Usuário associa-se com sua conta da Apple em vez de sua conta da google no passo 3, autenticando-se com o serviço da Apple</li>  </ul> |
-| **Fluxo de Exceção**  | **FE002** - Erro de conexão previne o usuário de fazer login |
+| **Fluxo principal**   | **FP02** - Fazer login <ol>  <li>Usuário abre a aplicação</li> <li>Usuário clica no botão "Acessar sua conta"</li> <li>Não usuário clica no botão "Continuar com o Google"</li> <li>Não usuário clica é levado à página do Google para permitir acesso à sua conta</li></ol>|
+| **Fluxo Alternativo** | <ul><li>**FA02**: Usuário associa-se com sua conta da Apple em vez de sua conta da google no passo 3, autenticando-se com o serviço da Apple</li>  </ul> |
+| **Fluxo de Exceção**  | **FE02** - Erro de conexão previne o usuário de fazer login |
 
 # UC22 - Adicionar email alternativo
 
@@ -269,7 +269,7 @@
 | **Ator(es)**          | Usuário do QuintoAndar|
 | **Pré-condições**     | Acesso à internet, usuário já deve estar cadastrado na aplicação|
 | **Pós-Condições**     | Usuário terá um outro e-mail pelo qual poderá receber informações da aplicação e se comunicar com outros interessados|
-| **Fluxo principal**   | **FP003** - Adicionar email alternativo: <ol><li> Usuário abre a aplicação </li> <li> Usuário vai para a aba de Menu </li> <li> Usuário Aperta no botão "Gerenciar conta" </li> <li> Usuário escreve seu email alternativo no formulário </li> <li> Usuário clica no botão "Salvar" </li> </ol>|
+| **Fluxo principal**   | **FP03** - Adicionar email alternativo: <ol><li> Usuário abre a aplicação </li> <li> Usuário vai para a aba de Menu </li> <li> Usuário Aperta no botão "Gerenciar conta" </li> <li> Usuário escreve seu email alternativo no formulário </li> <li> Usuário clica no botão "Salvar" </li> </ol>|
 | **Fluxo Alternativo** | - |
 | **Fluxo de Exceção**  | **FE03** - Erro de conexão previne o usuário de adicionar o e-mail alternativo|
 
@@ -290,13 +290,14 @@
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um usuário do QuintoAndar que deseja sair de sua sessão da aplicação no dispositivo|
+| **Ator(es)**          | Usuário |
+| **Pré-condições**     | Acesso à internet, usuário já deve estar cadasstrado na aplicação|
+| **Pós-Condições**     | Usuário encerrará sua sessão na aplicação, permitindo o login de outra conta|
+| **Fluxo principal**   | **FP04** - Sair da conta <ol><li> Usuário abre a aplicação </li> <li> Usuário vai para a aba de menu </li> <li> Usuário clica no botão "Gerenciar Conata" </li> <li> Usuário clica no botão vermelho "Sair da conta" </li> </ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | **FE04** - Erro de conexão previne o usuário de adicionar o e-mail alternativo|
+
 ---
 
 <center>
