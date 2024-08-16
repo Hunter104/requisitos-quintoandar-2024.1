@@ -275,7 +275,9 @@ Critérios de aceitação:
 - [ ] O app deve ter uma sessão de "perguntas frequentes".
 - [ ] O app deve oferecer ajuda com tarefas específicas de forma algorítmica, através de instruções simples.
 - [ ] O app deve permitir solicitação de atendimento para resolver dúvidas específicas.
-- [ ] O app deve oferecer ajuda através de um atendente virtual. 
+- [ ] O app deve oferecer ajuda através de um atendente virtual.
+
+
 
 <center>
 
