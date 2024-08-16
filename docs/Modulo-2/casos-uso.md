@@ -142,41 +142,42 @@
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | |
 
+<!-- separar esse UC em duas-->
 # UC12 - Conversar com o corretor e/ou proprietário
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Um inquilino e um proprietário participam de uma troca de mensagens através da aplicação |
+| **Ator(es)**          | Inquilino, proprietário|
+| **Pré-condições**     | Acesso à internet, inquilino deve estar alugando um imóvel de um certo proprietário, Inquilino e proprietário devem ter uma conta no aplicativo |
+| **Pós-Condições**     | Inquilino e proprietário trocaram mensagens através da aplicação|
+| **Fluxo principal**   | **FP00** - Troca de mensagens <ol><li>Inquilino e proprietário apertam na aba "Mensagens" da aplicação</li> <li><li>Na aba "Conversas" o Inquilino aperta no botão "Com o proprietário", e o proprietário no botão "Com seu inquilino"</li><li> <li>Inquilino e proprietário engajam em conversa para negociar acordos, notificar probelmas, *et cetra*</li> </ol>|
+| **Fluxo Alternativo** | -|
+| **Fluxo de Exceção**  | **FE00** - Erro de conexão previne o usuário de enviar ou receber mensagens|
 
 # UC13 - Compartilhar link de imóveis
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Um usuário deseja compartilhar um hyperlink que redireciona para informações de um certo imóvel |
+| **Ator(es)**          | Usuário |
+| **Pré-condições**     | Conexão à internet |
+| **Pós-Condições**     | Usuário será providenciado com um hyperlink que pode ser compartilhado pela internet|
+| **Fluxo principal**   | **FP00** - Compartilhamento de link <ol> <li> Usuário abre a aplicação </lI> <li> Usuário vai para a aba "Início" ou "Busca" </li> <li> Usuário clica em um imóvel, buscado ou recomendado, para mostrar seus detalhes </li> <li> Usuário clica no símbolo de compartilhamento no canto superior direito da tela </li> <li> Usuário é providenciado com um link que pode ser copiado para a área de transferência ou enviado para outras aplicações |
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | - |
 
 # UC14 - Ver agendamentos
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Um usuário deseja ver informações sobre as suas visitas agendadas|
+| **Ator(es)**          | Usuário |
+| **Pré-condições**     | Conexão à internet, usuário cadastrado na aplicação|
+| **Pós-Condições**     | Informações sobre as visitas agendadas estarão visíveis para o usuário|
+| **Fluxo principal**   | **FP00** - Visualização de visitas agendads <ol> <li> Usuário abre a aplicação </li> <li> Usuário vai para a aba "Menu" </li> <li> Usuário clica no botão "Visitas agendadas" </li> <li> Informações sobre visitas passadas e visitas futuras estarão disponíveis para visualização </li> </ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | **FE00** - Erro de conexão previne o usuário de ver informações sobre suas visitas|
 
 # UC15 - Alugar imóvel
 
@@ -206,13 +207,13 @@
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Usuário deseja indicar um proprietário não cadastrado na aplicação e com um imóvel disponível para venda ou aluguel para a aplicação|
+| **Ator(es)**          | Usuário, Proprietário não usuário1|
+| **Pré-condições**     | Acesso à internet, usuário cadastrado na aplicação, proprietário não cadastrado na aplicação|
+| **Pós-Condições**     | Proprietário será contatado pela equipe do quintoandar sobre anunciar o imóvel no quintoandar|
+| **Fluxo principal**   | **FP00** - Indicar imóvel: <ol> <li> Usuário abre a aplicação </li> <li> Usuário vai para a aba "Menu" </li> <li> Usuário clica no botão "Indicar imóvel" </li> <li> Usuário é redirecionado para uma página com formulários </li> <li> Usuário preenche o formulário de indicação simples com os dados de contanto do proprietário </li> <li> Proprietário é contatado pela equipe do QuintoAndar sobre anunciar o imóvel na aplicação </li>|
+| **Fluxo Alternativo** | **FA00** - Indicação com link: No passo Nº 5, em vez de preencher os dados de contato do proprietário, o usuário compartilha o link da área "Indicação Com Link" com o proprietário no qual o proprietário irá utilizar para anunciar seu imóvel na aplicação|
+| **Fluxo de Exceção**  | <ul><li>**FE00** - Perda de conexão com a internet não permite preenchimento do formulário</li>  <li> **FE00** - Mau preenchimento dos dados de contato do proprietário impossibilita a equipe de contatar-lo</ul>|
 
 ---
 <center>
