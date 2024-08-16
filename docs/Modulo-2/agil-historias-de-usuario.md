@@ -238,6 +238,33 @@ Critérios de aceitação:
 - [ ] O sistema deve permitir um acordo entre proprietário e fotógrafo.
 - [ ] A visita deve aparecer na agenda/painel do proprietário e do fotógrafo.
 
+### US022 - Ver meus imóveis
+
+Eu, como proprietário, quero poder ver minha lista de imóveis cadastrados.
+
+Critérios de aceitação:
+
+- [ ] O proprietário deve poder ver seus imóveis que estão disponíveis para compra/aluguel.
+- [ ] Apenas o proprietário deve poder ver seus imóveis cadastrados mas não anunciados.
+
+### US023 - Cancelamento de propostas
+
+Eu, como usuário, quero poder cancelar uma proposta enviada por mim enquanto esta não foi aceita.
+
+Critérios de aceitação:
+
+- [ ] Deve ser possível cancelar uma proposta enviada a um proprietário enquanto esta não foi aceita.
+
+### US024 - Avaliar atendimento do corretor
+
+Eu, como proprietário, quero poder avaliar o corretor que analisou e/ou visitou meu imóvel.
+
+Critérios de aceitação:
+
+- [ ] Deve ser possível buscar e encontrar o corretor na sessão "avaliações".
+- [ ] Deve ser possível avaliar o corretor se ele tiver feito uma visita ao proprietário que está avaliando.
+- [ ] O app não deve permitir a avaliação de corretores não conhecidos pelo proprietário.
+
 <center>
 
 # Histórico de versão
