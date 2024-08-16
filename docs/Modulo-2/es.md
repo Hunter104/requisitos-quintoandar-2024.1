@@ -10,7 +10,12 @@
 > Definições Acrônimos e Abreviações disponíveis em [Léxicos](Modulo-2/lexico.md) e [Cénarios](Modulo-2/cenario.md).
 
 
-<iframe src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/es.pdf?raw=true" width="100%" height="600px"></iframe>
+<center>
+
+<iframe src="./assets/es.pdf" width="100%" height="600px"></iframe>
+
+
+</center>
 
 ---
 
@@ -25,5 +30,6 @@
 |    Data    | Versão |       Descrição       | Autores                                          |
 |:----------:|:------:|:---------------------:|--------------------------------------------------|
 | 07/08/2024 | `1.0`  | Criação do documento. | [João Antonio G.](https://github.com/joaoseisei) |
+| 16/08/2024 | `1.1`  |    Adiciona o pdf.    | [João Antonio G.](https://github.com/joaoseisei) |
 
 </div>
