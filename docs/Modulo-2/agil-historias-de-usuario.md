@@ -265,6 +265,18 @@ Critérios de aceitação:
 - [ ] Deve ser possível avaliar o corretor se ele tiver feito uma visita ao proprietário que está avaliando.
 - [ ] O app não deve permitir a avaliação de corretores não conhecidos pelo proprietário.
 
+### US025 - Suporte e ajuda ao cliente
+
+Eu, como usuário quero ter ajuda no uso do app.
+
+Critérios de aceitação:
+
+- [ ] O app deve ter uma sessão "ajuda" com sugestões de tópicos disponível para cada classe de usuário.
+- [ ] O app deve ter uma sessão de "perguntas frequentes".
+- [ ] O app deve oferecer ajuda com tarefas específicas de forma algorítmica, através de instruções simples.
+- [ ] O app deve permitir solicitação de atendimento para resolver dúvidas específicas.
+- [ ] O app deve oferecer ajuda através de um atendente virtual. 
+
 <center>
 
 # Histórico de versão
@@ -273,9 +285,10 @@ Critérios de aceitação:
 
 <div style="margin: 0 auto; width: fit-content;">
 
-|    Data    | Versão |       Descrição       | Autores                                                                                        |
-| :--------: | :----: | :-------------------: | ---------------------------------------------------------------------------------------------- |
-| 14/08/2024 | `1.0`  | Criação do documento. | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
-|            |        |                       |                                                                                                |
+|    Data    | Versão |           Descrição           | Autores                                                                                        |
+| :--------: | :----: | :---------------------------: | ---------------------------------------------------------------------------------------------- |
+| 14/08/2024 | `1.0`  |     Criação do documento.     | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
+| 16/08/2024 | `1.1`  | Adiciona históias de usuário. | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
+|            |        |                               |                                                                                                |
 
 </div>
