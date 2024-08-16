@@ -286,6 +286,37 @@ Critérios de aceitação:
 
 - [ ] O app deve abrir um pop up  esporadicamente recomendando que o usuário o avalie até que ele o faça.
 
+### US027 - Solicitar informações adicionais de um imóvel
+
+Eu, como usuário quero poder solicitar informações extras de um imóvel a um corretor.
+
+Critérios de aceitação:
+
+- [ ] Deve haver um botão "Solicitar informações" na página de todos os imóveis.
+- [ ] O usuário deve poder solicitar as informações de seu interesse.
+- [ ] O corretor deve receber um alerta da solicitação.
+- [ ] O corretor deve poder enviar uma resposta ao usuário.
+
+### US028 - Avaliar imóvel
+
+Eu, como usuário quero poder registrar uma avaliação pública sobre um imóvel após a visita.
+
+Critérios de aceitação:
+
+- [ ] O usuário deve ter acesso a sessão de avaliações.
+- [ ] O usuário deve poder escrever uma avaliação.
+- [ ] O usuário deve poder publicar a avaliação.
+- [ ] O usuário deve poder avaliar apenas os imóveis que visitou.
+
+### US029 - Atualizar fotos do imóvel
+
+Eu, como proprietário quero poder atualizar as fotos dos meus imóveis.
+
+Critérios de aceitação:
+
+- [ ] O proprietário deve conseguir fazer upload de novas fotos em imóveis já cadastrados.
+- [ ] As fotos antigas devem ser substituídas pelas novas.
+ 
 <center>
 
 # Histórico de versão
