@@ -1,0 +1,7 @@
+USE lexico_db;
+
+DROP TABLE impactos;
+DROP TABLE nocoes;
+DROP TABLE sinonimos;
+DROP TABLE SIMBOLO;
+DROP TABLE TIPOSIMBOLO;
