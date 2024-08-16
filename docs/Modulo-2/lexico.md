@@ -15,7 +15,6 @@
 | Lexigramas                                                          |
 |---------------------------------------------------------------------|
 | [L01 - Acordo](#l01-acordo)                                         |
-| [L02 - Adicionar imóvel](#l02-adicionar-imóvel)                     |
 | [L03 - Afiliado](#l03-afiliado)                                     |
 | [L04 - Ajuda e atendimento](#l04-ajuda-e-atendimento)               |
 | [L05 - Alerta](#l05-alerta)                                         |
@@ -24,7 +23,6 @@
 | [L08 - Alterar o país](#l08-alterar-o-país)                         |
 | [L09 - Anunciar imóvel](#l09-anunciar-imóvel)                       |
 | [L10 - Buscar imóveis](#l10-buscar-imóveis)                         |
-| [L11 - Cadastrar imóvel](#l11-cadastrar-imóvel)                     |
 | [L12 - Compra](#l12-compra)                                         |
 | [L13 - Comprador](#l13-comprador)                                   |
 | [L14 - Condomínio](#l14-condomínio)                                 |
@@ -34,7 +32,6 @@
 | [L18 - Criar proposta customizada](#l18-criar-proposta-customizada) |
 | [L19 - Deletar conta](#l19-deletar-conta)                           |
 | [L20 - Detalhes do valor](#l20-detalhes-do-valor)                   |
-| [L21 - Encontrar imóveis](#l21-encontrar-imóveis)                   |
 | [L22 - Favoritos](#l22-favoritos)                                   |
 | [L23 - Fazer Proposta](#l23-fazer-proposta)                         |
 | [L24 - Filtro](#l24-filtro)                                         |
@@ -72,6 +69,7 @@
 
 ---
 
+<!--TODO: ajeitar os números no chatgpt -->
 # L01 Acordo
 
 |                   |                                                                                                                                                                                                                |
@@ -81,18 +79,6 @@
 | **Sinônimo**      | Contrato, trato, tratado, pacto, convênio.                                                                                                                                                                     |
 | **Noção**         | <ul> <li> Um ajuste formal entre partes. <li>Um [proprietário](#l39-proprietário) e um futuro [inquilino](#l29-inquilino) concordam em relação aos termos de negociação de um [imóvel](#l27-imóvel) . </li>    |
 | **Impacto**       | <ul> <li>[Proprietário](#l39-proprietário) realiza acordo com [inquilino](#l29-inquilino).</li> <li> [Proprietário](#l39-proprietário) pode negociar um acordo com seu [inquilino](#l29-inquilino).</li> </ul> |
-
----
-
-# L02 Adicionar imóvel
-
-|                   |                                                                                                                                                                                                                                                                                                                      |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Adicionar imóvel                                                                                                                                                                                                                                                                                                     |
-| **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                |
-| **Sinônimo**      | Inserir [imóvel](#l27-imóvel), cadastrar [imóvel](#l27-imóvel).                                                                                                                                                                                                                                                      |
-| **Noção**         | O processo de incluir um novo [imóvel](#l27-imóvel) em um sistema ou banco de dados por um [proprietário](#l39-proprietário).                                                                                                                                                                                        |
-| **Impacto**       | <ul> <li>Facilita a gestão e o acompanhamento dos [imóveis](#l27-imóvel) cadastrados no sistema.</li> <li>Aumenta a visibilidade do [imóvel](#l27-imóvel) para potenciais [interessados](#l30-interessado).</li> <li>Permite a realização de transações ou ofertas relacionadas ao [imóvel](#l27-imóvel).</li> </ul> |
 
 ---
 
@@ -189,18 +175,6 @@
 | **Sinônimo**      | Procurar [imóveis](#l27-imóvel) , descobrir [imóveis](#l27-imóvel).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Noção**         | <ul> <li> Tarefa realizada por [inquilino](#l29-inquilino) / [comprador](#l13-comprador) ou compradores.</li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) vai para a aba de busca no aplicativo. </li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) coloca a região onde os [imóveis](#l27-imóvel) devem estar localizados. </li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) escolhe se os [imóveis](#l27-imóvel) devem estar dispoíveis para [aluguel](#l07-aluguel) ou para [compra](#l12-compra).</li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) pode aplicar zero ou mais [ filtros ](#l24-filtro) para busca mais específica.</li> <li> [Inquilino](#l29-inquilino) / [comprador](#l13-comprador) pode aplicar um critério de ordenação. </li> </ul> |
 | **Impacto**       | <ul> <li> [Imóveis](#l27-imóvel) disponíveis que se adequam aos [filtros](#l24-filtro) aparecerão no aplicativo.</li> <li> [Imóveis](#l27-imóvel) aparecerão na ordem escolhida.</li> <li>[Imóveis](#l27-imóvel) aparecerão com as informações mais relevantes, como fotos, preço, tamanho, quantidade de quartos e vagas de estacionamento, e localização.</li> </ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-
----
-
-# L11 Cadastrar imóvel
-
-|                   |                                                                                                                                                                                                                                                                                                                                                              |
-|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Cadastrar imóvel                                                                                                                                                                                                                                                                                                                                             |
-| **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                                                        |
-| **Sinônimo**      | [Adicionar imóvel](#l02-adicionar-imóvel), [anunciar imóvel](#l09-anunciar-imóvel).                                                                                                                                                                                                                                                                          |
-| **Noção**         | Ação de registrar um [imóvel](#l27-imóvel) em um sistema, incluindo informações como localização, características, e outros dados relevantes, por um [proprietário](#l39-proprietário). É o processo inicial para tornar o [imóvel](#l27-imóvel) disponível em um banco de dados ou plataforma.                                                              |
-| **Impacto**       | <ul> <li>[Proprietário](#l39-proprietário) adiciona um novo [imóvel](#l27-imóvel) ao catálogo disponível para consulta.</li> <li>O [imóvel](#l27-imóvel) pode ser gerenciado, visualizado e comercializado.</li> <li>O [imóvel](#l27-imóvel) pode estar acessível para futuros processos, como [compras](#l12-compra) e [locações](#l07-aluguel).</li> </ul> |
 
 ---
 
@@ -311,18 +285,6 @@
 | **Sinônimo**      | Preço, valor, custos.                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Noção**         | Informações detalhadas sobre o valor de um [imóvel](#l39-proprietário) ou serviço, incluindo o preço, possíveis descontos, condições de pagamento, e quaisquer taxas adicionais ou encargos.                                                                                                                                                                                                                                                                  |
 | **Impacto**       | <ul> <li>O [inquilino](#l29-inquilino)/[comprador](#l13-comprador) visualiza os detalhes do valor, como [aluguel](#l07-aluguel), [condomínio](#l14-condomínio), [IPTU](#l31-iptu), [seguro incêndio](#l45-seguro-incêndio), [taxa de serviço](#l47-taxa-de-serviço), entre outros.</li><li>O [inquilino](#l29-inquilino)/[comprador](#l13-comprador) compreende completamente o valor total do imóvel, incluindo todos os componentes financeiros.</li> </ul> |
-
----
-
-# L21 Encontrar imóveis
-
-|                   |                                                                                                                                                                                                          |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome**          | Encontrar imóveis                                                                                                                                                                                        |
-| **Classificação** | Verbo                                                                                                                                                                                                    |
-| **Sinônimo**      | buscar imóveis, localizar imóveis.                                                                                                                                                                       |
-| **Noção**         | Ação de pesquisar e localizar imóveis disponíveis para venda ou locação através do aplicativo.                                                                                                           |
-| **Impacto**       | <ul> <li>Os [usuários](#l53-usuário) podem encontrar rapidamente [imóveis](#l27-imóvel) que atendam às suas necessidades utilizando os [filtros](#l24-filtro) e [recomendações](#l43-recomendados).</li> |
 
 ---
 
@@ -710,7 +672,18 @@
 
 ---
 
+# L54 Login
+
+|                   |                                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**          | Login                                                                                                                                                                                                                                                                                                                                                                   |
+| **Classificação** | Verbo |
+| **Sinônimo**      | Autenticar|
+| **Noção**         | <ul><li>Ação de se autenticar na plataforma QuintoAndar para uso de sua Conta e suas informações</ul></li>|
+| **Impacto**       | |
 <div style="text-align: center;">
+
+---
 
 # Histórico de versão
 

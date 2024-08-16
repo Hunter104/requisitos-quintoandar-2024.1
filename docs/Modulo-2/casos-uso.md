@@ -142,41 +142,42 @@
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | |
 
+<!-- separar esse UC em duas-->
 # UC12 - Conversar com o corretor e/ou proprietário
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Um inquilino e um proprietário participam de uma troca de mensagens através da aplicação |
+| **Ator(es)**          | Inquilino, proprietário|
+| **Pré-condições**     | Acesso à internet, inquilino deve estar alugando um imóvel de um certo proprietário, Inquilino e proprietário devem ter uma conta no aplicativo |
+| **Pós-Condições**     | Inquilino e proprietário trocaram mensagens através da aplicação|
+| **Fluxo principal**   | **FP00** - Troca de mensagens <ol><li>Inquilino e proprietário apertam na aba "Mensagens" da aplicação</li> <li><li>Na aba "Conversas" o Inquilino aperta no botão "Com o proprietário", e o proprietário no botão "Com seu inquilino"</li><li> <li>Inquilino e proprietário engajam em conversa para negociar acordos, notificar probelmas, *et cetra*</li> </ol>|
+| **Fluxo Alternativo** | -|
+| **Fluxo de Exceção**  | **FE00** - Erro de conexão previne o usuário de enviar ou receber mensagens|
 
 # UC13 - Compartilhar link de imóveis
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Um usuário deseja compartilhar um hyperlink que redireciona para informações de um certo imóvel |
+| **Ator(es)**          | Usuário |
+| **Pré-condições**     | Conexão à internet |
+| **Pós-Condições**     | Usuário será providenciado com um hyperlink que pode ser compartilhado pela internet|
+| **Fluxo principal**   | **FP00** - Compartilhamento de link <ol> <li> Usuário abre a aplicação </lI> <li> Usuário vai para a aba "Início" ou "Busca" </li> <li> Usuário clica em um imóvel, buscado ou recomendado, para mostrar seus detalhes </li> <li> Usuário clica no símbolo de compartilhamento no canto superior direito da tela </li> <li> Usuário é providenciado com um link que pode ser copiado para a área de transferência ou enviado para outras aplicações |
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | - |
 
 # UC14 - Ver agendamentos
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Um usuário deseja ver informações sobre as suas visitas agendadas|
+| **Ator(es)**          | Usuário |
+| **Pré-condições**     | Conexão à internet, usuário cadastrado na aplicação|
+| **Pós-Condições**     | Informações sobre as visitas agendadas estarão visíveis para o usuário|
+| **Fluxo principal**   | **FP00** - Visualização de visitas agendads <ol> <li> Usuário abre a aplicação </li> <li> Usuário vai para a aba "Menu" </li> <li> Usuário clica no botão "Visitas agendadas" </li> <li> Informações sobre visitas passadas e visitas futuras estarão disponíveis para visualização </li> </ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | **FE00** - Erro de conexão previne o usuário de ver informações sobre suas visitas|
 
 # UC15 - Alugar imóvel
 
@@ -206,13 +207,13 @@
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Usuário deseja indicar um proprietário não cadastrado na aplicação e com um imóvel disponível para venda ou aluguel para a aplicação|
+| **Ator(es)**          | Usuário, Proprietário não usuário1|
+| **Pré-condições**     | Acesso à internet, usuário cadastrado na aplicação, proprietário não cadastrado na aplicação|
+| **Pós-Condições**     | Proprietário será contatado pela equipe do quintoandar sobre anunciar o imóvel no quintoandar|
+| **Fluxo principal**   | **FP00** - Indicar imóvel: <ol> <li> Usuário abre a aplicação </li> <li> Usuário vai para a aba "Menu" </li> <li> Usuário clica no botão "Indicar imóvel" </li> <li> Usuário é redirecionado para uma página com formulários </li> <li> Usuário preenche o formulário de indicação simples com os dados de contanto do proprietário </li> <li> Proprietário é contatado pela equipe do QuintoAndar sobre anunciar o imóvel na aplicação </li>|
+| **Fluxo Alternativo** | **FA00** - Indicação com link: No passo Nº 5, em vez de preencher os dados de contato do proprietário, o usuário compartilha o link da área "Indicação Com Link" com o proprietário no qual o proprietário irá utilizar para anunciar seu imóvel na aplicação|
+| **Fluxo de Exceção**  | <ul><li>**FE00** - Perda de conexão com a internet não permite preenchimento do formulário</li>  <li> **FE00** - Mau preenchimento dos dados de contato do proprietário impossibilita a equipe de contatar-lo</ul>|
 
 ---
 <center>
@@ -233,9 +234,9 @@
 | **Ator(es)**          | Não usuário |
 | **Pré-condições**     | Acesso à internet, um email não vinculado ao sistema|
 | **Pós-Condições**     | O não usuário passa a ser usuário e tem uma conta cadastrada no sistema|
-| **Fluxo principal**   | **FP001** - Realizar cadastro <ol>  <li>Não usuário abre a aplicação</li> <li>Não usuário clica no botão "Acessar sua conta"</li> <li>Não usuário clica no botão "Continuar com o Google"</li> <li>Não usuário clica é levado à página do Google para permitir acesso à sua conta</li></ol>|
+| **Fluxo principal**   | **FP01** - Realizar cadastro <ol>  <li>Não usuário abre a aplicação</li> <li>Não usuário clica no botão "Acessar sua conta"</li> <li>Não usuário clica no botão "Continuar com o Google"</li> <li>Não usuário clica é levado à página do Google para permitir acesso à sua conta</li></ol>|
 | **Fluxo Alternativo** | <ul><li>**FA001**: Usuário associa-se com sua conta da Apple em vez de sua conta da google no passo 3, autenticando-se com o serviço da Apple</li> <li>**FA002** - Usuário associa-se com seu número de telefone em vez de um serviço externo no passo 3, informando o seu número de telefone</li> </ul> |
-| **Fluxo de Exceção**  | **FE001** - Erro de conexão previne o não usuário de criar a sua conta |
+| **Fluxo de Exceção**  | **FE01** - Erro de conexão previne o não usuário de criar a sua conta |
 
 # UC20 - Alterar conta
 
@@ -257,9 +258,9 @@
 | **Ator(es)**          | Usuário do QuintoAndar|
 | **Pré-condições**     | Acesso à internet, usuário já deve estar cadastrado na aplicação|
 | **Pós-Condições**     | Usuário terá acesso às suas informações e poderá utilizar as funcionalidades completas da aplicação|
-| **Fluxo principal**   | **FP002** - Fazer login <ol>  <li>Usuário abre a aplicação</li> <li>Usuário clica no botão "Acessar sua conta"</li> <li>Não usuário clica no botão "Continuar com o Google"</li> <li>Não usuário clica é levado à página do Google para permitir acesso à sua conta</li></ol>|
-| **Fluxo Alternativo** | <ul><li>**FA002**: Usuário associa-se com sua conta da Apple em vez de sua conta da google no passo 3, autenticando-se com o serviço da Apple</li>  </ul> |
-| **Fluxo de Exceção**  | **FE002** - Erro de conexão previne o usuário de fazer login |
+| **Fluxo principal**   | **FP02** - Fazer login <ol>  <li>Usuário abre a aplicação</li> <li>Usuário clica no botão "Acessar sua conta"</li> <li>Não usuário clica no botão "Continuar com o Google"</li> <li>Não usuário clica é levado à página do Google para permitir acesso à sua conta</li></ol>|
+| **Fluxo Alternativo** | <ul><li>**FA02**: Usuário associa-se com sua conta da Apple em vez de sua conta da google no passo 3, autenticando-se com o serviço da Apple</li>  </ul> |
+| **Fluxo de Exceção**  | **FE02** - Erro de conexão previne o usuário de fazer login |
 
 # UC22 - Adicionar email alternativo
 
@@ -269,7 +270,7 @@
 | **Ator(es)**          | Usuário do QuintoAndar|
 | **Pré-condições**     | Acesso à internet, usuário já deve estar cadastrado na aplicação|
 | **Pós-Condições**     | Usuário terá um outro e-mail pelo qual poderá receber informações da aplicação e se comunicar com outros interessados|
-| **Fluxo principal**   | **FP003** - Adicionar email alternativo: <ol><li> Usuário abre a aplicação </li> <li> Usuário vai para a aba de Menu </li> <li> Usuário Aperta no botão "Gerenciar conta" </li> <li> Usuário escreve seu email alternativo no formulário </li> <li> Usuário clica no botão "Salvar" </li> </ol>|
+| **Fluxo principal**   | **FP03** - Adicionar email alternativo: <ol><li> Usuário abre a aplicação </li> <li> Usuário vai para a aba de Menu </li> <li> Usuário Aperta no botão "Gerenciar conta" </li> <li> Usuário escreve seu email alternativo no formulário </li> <li> Usuário clica no botão "Salvar" </li> </ol>|
 | **Fluxo Alternativo** | - |
 | **Fluxo de Exceção**  | **FE03** - Erro de conexão previne o usuário de adicionar o e-mail alternativo|
 
@@ -290,13 +291,14 @@
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um usuário do QuintoAndar que deseja sair de sua sessão da aplicação no dispositivo|
+| **Ator(es)**          | Usuário |
+| **Pré-condições**     | Acesso à internet, usuário já deve estar cadasstrado na aplicação|
+| **Pós-Condições**     | Usuário encerrará sua sessão na aplicação, permitindo o login de outra conta|
+| **Fluxo principal**   | **FP04** - Sair da conta <ol><li> Usuário abre a aplicação </li> <li> Usuário vai para a aba de menu </li> <li> Usuário clica no botão "Gerenciar Conata" </li> <li> Usuário clica no botão vermelho "Sair da conta" </li> </ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | **FE04** - Erro de conexão previne o usuário de adicionar o e-mail alternativo|
+
 ---
 
 <center>
