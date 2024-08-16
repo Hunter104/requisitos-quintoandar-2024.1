@@ -137,7 +137,8 @@ Eu, como proprietário, quero poder ver e gerenciar as propostas recebidas.
 
 Critérios de aceitação:
 
-- [ ] O proprietário deve poder ver as propostas enviadas por interessados para um imóvel
+- [ ] O proprietário deve poder ver as propostas enviadas por interessados para um imóvel.
+- [ ] O proprietário deve poder ver o andamento das propostas recebidas.
 - [ ] O proprietário deve conseguir aceitar ou recusar as propostas recebidas.
 
 ### US012 - Recomendações de imóveis
@@ -277,7 +278,13 @@ Critérios de aceitação:
 - [ ] O app deve permitir solicitação de atendimento para resolver dúvidas específicas.
 - [ ] O app deve oferecer ajuda através de um atendente virtual.
 
+### US026 - Feedback sobre o app
 
+Eu, como usuário gostaria de poder avaliar o aplicativo. 
+
+Critérios de aceitação:
+
+- [ ] O app deve abrir um pop up  esporadicamente recomendando que o usuário o avalie até que ele o faça.
 
 <center>
 
