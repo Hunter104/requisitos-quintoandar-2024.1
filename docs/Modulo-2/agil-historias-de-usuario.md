@@ -137,7 +137,8 @@ Eu, como proprietário, quero poder ver e gerenciar as propostas recebidas.
 
 Critérios de aceitação:
 
-- [ ] O proprietário deve poder ver as propostas enviadas por interessados para um imóvel
+- [ ] O proprietário deve poder ver as propostas enviadas por interessados para um imóvel.
+- [ ] O proprietário deve poder ver o andamento das propostas recebidas.
 - [ ] O proprietário deve conseguir aceitar ou recusar as propostas recebidas.
 
 ### US012 - Recomendações de imóveis
@@ -147,7 +148,7 @@ Eu, como usuário interessado desejo ver imóveis similares aos que tenho buscad
 - [ ] O app deve ser capaz de identificar imóveis similares as preferências do usuário.
 - [ ] O app deve recomendar os imóveis identificados ao usuário.
 
-### US13 - Notificação de mensagens
+### US013 - Notificação de mensagens
 
 Eu, como usuário quero ser notificado ao receber mensagens no app.
 
@@ -156,7 +157,7 @@ Critérios de aceitação:
 - [ ] O app deve enviar um pop up para o dispositivo móvel de um usuário quando este receber uma mensagem.
 - [ ] O app deve enviar uma notificação por som para o dispositivo móvel de um usuário quando este receber uma mensagem.
 
-### US14 - Comprar/alugar imóvel
+### US014 - Comprar/alugar imóvel
 
 Eu, como usuário quero conseguir comprar ou alugar um imóvel.
 
@@ -168,7 +169,7 @@ Critérios de aceitação:
 - [ ] O proprietário deve poder gerenciar o aluguel de um imóvel.
 - [ ] O proprietário deve poder saber quem comprou ou alugou um imóvel.
 
-### US-15 - Conversas entre Usuários
+### US015 - Conversas entre Usuários
 
 Eu, como usuário, quero conversar com corretores, inquilinos e proprietários para esclarecer dúvidas, negociar condições e facilitar o processo de aluguel e compra de imóveis.
 
@@ -179,7 +180,7 @@ Critérios de Aceitação:
 - [ ] O usuário recebe notificações quando há novas mensagens.
 - [ ] Todas as conversas são armazenadas e acessíveis no histórico de mensagens do aplicativo.
 
-### US16 - Compartilhamento de Detalhes do Imóvel
+### US016 - Compartilhamento de Detalhes do Imóvel
 
 Eu, como usuário, quero compartilhar os detalhes do imóvel através de um link para divulgar o imóvel em outras plataformas e facilitar o compartilhamento com amigos e familiares.
 
@@ -187,7 +188,7 @@ Eu, como usuário, quero compartilhar os detalhes do imóvel através de um link
 - [ ] Os botão deve permitir compartilhar o link do imóvel em plataformas populares (por exemplo, redes sociais, e-mail, mensagens instantâneas).
 - [ ] O link compartilhado deve redirecionar corretamente para a página de detalhes do imóvel no aplicativo.
 
-### US17 - Cadastro e Anúncio de Imóveis
+### US017 - Cadastro e Anúncio de Imóveis
 
 Eu, como proprietário, quero cadastrar e anunciar meus imóveis na plataforma para disponibilizá-los para locação ou venda.
 
@@ -199,7 +200,7 @@ Critérios de Aceitação:
 - [ ] O sistema deve permitir a inserção inicial de valores como IPTU e taxas.
 - [ ] As informações inseridas devem ser salvas corretamente no banco de dados.
 
-### US18 - Anúncio de Imóveis
+### US018 - Anúncio de Imóveis
 
 Eu, como proprietário, quero agendar uma sessão de fotos profissionais para o meu imóvel para que o anúncio fique visualmente atraente e completo.
 
@@ -207,7 +208,7 @@ Eu, como proprietário, quero agendar uma sessão de fotos profissionais para o 
 - [ ] O proprietário pode escolher uma data e hora para a sessão de fotos.
 - [ ] O proprietário deve poder reagendar a sessão de fotos, se necessário.
 
-### US19 - Indicação de Imóveis
+### US019 - Indicação de Imóveis
 
 Eu, como usuário, quero indicar imóveis para o QuintoAndar usando o link ou a indicação simples para ganhar recompensas quando os imóveis forem publicados, alugados ou vendidos.
 
@@ -219,6 +220,103 @@ Critérios de Aceitação:
 - [ ] O usuário deve poder ver o status da indicação em "Minhas Indicações".
 - [ ] O sistema deve calcular e pagar as recompensas no dia 15 do mês seguinte.
 
+### US020 - Ver agendamentos
+
+Eu, como usuário, quero ver todos os meus compromissos agendados.
+
+Critérios de aceitação:
+
+- [ ] O app deve guardar um histórico de todas as visitas já realizadas.
+- [ ] O app deve exibir todas as visitas futuras.
+
+### US021 - Agendamento de fotos
+
+Eu, como proprietário, quero poder agendar uma sessão de fotos do meu imóvel.
+
+Critérios de aceitação:
+
+- [ ] O proprietário deve poder solicitar uma sessão de fotos.
+- [ ] O sistema deve permitir um acordo entre proprietário e fotógrafo.
+- [ ] A visita deve aparecer na agenda/painel do proprietário e do fotógrafo.
+
+### US022 - Ver meus imóveis
+
+Eu, como proprietário, quero poder ver minha lista de imóveis cadastrados.
+
+Critérios de aceitação:
+
+- [ ] O proprietário deve poder ver seus imóveis que estão disponíveis para compra/aluguel.
+- [ ] Apenas o proprietário deve poder ver seus imóveis cadastrados mas não anunciados.
+
+### US023 - Cancelamento de propostas
+
+Eu, como usuário, quero poder cancelar uma proposta enviada por mim enquanto esta não foi aceita.
+
+Critérios de aceitação:
+
+- [ ] Deve ser possível cancelar uma proposta enviada a um proprietário enquanto esta não foi aceita.
+
+### US024 - Avaliar atendimento do corretor
+
+Eu, como proprietário, quero poder avaliar o corretor que analisou e/ou visitou meu imóvel.
+
+Critérios de aceitação:
+
+- [ ] Deve ser possível buscar e encontrar o corretor na sessão "avaliações".
+- [ ] Deve ser possível avaliar o corretor se ele tiver feito uma visita ao proprietário que está avaliando.
+- [ ] O app não deve permitir a avaliação de corretores não conhecidos pelo proprietário.
+
+### US025 - Suporte e ajuda ao cliente
+
+Eu, como usuário quero ter ajuda no uso do app.
+
+Critérios de aceitação:
+
+- [ ] O app deve ter uma sessão "ajuda" com sugestões de tópicos disponível para cada classe de usuário.
+- [ ] O app deve ter uma sessão de "perguntas frequentes".
+- [ ] O app deve oferecer ajuda com tarefas específicas de forma algorítmica, através de instruções simples.
+- [ ] O app deve permitir solicitação de atendimento para resolver dúvidas específicas.
+- [ ] O app deve oferecer ajuda através de um atendente virtual.
+
+### US026 - Feedback sobre o app
+
+Eu, como usuário gostaria de poder avaliar o aplicativo. 
+
+Critérios de aceitação:
+
+- [ ] O app deve abrir um pop up  esporadicamente recomendando que o usuário o avalie até que ele o faça.
+
+### US027 - Solicitar informações adicionais de um imóvel
+
+Eu, como usuário quero poder solicitar informações extras de um imóvel a um corretor.
+
+Critérios de aceitação:
+
+- [ ] Deve haver um botão "Solicitar informações" na página de todos os imóveis.
+- [ ] O usuário deve poder solicitar as informações de seu interesse.
+- [ ] O corretor deve receber um alerta da solicitação.
+- [ ] O corretor deve poder enviar uma resposta ao usuário.
+
+### US028 - Avaliar imóvel
+
+Eu, como usuário quero poder registrar uma avaliação pública sobre um imóvel após a visita.
+
+Critérios de aceitação:
+
+- [ ] O usuário deve ter acesso a sessão de avaliações.
+- [ ] O usuário deve poder escrever uma avaliação.
+- [ ] O usuário deve poder publicar a avaliação.
+- [ ] O usuário deve poder avaliar apenas os imóveis que visitou.
+
+### US029 - Atualizar fotos do imóvel
+
+Eu, como proprietário quero poder atualizar as fotos dos meus imóveis.
+
+Critérios de aceitação:
+
+- [ ] O proprietário deve conseguir fazer upload de novas fotos em imóveis já cadastrados.
+- [ ] As fotos antigas devem ser substituídas pelas novas.
+ 
 <center>
 
 # Histórico de versão
@@ -227,9 +325,10 @@ Critérios de Aceitação:
 
 <div style="margin: 0 auto; width: fit-content;">
 
-|    Data    | Versão |       Descrição       | Autores                                                                                        |
-| :--------: | :----: | :-------------------: | ---------------------------------------------------------------------------------------------- |
-| 14/08/2024 | `1.0`  | Criação do documento. | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
-|            |        |                       |                                                                                                |
+|    Data    | Versão |           Descrição           | Autores                                                                                        |
+| :--------: | :----: | :---------------------------: | ---------------------------------------------------------------------------------------------- |
+| 14/08/2024 | `1.0`  |     Criação do documento.     | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
+| 16/08/2024 | `1.1`  | Adiciona históias de usuário. | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
+|            |        |                               |                                                                                                |
 
 </div>

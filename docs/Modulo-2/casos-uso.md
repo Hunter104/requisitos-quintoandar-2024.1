@@ -26,121 +26,133 @@
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um [usuário] para visualizar um mapa interativo com os [imóveis] disponíveis.|
+| **Ator(es)**          | [Usuário]|
+| **Pré-condições**     | Acesso à internet, o [usuário] deve ter feito uma busca por [imóvel]|
+| **Pós-Condições**     | O mapa interativo é exibido ao [usuário].|
+| **Fluxo principal**   | **FP001** - Acessar mapa interativo <ol><li>O [usuário] [busca por imóvel].</li><li>O sistema carrega o mapa com os [imóveis] disponíveis.</li><li>O [usuário] visualiza e interage com o mapa.</li></ol>|
+| **Fluxo Alternativo** | **FA001** - O [usuário] visualiza detalhes do [imóvel], no passo 2.|
+| **Fluxo de Exceção**  | **FE001** - Problemas de conexão impedem o usuário de ver o mapa|
 
 # UC02 - Exibir imóveis similares
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um [usuário] para visualizar [imóveis] semelhantes ao selecionado.|
+| **Ator(es)**          | [Usuário]|
+| **Pré-condições**     | Acesso à internet, o [usuário] deve estar visualizando os detalhes de um [imóvel].|
+| **Pós-Condições**     | Uma lista de [imóveis] semelhantes é exibida ao [usuário].|
+| **Fluxo principal**   | **FP001** - Exibir [imóveis] similares <ol><li>O [usuário] visualiza um [Imóvel].</li><li>O sistema exibe uma lista de [imóveis] semelhantes.</li><li>O [usuário] analisa os [imóveis] semelhantes exibidos.</li></ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | <li>**FE01** - Ocorre quando não há [imóveis] semelhantes disponíveis. O sistema informa o [inquilino].</li><li>**FE002** - Problemas de conexão.</li>|
 
 # UC03 - Ver detalhes do imóvel
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um [usuário] para visualizar informações detalhadas sobre um [imóvel] específico.|
+| **Ator(es)**          | [Usuário]|
+| **Pré-condições**     | Acesso à internet, o [usuário] deve ter realizado uma [busca] ou ter visualizado o [imóvel] no mapa interativo.|
+| **Pós-Condições**     | As informações detalhadas do [imóvel] são exibidas ao [usuário].|
+| **Fluxo principal**   | **FP001** - Ver detalhes do [imóvel] <ol><li>O [usuário] seleciona um [imóvel] para visualizar os detalhes.</li><li>O sistema exibe as informações detalhadas do [imóvel].</li><li>O [usuário] analisa as informações apresentadas.</li></ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | <li>**FE001** - Problemas de conexão impedem o usuário de ver os detalhes.</li><li>**FE002** - O [imóvel] estar indisponível.</li>|
 
 # UC04 - Usar filtro
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um [usuário] para aplicar [filtros] na [busca] de [imóveis].|
+| **Ator(es)**          | [Usuário]|
+| **Pré-condições**     | Acesso à internet, o [usuário] deve estar na página de [Busca de imóveis].|
+| **Pós-Condições**     | Os [imóveis] são [filtrados] de acordo com os critérios definidos.|
+| **Fluxo principal**   | **FP001** - Usar [Filtro] <ol><li>O [usuário] acessa a página de [Busca de imóveis] e define os critérios de [filtro].</li><li>O sistema aplica os [filtros] e exibe os [imóveis] correspondentes.</li><li>O [usuário] visualiza os [imóveis] filtrados.</li></ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | <li>**FE001** - Os [filtros] aplicados não atendem a nenhum [imóvel].</li><li> **FE002** - Problemas de conexão.</li>|
 
 # UC05 - Criar alertas
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um [usuário] para criar [alertas] que o notificam sobre novos [imóveis] que atendem a critérios específicos.|
+| **Ator(es)**          | [Usuário]|
+| **Pré-condições**     | Acesso à internet, o [usuário] deve estar autenticado no sistema.|
+| **Pós-Condições**     | Um [alerta] é criado e o [usuário] é notificado quando um [imóvel] correspondente é adicionado.|
+| **Fluxo principal**   | **FP001** - Criar [alerta] <ol><li>O [usuário] define os critérios para o [alerta].</li><li>O sistema cria o [alerta] e confirma sua criação ao [usuário].</li><li>O [usuário] recebe notificações quando novos [imóveis] atendem aos critérios.</li></ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | **FE001** - Problemas de conexão.|
 
 # UC06 - Buscar imóvel
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um [usuário] para buscar [imóveis] disponíveis na plataforma, utilizando diversos critérios de pesquisa.|
+| **Ator(es)**          | [Usuário]|
+| **Pré-condições**     | Acesso à internet.|
+| **Pós-Condições**     | Uma lista de [imóveis] que atendem aos critérios de busca é exibida ao [usuário].|
+| **Fluxo principal**   | **FP001** - [Buscar imóvel] <ol><li>O [usuário] acessa a página de busca de [imóveis].</li><li>O [usuário] aplica os [filtros] de busca, como localização, tipo de imóvel, faixa de preço, entre outros.</li><li>O sistema processa os critérios definidos e realiza a busca no banco de dados.</li><li>O sistema exibe a lista de [imóveis] que correspondem aos critérios de busca.</li><li>O [usuário] visualiza e interage com os resultados da busca.</li></ol>|
+| **Fluxo Alternativo** | **FA001** - Após o passo 5, o [usuário] altera os [filtros] após a exibição dos resultados para refinar a busca.|
+| **Fluxo de Exceção**  | <li>**FE001** - Nenhum [imóvel] corresponde à [busca].</li><li>**FE002** - Problemas com conexão.</li> |
 
 # UC07 - Cadastrar imóvel
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um [proprietário] para cadastrar um [imóvel] na plataforma.|
+| **Ator(es)**          | [Proprietário]|
+| **Pré-condições**     | Acesso à internet, o [proprietário] deve estar autenticado no sistema.|
+| **Pós-Condições**     | O [imóvel] é cadastrado e publicado na plataforma.|
+| **Fluxo principal**   | **FP001** - [Cadastrar imóvel] <ol><li>O [proprietário] fornece as informações e dados do [imóvel].</li><li>O sistema registra e publica o [imóvel] na plataforma.</li><li>O [imóvel] aparece na busca de [imóveis] disponíveis.</li></ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | <li>**FE001** - [Cadastro do imóvel] é rejeitado devido a informações incompletas, erradas ou outro motivo informado pelo sistema.</li><li>**FE002** - Problemas com conexão.</li>|
 
 # UC08 - Criar lista de favorito
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Permite ao [usuário] criar uma lista de [imóveis] [favoritos] para fácil acesso posterior.|
+| **Ator(es)**          | [Usuário]|
+| **Pré-condições**     | Acesso à internet, o [usuário] deve estar logado e ter interesse em determinados [imóveis].|
+| **Pós-Condições**     | A lista de [favoritos] é criada e armazenada no perfil do [usuário].|
+| **Fluxo principal**   | **FP001** - Criar lista de [favoritos] <ol><li>O [usuário] seleciona os [imóveis] que deseja adicionar aos [favoritos].</li><li>O sistema armazena os [imóveis] na lista de [favoritos] do [usuário].</li></ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | <li>**FE001** - Se o [imóvel] ser removido da plataforma.</li><li>**FE002** - Problemas de conexão.</li>|
+
+# UC09 - Fazer proposta
+
+|                   |                                                                                                                                                                                                                |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**         | Permite ao [interessado] fazer uma [proposta] de valor para [aluguel] ou [compra] de um [imóvel].|
+| **Ator(es)**          |[Interessado], [proprietário]|
+| **Pré-condições**     | Acesso à internet, o [interessado] deve estar interessado em um [imóvel] específico.|
+| **Pós-Condições**     | A [proposta] é enviada ao [proprietário] para consideração.|
+| **Fluxo principal**   | **FP001** - [Fazer proposta] para um [imóvel] <ol><li>O [interessado] acessa a opção de [fazer proposta].</li><li>O [interessado] insere o valor e as condições da [proposta].</li><li>O  sistema envia a [proposta] ao [proprietário].</li><li>O [proprietário] avalia a proposta e responde ao [interessado].</li></ol>|
+| **Fluxo Alternativo** | **FA001** - O [proprietário] pode optar por fazer uma contraproposta.|
+| **Fluxo de Exceção**  | **FE001** - Problemas de conexão. |
 
 # UC10 - Agendar horário para tirar foto do imóvel
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Permite ao [proprietário] agendar um horário para que um [fotógrafo] da equipe QuintoAndar tire fotos profissionais do imóvel.|
+| **Ator(es)**          | [Proprietário], [fotógrafo] da equipe QuintoAndar|
+| **Pré-condições**     | Acesso à internet, o [proprietário] precisa ter o [imóvel] cadastrado no sistema|
+| **Pós-Condições**     | Um horário é agendado para a sessão de fotos.|
+| **Fluxo principal**   | **FP001** - Agendar horário para tirar foto do [imóvel] <ol><li>O [proprietário] acessa a opção de agendar a sessão de fotos.</li><li>O sistema exibe os horários disponíveis.</li><li>O [proprietário] escolhe um horário e confirma.</li><li>O sistema agenda a sessão e notifica a equipe QuintoAndar.</li></ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | <li>**FE001** - Problemas de conexão.</li>|
 
 # UC11 - Ver notificação da conversa
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Permite ao [inquilino] e ao [proprietário] visualizar notificações relacionadas às conversas sobre um [Imóvel].|
+| **Ator(es)**          | [Inquilino], [proprietário]|
+| **Pré-condições**     | Acesso à internet, o [inquilino] e o [proprietário] devem estar envolvido em uma conversa sobre um [Imóvel].|
+| **Pós-Condições**     | As notificações da conversa são exibidas|
+| **Fluxo principal**   | **FP001** - Ver notificação da conversa <ol><li>O [inquilino] ou o [proprietário] acessa a seção de notificações.</li><li>O sistema exibe as notificações relacionadas às conversas ativas.</li></ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | <li>**FE001** - Não ter notificações. </li><li>**FE002** - Problemas de conexão.</li>|
 
 <!-- separar esse UC em duas-->
 # UC12 - Conversar com o corretor e/ou proprietário
