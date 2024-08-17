@@ -191,29 +191,32 @@
 | **Fluxo Alternativo** | - |
 | **Fluxo de Exceção**  | **FE00** - Erro de conexão previne o usuário de ver informações sobre suas visitas|
 
+<!-- Alugar imóvel includes enviar proposta-->
+<!-- includo agendar visita-->
 # UC15 - Alugar imóvel
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um usuário para alugar um imóvel de um proprietário na plataforma|
+| **Ator(es)**          | Usuário, proprietário|
+| **Pré-condições**     | Acesso à internet, usuário e proprietário devem estar cadastrados na plataforma, proprietário deve ter um imóvel anunciado para aluguel|
+| **Pós-Condições**     | usuário se tornarà inquilino do proprietário|
+| **Fluxo principal**   | **FP00** - Aluguel de um imóvel: <ol> <li> Usuário seleciona um imóvel disponível para aluguel na aba "Busca" ou "início"</li> <li> Usuário clica no botão agendar visita </li> <li> Usuário faz a visita do local e retorna da visita</li> <li> Usuário clica no botão de "Fazer proposta" </li> <li> Usuário clica em continuar </li> <li> Usuário passa pelo processo de Avaliação de crédito e documentação do QuintoAndar </li> <li> Se o proprietário aceitar a proposta o imóvel será alugado </li> <li> Usuário assina o contrato de aluguel do imóvel </li> </ol>|
+| **Fluxo Alternativo** | **FA00** - Se o imóvel não estiver disponível no momento da proposta é possível clicar no botão "Avisar quando disponível" para ser notificado futuramente|
+| **Fluxo de Exceção**  | <ul> <li>**FE00** - se a proposta for rejeitada no passo nº 4 o usuário não poderá alugar o imóvel  </li><li>**FE00** - Se o usuário não estivar statisfeito com a visita no passo nº3 ele pode não prosseguir com a proposta</li> <li> **FE00** - Se o usuário for rejeitado na avaliação de crédito no passo nº 6 ele não poderá prosseguir com o aluguel </li> </ul>|
 
+<!-- includo agendar visita-->
 # UC16 - Comprar imóvel
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
+| **Descrição**         | Processo realizado por um usuário que deseja comprar um imóvel de um proprietário na plataforma|
+| **Ator(es)**          | Usuário, proprietário|
+| **Pré-condições**     | Acesso à internet, usuário e proprietário devem estar cadastrados na plataforma, proprietário deve ter um imóvel anunciado para compra|
+| **Pós-Condições**     | Usuário se tornarà proprietário do imóvel|
+| **Fluxo principal**   | **FP00** - Aluguel de um imóvel: <ol> <li> Usuário seleciona um imóvel disponível para aluguel na aba "Busca" ou "início"</li> <li> Usuário clica no botão agendar visita </li> <li> Usuário faz a visita do local e retorna da visita</li> <li> Usuário faz a proposta de compra do imóvel </li> <li> Usuário e proprietário assinam o Compromisso de Compra e Venda <!-- Léxico--></li> <li>Usuário efetua o pagamento do sinal do valor de acordo com o documento</li> <li> O QuintoAndar efetua uma análise jurídica dos documentos do usuário e do proprietário</li>  <li>Usuário faz o pagamento da entrada</li> <li>Usuário assina o Contrado de Financiamento e o registra no cartório de imóveis </li> </ol>|
 | **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Fluxo de Exceção**  | <ul> <li>**FE00** - se a proposta for rejeitada no passo nº 4 o usuário não poderá alugar o imóvel  </li><li>**FE00** - Se o usuário não estivar statisfeito com a visita no passo nº3 ele pode não prosseguir com a proposta</li> <li> **FE00** - Se o usuário for rejeitado na avaliação de crédito no passo nº 6 ele não poderá prosseguir com o aluguel </li> </ul>|
 
 # UC17 - Indicar imóvel
 
@@ -223,7 +226,7 @@
 | **Ator(es)**          | Usuário, Proprietário não usuário1|
 | **Pré-condições**     | Acesso à internet, usuário cadastrado na aplicação, proprietário não cadastrado na aplicação|
 | **Pós-Condições**     | Proprietário será contatado pela equipe do quintoandar sobre anunciar o imóvel no quintoandar|
-| **Fluxo principal**   | **FP00** - Indicar imóvel: <ol> <li> Usuário abre a aplicação </li> <li> Usuário vai para a aba "Menu" </li> <li> Usuário clica no botão "Indicar imóvel" </li> <li> Usuário é redirecionado para uma página com formulários </li> <li> Usuário preenche o formulário de indicação simples com os dados de contanto do proprietário </li> <li> Proprietário é contatado pela equipe do QuintoAndar sobre anunciar o imóvel na aplicação </li>|
+| **Fluxo principal**   | **FP00** - Indicar imóvel: <ol> <li> Usuário abre a aplicação </li> <li> Usuário vai para a aba "Menu" </li> <li> Usuário clica no botão "Indicar imóvel" </li> <li> Usuário é redirecionado para uma página com formulários </li> <li> Usuário preenche o formulário de indicação simples com os dados de contanto do proprietário </li> <li> Proprietário é contatado pela equipe do QuintoAndar sobre anunciar o imóvel na aplicação </li> </ol>|
 | **Fluxo Alternativo** | **FA00** - Indicação com link: No passo Nº 5, em vez de preencher os dados de contato do proprietário, o usuário compartilha o link da área "Indicação Com Link" com o proprietário no qual o proprietário irá utilizar para anunciar seu imóvel na aplicação|
 | **Fluxo de Exceção**  | <ul><li>**FE00** - Perda de conexão com a internet não permite preenchimento do formulário</li>  <li> **FE00** - Mau preenchimento dos dados de contato do proprietário impossibilita a equipe de contatar-lo</ul>|
 
