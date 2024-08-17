@@ -257,13 +257,13 @@
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo de um usuário que deseja alterar os dados da sua conta|
+| **Ator(es)**          | usuário|
+| **Pré-condições**     | Acesso à internet, um email vinculado ao sistema|
+| **Pós-Condições**     | Usuário modifica uma ou mais informações de seu perfil|
+| **Fluxo principal**   | **FP00** - Alterar conta: <ol> <li>Usuário vai para a aba "Menu"</li> <li>Usuário vai aperta o botão "Gerenciar Conta"</li> <li>Usuário pode alterar seu nome completo</li> <li>Usuário pode [adicionar email alternativo](#UC-22-adicionar-email-alternativo)</li> <li>Usuário pode [gerenciar notificações](#UC23-gerenciar-notificacoes) </li> <li>Usuário deve clicar no botão "Salvar" </li></ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | **FE01** - Erro de conexão previne o usuário de alterar a sua conta |
 
 # UC21 - Fazer login
 
@@ -294,13 +294,13 @@
 
 |                   |                                                                                                                                                                                                                |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | |
-| **Ator(es)**          | |
-| **Pré-condições**     | |
-| **Pós-Condições**     | |
-| **Fluxo principal**   | |
-| **Fluxo Alternativo** | |
-| **Fluxo de Exceção**  | |
+| **Descrição**         | Processo realizado por um usuário do QuintoAndar que deseja alterar quais notificações deseja receber do aplicativo|
+| **Ator(es)**          | Usuário|
+| **Pré-condições**     | Acesso à internet, usuário já deve estar cadastrado na aplicação|
+| **Pós-Condições**     | Usuário terá alterado suas preferências de notificações|
+| **Fluxo principal**   | **FP00** - Gerenciar notificações: <ol> <li>Usuário vai para a aba "Menu"</li> <li> Usuário clica no botão "Acessar sua conta"</li> <li>Usuário clica no botão "Gerenciar notificações" </li> <li> Usuário escolhe para qual produto deseja alterar as notificações (proprietário, afiliado, inquilino ou todos)</li> <li> Usuário escolhe quais tipos de mensagem deseja receber em quais meios </li> </ol>|
+| **Fluxo Alternativo** | - |
+| **Fluxo de Exceção**  | **FE03** - Erro de conexão previne o usuário modificar suas preferências de notificações|
 
 # UC24 - Sair da conta
 
