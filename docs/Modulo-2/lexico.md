@@ -15,7 +15,7 @@
 | Lexigramas                                                          |
 |---------------------------------------------------------------------|
 | [L01 - Acordo](#l01-acordo)                                         |
-| [L03 - Afiliado](#l03-afiliado)                                     |
+| [L02 - Afiliado](#l03-afiliado)                                     |
 | [L04 - Ajuda e atendimento](#l04-ajuda-e-atendimento)               |
 | [L05 - Alerta](#l05-alerta)                                         |
 | [L06 - Alertas criados](#l06-alertas-criados)                       |
@@ -82,7 +82,7 @@
 
 ---
 
-# L03 Afiliado
+# L02 Afiliado
 
 |                   |                                                                                                                                                                                       |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -681,9 +681,10 @@
 | **Sinônimo**      | Autenticar|
 | **Noção**         | <ul><li>Ação de se autenticar na plataforma QuintoAndar para uso de sua Conta e suas informações</ul></li>|
 | **Impacto**       | |
-<div style="text-align: center;">
 
 ---
+
+<div style="text-align: center;">
 
 # Histórico de versão
 
