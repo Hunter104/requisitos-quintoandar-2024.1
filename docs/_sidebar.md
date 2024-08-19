@@ -171,7 +171,7 @@
         <!-- - [Histórico de Versão](Modulo-2/agil.md#histórico-de-versão) -->
     - [Gore NFR](Modulo-2/gore-nfr.md)
        - [Histórico de Versão](Modulo-2/gore-nfr.md#histórico-de-versão)
-    - [Gore i*](Modulo-2/gore-i.md)
+    - [NFR Framework](Modulo-2/nfr-framework.md)
        - [Histórico de Versão](Modulo-2/gore-i.md#histórico-de-versão)
     - [Apresentação](Modulo-2/apresentacao.md)
        - [Histórico de Versão](Modulo-2/apresentacao.md#histórico-de-versão)
