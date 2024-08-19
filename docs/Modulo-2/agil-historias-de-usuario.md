@@ -26,7 +26,7 @@ Critérios de aceitação:
 
 - [ ] O app deve permitir busca de imóveis por texto.
 - [ ] O app deve oferecer filtros para uma busca mais específica.
-- [ ] A busca deve retornar uma lista com fotos, preços e descrição do imóveis encontrados.
+- [ ] A busca deve retornar uma lista com fotos, preços e descrição dos imóveis encontrados.
 - [ ] Deve possuir filtro de compra ou aluguel.
 - [ ] Deve possuir filtro localização.
 - [ ] Deve possuir filtro por valor do imóvel.
@@ -93,7 +93,7 @@ Critérios de aceitação:
 - [ ] Ao buscar imóveis, o usuário deve conseguir adicioná-los aos seus favoritos.
 - [ ] O usuário deve conseguir adicionar imóveis recomendados pelo app aos seus favoritos.
 - [ ] O usuário deve conseguir remover qualquer imóvel de sua lista de favoritos.
-- [ ] O usuário deve poder vizualizar sua lista de imóveis favoritos.
+- [ ] O usuário deve poder visualizar sua lista de imóveis favoritos.
 
 ### US007 - Agendamento de visitas
 
@@ -136,7 +136,7 @@ Critérios de aceitação:
 
 - [ ] O interessado pode enviar propostas para negociar o valor do aluguel e outras condições, como modificações no imóvel ou inclusão/retirada de itens.
 - [ ] O proprietário recebe e pode visualizar essas propostas.
-- [ ] O proprietário pode aceitar, rejeitar ou fazer contra-propostas.
+- [ ] O proprietário pode aceitar, rejeitar ou fazer contrapropostas.
 - [ ] O interessado recebe notificações sobre a aceitação ou resposta do proprietário.
 
 ### US011 - Gerenciar propostas
@@ -197,7 +197,7 @@ Eu, como usuário, quero compartilhar os detalhes do imóvel através de um link
 Critérios de aceitação:
 
 - [ ] A página de detalhes do imóvel deve exibir um botão de compartilhamento.
-- [ ] Os botão deve permitir compartilhar o link do imóvel em plataformas populares (por exemplo, redes sociais, e-mail, mensagens instantâneas).
+- [ ] O botão deve permitir compartilhar o link do imóvel em plataformas populares (por exemplo, redes sociais, e-mail, mensagens instantâneas).
 - [ ] O link compartilhado deve redirecionar corretamente para a página de detalhes do imóvel no aplicativo.
 
 ### US017 - Cadastro e Anúncio de Imóveis
@@ -254,7 +254,7 @@ Eu, como proprietário, quero poder ver minha lista de imóveis cadastrados.
 Critérios de aceitação:
 
 - [ ] O proprietário deve poder ver seus imóveis que estão disponíveis para compra/aluguel.
-- [ ] Apenas o proprietário deve poder ver seus imóveis cadastrados mas não anunciados.
+- [ ] Apenas o proprietário deve poder ver seus imóveis cadastrados, mas não anunciados.
 
 ### US022 - Cancelamento de propostas
 
@@ -336,7 +336,7 @@ Critérios de aceitação:
 |    Data    | Versão |           Descrição           | Autores                                                                                        |
 | :--------: | :----: | :---------------------------: | ---------------------------------------------------------------------------------------------- |
 | 14/08/2024 | `1.0`  |     Criação do documento.     | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
-| 16/08/2024 | `1.1`  | Adiciona históias de usuário. | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
+| 16/08/2024 | `1.1`  | Adiciona histórias de usuário. | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
 |            |        |                               |                                                                                                |
 
 </div>
