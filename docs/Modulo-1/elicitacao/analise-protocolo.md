@@ -73,6 +73,33 @@ No entanto, houve alguns empecilhos e barreiras ao tentar explorar certas funcio
 
 <center>
 
+### Tabela 2: Requisitos de Gerenciamento de conta
+
+Os requisitos elicitados aqui foram feitos durante a criação dos casos de uso, onde o [André Silva]() e a [Letícia Hladzuck]() interagiram com a parte de gerenciamento de conta da aplicação para identificar as funcionalidades necessárias no dia 16 de agosto de 2024, a gravação infelizmente não está disponível.
+</center>
+
+<div style="margin: 0 auto; width: fit-content;">
+
+| Número | Requisito                                                                                                                   | Tipo |
+|--------|-----------------------------------------------------------------------------------------------------------------------------|------|
+| AP19   | Deve permitir que o não usuário faça cadastro | RF19 |
+| AP20   | Deve permitir que o usuário faça login e logout na aplicação| RF20 |
+| AP21   | Deve permitir a adição de um e-mail alternativo | RF21 |
+| AP22   | Deve permitir o gerenciamento de quais notificações receber| RF22 |
+| AP23   | Deve permitir que o usuário altere sua conta adicionando um e-mail alternativo| RF23 |
+| AP23   | Deve permitir que o usuário altere o nome associado à sua conta | RF23 |
+
+</div>
+
+<center>
+
+### Fonte: Cássio Reis
+
+</center>
+
+---
+<center>
+
 # Histórico de versão
 
 </center>
