@@ -12,13 +12,15 @@
 
 ## Objetivos
 
+---
+
 ## Metodologia
 
 ---
 
 ## Critérios de aceitação
 
-### US001 - Buscar Imóvel 
+### US001 Buscar Imóvel
 
 Eu, como usuário quero poder buscar imóveis,
 
@@ -39,7 +41,7 @@ Critérios de aceitação:
 - [ ] Deve possuir filtro relativo à mobília.
 - [ ] Deve possuir filtro relativo à distância ao metrô.
 
-### US002 - Gerenciar conta
+### US002 Gerenciar conta
 
 Eu, como usuário quero poder gerenciar minha conta.
 
@@ -50,7 +52,7 @@ Critérios de aceitação:
 - [ ] O app deve permitir que um usuário edite as informações de sua conta.
 - [ ] O app deve permitir que um usuário escolha as plataformas pelas quais quer ser notificado pelo próprio app.
 
-### US003 - Detalhes do imóvel 
+### US003 Detalhes do imóvel
 
 Eu, como usuário interessado quero poder ver detalhes do imóvel.
 
@@ -65,7 +67,7 @@ Critérios de aceitação:
 - [ ] O app deve exibir se o imóvel é próximo ao metrô.
 - [ ] O app deve exibir informações a respeito do proprietário atual.
 
-### US004 - Visualização de imóvel em mapa interativo
+### US004 Visualização de imóvel em mapa interativo
 
 Eu, como usuário interessado quero poder ver mais informações sobre um imóvel através de mapas interativos
 
@@ -74,7 +76,7 @@ Critérios de aceitação:
 - [ ] O app deve exibir um mapa com a localização física de um imóvel.
 - [ ] O app deve exibir um mapa com pop ups contendo os preços dos imóveis em uma determinada localização.
 
-### US005 - Criação de alertas para novos imóveis
+### US005 Criação de alertas para novos imóveis
 
 Eu, como interessado, quero criar alertas que correspondam aos critérios de busca que acabei de definir, para que eu possa acompanhar as novas oportunidades sem precisar verificar manualmente o aplicativo.
 
@@ -84,7 +86,7 @@ Critérios de aceitação:
 - [ ] O usuário tem a opção de ativar notificação no app e/ou e-mail ao criar o alerta.
 - [ ] O sistema deve notificar o usuário sempre que novos imóveis que correspondam aos critérios de busca definidos estiverem disponíveis.
 
-### US006 - Lista de imóveis favoritos
+### US006 Lista de imóveis favoritos
 
 Eu, como usuário quero uma lista de favoritos para os imóveis.
 
@@ -95,7 +97,7 @@ Critérios de aceitação:
 - [ ] O usuário deve conseguir remover qualquer imóvel de sua lista de favoritos.
 - [ ] O usuário deve poder visualizar sua lista de imóveis favoritos.
 
-### US007 - Agendamento de visitas
+### US007 Agendamento de visitas
 
 Eu, como interessado, quero agendar uma visita ao imóvel, para avaliar pessoalmente o imóvel antes de tomar uma decisão de aluguel ou compra.
 
@@ -107,7 +109,7 @@ Critérios de aceitação:
 - [ ] O usuário pode ver seu histórico de agendamentos
 - [ ] O usuário recebe um lembrete da visita na véspera, via push notification ou WhatsApp.
 
-### US008 - Solicitação de Encaixe
+### US008 Solicitação de Encaixe
 
 Eu, como usuário, quero solicitar um encaixe para outra data ou horário, para ter a flexibilidade de agendar uma visita em um momento mais conveniente.
 
@@ -119,7 +121,7 @@ Critérios de aceitação:
 - [ ] O usuário recebe uma notificação com a confirmação ou recusa do encaixe.
 
 
-### US009 - Cancelamento de Visita
+### US009 Cancelamento de Visita
 
 Eu, como interessado, quero ter a opção de cancelar a visita, para que o proprietário e corretor possam se reorganizar.
 
@@ -128,7 +130,7 @@ Critérios de aceitação:
 - [ ] O usuário pode cancelar a visita na seção de "Visitas agendadas".
 - [ ] O sistema notifica o proprietário e o corretor sobre o cancelamento.
 
-### US010 - Proposta customizada
+### US010 Proposta customizada
 
 Eu, como interessado, quero negociar valores e condições do imóvel, para ajustar as condições do contrato conforme necessário.
 
@@ -139,7 +141,7 @@ Critérios de aceitação:
 - [ ] O proprietário pode aceitar, rejeitar ou fazer contrapropostas.
 - [ ] O interessado recebe notificações sobre a aceitação ou resposta do proprietário.
 
-### US011 - Gerenciar propostas
+### US011 Gerenciar propostas
 
 Eu, como proprietário, quero poder ver e gerenciar as propostas recebidas.
 
@@ -149,7 +151,7 @@ Critérios de aceitação:
 - [ ] O proprietário deve poder ver o andamento das propostas recebidas.
 - [ ] O proprietário deve conseguir aceitar ou recusar as propostas recebidas.
 
-### US012 - Recomendações de imóveis
+### US012 Recomendações de imóveis
 
 Eu, como usuário interessado desejo ver imóveis similares aos que tenho buscado.
 
@@ -158,7 +160,7 @@ Critérios de aceitação:
 - [ ] O app deve ser capaz de identificar imóveis similares as preferências do usuário.
 - [ ] O app deve recomendar os imóveis identificados ao usuário.
 
-### US013 - Notificação de mensagens
+### US013 Notificação de mensagens
 
 Eu, como usuário quero ser notificado ao receber mensagens no app.
 
@@ -167,7 +169,7 @@ Critérios de aceitação:
 - [ ] O app deve enviar um pop up para o dispositivo móvel de um usuário quando este receber uma mensagem.
 - [ ] O app deve enviar uma notificação por som para o dispositivo móvel de um usuário quando este receber uma mensagem.
 
-### US014 - Comprar/alugar imóvel
+### US014 Comprar/alugar imóvel
 
 Eu, como usuário quero conseguir comprar ou alugar um imóvel.
 
@@ -179,7 +181,7 @@ Critérios de aceitação:
 - [ ] O proprietário deve poder gerenciar o aluguel de um imóvel.
 - [ ] O proprietário deve poder saber quem comprou ou alugou um imóvel.
 
-### US015 - Conversas entre Usuários
+### US015 Conversas entre Usuários
 
 Eu, como usuário, quero conversar com corretores, inquilinos e proprietários para esclarecer dúvidas, negociar condições e facilitar o processo de aluguel e compra de imóveis.
 
@@ -190,7 +192,7 @@ Critérios de Aceitação:
 - [ ] O usuário recebe notificações quando há novas mensagens.
 - [ ] Todas as conversas são armazenadas e acessíveis no histórico de mensagens do aplicativo.
 
-### US016 - Compartilhamento de Detalhes do Imóvel
+### US016 Compartilhamento de Detalhes do Imóvel
 
 Eu, como usuário, quero compartilhar os detalhes do imóvel através de um link para divulgar o imóvel em outras plataformas e facilitar o compartilhamento com amigos e familiares.
 
@@ -200,7 +202,7 @@ Critérios de aceitação:
 - [ ] O botão deve permitir compartilhar o link do imóvel em plataformas populares (por exemplo, redes sociais, e-mail, mensagens instantâneas).
 - [ ] O link compartilhado deve redirecionar corretamente para a página de detalhes do imóvel no aplicativo.
 
-### US017 - Cadastro e Anúncio de Imóveis
+### US017 Cadastro e Anúncio de Imóveis
 
 Eu, como proprietário, quero cadastrar e anunciar meus imóveis na plataforma para disponibilizá-los para locação ou venda.
 
@@ -212,7 +214,7 @@ Critérios de Aceitação:
 - [ ] O sistema deve permitir a inserção inicial de valores como IPTU e taxas.
 - [ ] As informações inseridas devem ser salvas corretamente no banco de dados.
 
-### US018 - Indicação de Imóveis
+### US018 Indicação de Imóveis
 
 Eu, como usuário, quero indicar imóveis para o QuintoAndar usando o link ou a indicação simples para ganhar recompensas quando os imóveis forem publicados, alugados ou vendidos.
 
@@ -224,7 +226,7 @@ Critérios de Aceitação:
 - [ ] O usuário deve poder ver o status da indicação em "Minhas Indicações".
 - [ ] O sistema deve calcular e pagar as recompensas no dia 15 do mês seguinte.
 
-### US019 - Ver agendamentos
+### US019 Ver agendamentos
 
 Eu, como usuário, quero ver todos os meus compromissos agendados.
 
@@ -233,7 +235,7 @@ Critérios de aceitação:
 - [ ] O app deve guardar um histórico de todas as visitas já realizadas.
 - [ ] O app deve exibir todas as visitas futuras.
 
-### US020 - Agendamento de fotos
+### US020 Agendamento de fotos
 
 Eu, como proprietário, quero poder agendar uma sessão de fotos do meu imóvel.
 
@@ -247,7 +249,7 @@ Critérios de aceitação:
 - [ ] O sistema deve permitir um acordo entre proprietário e fotógrafo.
 - [ ] A visita deve aparecer na agenda/painel do proprietário e do fotógrafo.
 
-### US021 - Ver meus imóveis
+### US021 Ver meus imóveis
 
 Eu, como proprietário, quero poder ver minha lista de imóveis cadastrados.
 
@@ -256,7 +258,7 @@ Critérios de aceitação:
 - [ ] O proprietário deve poder ver seus imóveis que estão disponíveis para compra/aluguel.
 - [ ] Apenas o proprietário deve poder ver seus imóveis cadastrados, mas não anunciados.
 
-### US022 - Cancelamento de propostas
+### US022 Cancelamento de propostas
 
 Eu, como usuário, quero poder cancelar uma proposta enviada por mim enquanto esta não foi aceita.
 
@@ -264,7 +266,7 @@ Critérios de aceitação:
 
 - [ ] Deve ser possível cancelar uma proposta enviada a um proprietário enquanto esta não foi aceita.
 
-### US023 - Avaliar atendimento do corretor
+### US023 Avaliar atendimento do corretor
 
 Eu, como proprietário, quero poder avaliar o corretor que analisou e/ou visitou meu imóvel.
 
@@ -274,7 +276,7 @@ Critérios de aceitação:
 - [ ] Deve ser possível avaliar o corretor se ele tiver feito uma visita ao proprietário que está avaliando.
 - [ ] O app não deve permitir a avaliação de corretores não conhecidos pelo proprietário.
 
-### US024 - Suporte e ajuda ao cliente
+### US024 Suporte e ajuda ao cliente
 
 Eu, como usuário quero ter ajuda no uso do app.
 
@@ -286,7 +288,7 @@ Critérios de aceitação:
 - [ ] O app deve permitir solicitação de atendimento para resolver dúvidas específicas.
 - [ ] O app deve oferecer ajuda através de um atendente virtual.
 
-### US025 - Feedback sobre o app
+### US025 Feedback sobre o app
 
 Eu, como usuário gostaria de poder avaliar o aplicativo. 
 
@@ -294,7 +296,7 @@ Critérios de aceitação:
 
 - [ ] O app deve abrir um pop up  esporadicamente recomendando que o usuário o avalie até que ele o faça.
 
-### US026 - Solicitar informações adicionais de um imóvel
+### US026 Solicitar informações adicionais de um imóvel
 
 Eu, como usuário quero poder solicitar informações extras de um imóvel a um corretor.
 
@@ -305,7 +307,7 @@ Critérios de aceitação:
 - [ ] O corretor deve receber um alerta da solicitação.
 - [ ] O corretor deve poder enviar uma resposta ao usuário.
 
-### US027 - Avaliar imóvel
+### US027 Avaliar imóvel
 
 Eu, como usuário quero poder registrar uma avaliação pública sobre um imóvel após a visita.
 
@@ -316,7 +318,7 @@ Critérios de aceitação:
 - [ ] O usuário deve poder publicar a avaliação.
 - [ ] O usuário deve poder avaliar apenas os imóveis que visitou.
 
-### US028 - Atualizar fotos do imóvel
+### US028 Atualizar fotos do imóvel
 
 Eu, como proprietário quero poder atualizar as fotos dos meus imóveis.
 
@@ -325,6 +327,7 @@ Critérios de aceitação:
 - [ ] O proprietário deve conseguir fazer upload de novas fotos em imóveis já cadastrados.
 - [ ] As fotos antigas devem ser substituídas pelas novas.
  
+---
 <center>
 
 # Histórico de versão
@@ -333,10 +336,9 @@ Critérios de aceitação:
 
 <div style="margin: 0 auto; width: fit-content;">
 
-|    Data    | Versão |           Descrição           | Autores                                                                                        |
-| :--------: | :----: | :---------------------------: | ---------------------------------------------------------------------------------------------- |
-| 14/08/2024 | `1.0`  |     Criação do documento.     | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
+|    Data    | Versão |           Descrição            | Autores                                                                                        |
+|:----------:|:------:|:------------------------------:|------------------------------------------------------------------------------------------------|
+| 14/08/2024 | `1.0`  |     Criação do documento.      | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
 | 16/08/2024 | `1.1`  | Adiciona histórias de usuário. | [Eduardo Sandes](https://github.com/DiceRunner714), [Cássio Reis](https://github.com/csreis72) |
-|            |        |                               |                                                                                                |
 
 </div>
