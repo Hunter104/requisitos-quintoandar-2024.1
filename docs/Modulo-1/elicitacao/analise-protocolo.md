@@ -109,5 +109,6 @@ Os requisitos elicitados aqui foram feitos durante a criação dos casos de uso,
 | Data       | Versão | Descrição             | Autores                                                                                 |
 |------------|--------|-----------------------|-----------------------------------------------------------------------------------------|
 | 28/07/2024 | `1.0`  | Criação do documento. | [André Silva](https://github.com/Hunter104), [Cássio Reis](https://github.com/csreis72) |
+| 28/07/2024 | `2.0`  | Adição de requisitos de gerencamento de conta| [André Silva](https://github.com/Hunter104) |
 
 </div>

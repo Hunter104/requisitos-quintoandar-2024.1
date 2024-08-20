@@ -349,6 +349,7 @@
 |:----------:|:------:|:---------------------:|--------------------------------------------------|
 | 07/08/2024 | `1.0`  | Criação do documento. | [João Antonio G.](https://github.com/joaoseisei) |
 | 13/08/2024 | `2.0`  | Adiciona diagrama principal de casos de uso | [André Silva](https://github.com/Hunter104), [Letícia Hladczuk](https://github.com/HladczukLe)  |
-| 13/08/2024 | `2.1`  | Conserta numeração de fluxos | [André Silva](https://github.com/Hunter104), [Letícia Hladczuk](https://github.com/HladczukLe)  |
+| 13/08/2024 | `2.1`  | Conserta numeração de fluxos | [André Silva](https://github.com/Hunter104) |
+| 13/08/2024 | `2.2`  | Adiciona rastreabilidade nos casos de uso| [André Silva](https://github.com/Hunter104)|
 
 </div>
