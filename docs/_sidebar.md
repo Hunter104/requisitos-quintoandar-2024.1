@@ -189,8 +189,6 @@
             - [US028 - Atualizar fotos do imóvel](Modulo-2/agil-historias-de-usuario.md#us028-atualizar-fotos-do-imóvel)
           - [Histórico de versão](Modulo-2/agil-historias-de-usuario.md#histórico-de-versão)
         <!-- - [Histórico de Versão](Modulo-2/agil.md#histórico-de-versão) -->
-    - [Gore NFR](Modulo-2/gore-nfr.md)
-       - [Histórico de Versão](Modulo-2/gore-nfr.md#histórico-de-versão)
     - [NFR Framework](Modulo-2/nfr-framework.md)
        - [Histórico de Versão](Modulo-2/gore-i.md#histórico-de-versão)
     - [Apresentação](Modulo-2/apresentacao.md)
