@@ -145,6 +145,7 @@
            - [Suportabilidade](Modulo-2/es.md#s-suportabilidade)
            - [Outros](Modulo-2/es.md#-outros)
         - [Documento PDF](Modulo-2/es.md#documento-de-especificação-suplementar-pdf) 
+        - [Versões Anteriores](Modulo-2/es.md#versões-anteriores)
         - [Histórico de Versão](Modulo-2/es.md#histórico-de-versão)
     - [Ágil](Modulo-2/agil-backlog.md)
         - [Backlog](Modulo-2/agil-backlog.md#histórico-de-versão)
