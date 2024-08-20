@@ -6,15 +6,34 @@
 
 ---
 
-> O que é?
+> Trata-se de um framework conceitual para condução da engenharia de requisitos orientada aos requisitos não funcionais, com uma extensão que apoia suposições para metas flexíveis (softgoals).
 
 ---
+
+<center>
+
+# NFR's definidas
+
+</center>
+
+## NFR001 - Confiabilidade
+
+![confiabilidade](../assets/nfr-fr-confiabilidade1.png)
+
+## NFR002 - Usabilidade 
+
+![usabilidade](../assets/nfr-fr-usabilidade1.png)
+
+## NFR003 - Acessibilidade 
+
+![acessibilidade](../assets/nfr-fr-acessibilidade.png)
 
 <center>
 
 # Histórico de versão
 
 </center>
+
 
 <div style="margin: 0 auto; width: fit-content;">
 
