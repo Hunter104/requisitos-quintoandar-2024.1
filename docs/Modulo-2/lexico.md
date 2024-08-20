@@ -117,7 +117,7 @@
 
 ---
 
-# L05 [Alerta](#L04-alerta)s criados
+# L05 Alertas criados
 
 |   |   |
 |---|----|
@@ -153,7 +153,7 @@
 
 ---
 
-# L08 Anunciar [imóvel](#L24-imóvel)
+# L08 Anunciar imóvel
 
 |   |   |
 |---|----|
@@ -189,7 +189,7 @@
 
 ---
 
-# L11 [Compra](#L10-compra)dor
+# L11 Comprador
 
 |   |   |
 |---|----|
@@ -237,7 +237,7 @@
 
 ---
 
-# L15 [Corretor](#L14-corretor) credenciado
+# L15 Corretor credenciado
 
 |   |   |
 |---|----|
@@ -249,7 +249,7 @@
 
 ---
 
-# L16 Criar [proposta](#L38-proposta) customizada
+# L16 Criar proposta customizada
 
 |   |   |
 |---|----|
@@ -261,7 +261,7 @@
 
 ---
 
-# L17 Deletar [conta](#L13-conta)
+# L17 Deletar conta
 
 |   |   |
 |---|----|
@@ -297,7 +297,7 @@
 
 ---
 
-# L20 Fazer [Proposta](#L38-proposta)
+# L20 Fazer Proposta
 
 |   |   |
 |---|----|
@@ -333,7 +333,7 @@
 
 ---
 
-# L23 Gerenciar [conta](#L13-conta)
+# L23 Gerenciar conta
 
 |   |   |
 |---|----|
@@ -417,7 +417,7 @@
 
 ---
 
-# L30 [Mensagem](#L29-mensagem) essencial
+# L30 Mensagem essencial
 
 |   |   |
 |---|----|
@@ -429,7 +429,7 @@
 
 ---
 
-# L31 [Mensagem](#L29-mensagem) informativa
+# L31 Mensagem informativa
 
 |   |   |
 |---|----|
@@ -441,7 +441,7 @@
 
 ---
 
-# L32 [Mensagem](#L29-mensagem) promocional
+# L32 Mensagem promocional
 
 |   |   |
 |---|----|
@@ -477,7 +477,7 @@
 
 ---
 
-# L35 Passo a passo do [imóvel](#L24-imóvel)
+# L35 Passo a passo do imóvel
 
 |   |   |
 |---|----|
@@ -525,7 +525,7 @@
 
 ---
 
-# L39 [Proposta](#L38-proposta)s enviadas
+# L39 Propostas enviadas
 
 |   |   |
 |---|----|
@@ -609,7 +609,7 @@
 
 ---
 
-# L46 Ver detalhes do [condomínio](#L12-condomínio)
+# L46 Ver detalhes do condomínio
 
 |   |   |
 |---|----|
@@ -645,7 +645,7 @@
 
 ---
 
-# L49 [Visita](#L48-visita)s agendadas
+# L49 Visitas agendadas
 
 |   |   |
 |---|----|
