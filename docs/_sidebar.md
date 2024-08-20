@@ -65,6 +65,7 @@
        - [Priorização](Modulo-1/elicitacao/priorizacao)
            - [Vídeo da Reunião](Modulo-1/elicitacao/priorizacao.md#vídeo-da-reunião)
            - [Histórico de Versão](Modulo-1/elicitacao/priorizacao.md#histórico-de-versão)
+       - [Observação](Modulo-1/observacao.md)
     - [Apresentação](Modulo-1/apresentacao.md)
        - [Histórico de Versão](Modulo-1/apresentacao.md#histórico-de-versão) 
 
