@@ -33,7 +33,7 @@
 | **Fluxo principal**   | **FP01** - Acessar mapa interativo <ol><li>O usuário busca por imóvel.</li><li>O sistema carrega o mapa com os imóveis disponíveis.</li><li>O usuário visualiza e interage com o mapa.</li></ol>|
 | **Fluxo Alternativo** | **FA01** - O usuário visualiza detalhes do imóvel, no passo 2.|
 | **Fluxo de Exceção**  | **FE01** - Problemas de conexão impedem o usuário de ver o mapa|
-| **Funcionalidade referenciada |
+| **Requisito associado** | |
 
 # UC02 - Exibir imóveis similares
 
@@ -46,6 +46,7 @@
 | **Fluxo principal**   | **FP02** - Exibir imóveis similares <ol><li>O usuário visualiza um Imóvel.</li><li>O sistema exibe uma lista de imóveis semelhantes.</li><li>O usuário analisa os imóveis semelhantes exibidos.</li></ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | <li>**FE02** - Ocorre quando não há imóveis semelhantes disponíveis. O sistema informa o inquilino.</li><li>**FE03** - Problemas de conexão.</li>|
+| **Requisito associado** | |
 
 # UC03 - Ver detalhes do imóvel
 
@@ -58,6 +59,7 @@
 | **Fluxo principal**   | **FP03** - Ver detalhes do imóvel <ol><li>O usuário seleciona um imóvel para visualizar os detalhes.</li><li>O sistema exibe as informações detalhadas do imóvel.</li><li>O usuário analisa as informações apresentadas.</li></ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | <li>**FE04** - Problemas de conexão impedem o usuário de ver os detalhes.</li><li>**FE05** - O imóvel estar indisponível.</li>|
+| **Requisito associado** | |
 
 # UC04 - Usar filtro
 
@@ -70,6 +72,7 @@
 | **Fluxo principal**   | **FP04** - Usar Filtro <ol><li>O usuário acessa a página de Busca de imóveis e define os critérios de filtro.</li><li>O sistema aplica os filtros e exibe os imóveis correspondentes.</li><li>O usuário visualiza os imóveis filtrados.</li></ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | <li>**FE06** - Os filtros aplicados não atendem a nenhum imóvel.</li><li> **FE07** - Problemas de conexão.</li>|
+| **Requisito associado** | |
 
 # UC05 - Criar alertas
 
@@ -82,6 +85,7 @@
 | **Fluxo principal**   | **FP05** - Criar alerta <ol><li>O usuário define os critérios para o alerta.</li><li>O sistema cria o alerta e confirma sua criação ao usuário.</li><li>O usuário recebe notificações quando novos imóveis atendem aos critérios.</li></ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | **FE008** - Problemas de conexão.|
+| **Requisito associado** | |
 
 # UC06 - Buscar imóvel
 
@@ -94,6 +98,7 @@
 | **Fluxo principal**   | **FP06** - Buscar imóvel <ol><li>O usuário acessa a página de busca de imóveis.</li><li>O usuário aplica os filtros de busca, como localização, tipo de imóvel, faixa de preço, entre outros.</li><li>O sistema processa os critérios definidos e realiza a busca no banco de dados.</li><li>O sistema exibe a lista de imóveis que correspondem aos critérios de busca.</li><li>O usuário visualiza e interage com os resultados da busca.</li></ol>|
 | **Fluxo Alternativo** | **FA02** - Após o passo 5, o usuário altera os filtros após a exibição dos resultados para refinar a busca.|
 | **Fluxo de Exceção**  | <li>**FE09** - Nenhum imóvel corresponde à busca.</li><li>**FE10** - Problemas com conexão.</li> |
+| **Requisito associado** | |
 
 # UC07 - Cadastrar imóvel
 
@@ -106,6 +111,7 @@
 | **Fluxo principal**   | **FP07** - Cadastrar imóvel <ol><li>O proprietário fornece as informações e dados do imóvel.</li><li>O sistema registra e publica o imóvel na plataforma.</li><li>O imóvel aparece na busca de imóveis disponíveis.</li></ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | <li>**FE11** - Cadastro do imóvel é rejeitado devido a informações incompletas, erradas ou outro motivo informado pelo sistema.</li><li>**FE12** - Problemas com conexão.</li>|
+| **Requisito associado** | |
 
 # UC08 - Criar lista de favorito
 
@@ -118,6 +124,7 @@
 | **Fluxo principal**   | **FP08** - Criar lista de favoritos <ol><li>O usuário seleciona os imóveis que deseja adicionar aos favoritos.</li><li>O sistema armazena os imóveis na lista de favoritos do usuário.</li></ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | <li>**FE12** - Se o imóvel ser removido da plataforma.</li><li>**FE13** - Problemas de conexão.</li>|
+| **Requisito associado** | |
 
 # UC09 - Fazer proposta
 
@@ -130,6 +137,7 @@
 | **Fluxo principal**   | **FP09** - Fazer proposta para um imóvel <ol><li>O interessado acessa a opção de fazer proposta.</li><li>O interessado insere o valor e as condições da proposta.</li><li>O  sistema envia a proposta ao proprietário.</li><li>O proprietário avalia a proposta e responde ao interessado.</li></ol>|
 | **Fluxo Alternativo** | **FA03** - O proprietário pode optar por fazer uma contraproposta.|
 | **Fluxo de Exceção**  | **FE14** - Problemas de conexão. |
+| **Requisito associado** | |
 
 # UC10 - Agendar horário para tirar foto do imóvel
 
@@ -142,6 +150,7 @@
 | **Fluxo principal**   | **FP10** - Agendar horário para tirar foto do imóvel <ol><li>O proprietário acessa a opção de agendar a sessão de fotos.</li><li>O sistema exibe os horários disponíveis.</li><li>O proprietário escolhe um horário e confirma.</li><li>O sistema agenda a sessão e notifica a equipe QuintoAndar.</li></ol>|
 | **Fluxo Alternativo** |  |
 | **Fluxo de Exceção**  | **FE15** - Problemas de conexão.|
+| **Requisito associado** | |
 
 # UC11 - Ver notificação da conversa
 
@@ -154,6 +163,7 @@
 | **Fluxo principal**   | **FP11** - Ver notificação da conversa <ol><li>O inquilino ou o proprietário acessa a seção de notificações.</li><li>O sistema exibe as notificações relacionadas às conversas ativas.</li></ol>|
 | **Fluxo Alternativo** |  |
 | **Fluxo de Exceção**  | <ul><li>**FE16** - Não ter notificações. </li><li>**FE17** - Problemas de conexão.</li></ul>|
+| **Requisito associado** | |
 
 <!-- separar esse UC em duas-->
 # UC12 - Conversar com o corretor e/ou proprietário
@@ -167,6 +177,7 @@
 | **Fluxo principal**   | **FP12** - Troca de mensagens <ol><li>Inquilino e proprietário apertam na aba "Mensagens" da aplicação</li> <li><li>Na aba "Conversas" o Inquilino aperta no botão "Com o proprietário", e o proprietário no botão "Com seu inquilino"</li><li> <li>Inquilino e proprietário engajam em conversa para negociar acordos, notificar probelmas, *et cetra*</li> </ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | **FE18** - Erro de conexão previne o usuário de enviar ou receber mensagens|
+| **Requisito associado** | |
 
 # UC13 - Compartilhar link de imóveis
 
@@ -179,6 +190,7 @@
 | **Fluxo principal**   | **FP13** - Compartilhamento de link <ol> <li> Usuário abre a aplicação </lI> <li> Usuário vai para a aba "Início" ou "Busca" </li> <li> Usuário clica em um imóvel, buscado ou recomendado, para mostrar seus detalhes </li> <li> Usuário clica no símbolo de compartilhamento no canto superior direito da tela </li> <li> Usuário é providenciado com um link que pode ser copiado para a área de transferência ou enviado para outras aplicações |
 | **Fluxo Alternativo** |  |
 | **Fluxo de Exceção**  |  |
+| **Requisito associado** | |
 
 # UC14 - Ver agendamentos
 
@@ -191,6 +203,7 @@
 | **Fluxo principal**   | **FP14** - Visualização de visitas agendads <ol> <li> Usuário abre a aplicação </li> <li> Usuário vai para a aba "Menu" </li> <li> Usuário clica no botão "Visitas agendadas" </li> <li> Informações sobre visitas passadas e visitas futuras estarão disponíveis para visualização </li> </ol>|
 | **Fluxo Alternativo** |  |
 | **Fluxo de Exceção**  | **FE19** - Erro de conexão previne o usuário de ver informações sobre suas visitas|
+| **Requisito associado** | |
 
 # UC15 - Alugar imóvel
 
@@ -203,6 +216,7 @@
 | **Fluxo principal**   | **FP15** - Aluguel de um imóvel: <ol> <li> Usuário seleciona um imóvel disponível para aluguel na aba "Busca" ou "início"</li> <li> Usuário clica no botão agendar visita </li> <li> Usuário faz a visita do local e retorna da visita</li> <li> Usuário clica no botão de "Fazer proposta" </li> <li> Usuário clica em continuar </li> <li> Usuário passa pelo processo de Avaliação de crédito e documentação do QuintoAndar </li> <li> Se o proprietário aceitar a proposta o imóvel será alugado </li> <li> Usuário assina o contrato de aluguel do imóvel </li> </ol>|
 | **Fluxo Alternativo** | **FA04** - Se o imóvel não estiver disponível no momento da proposta é possível clicar no botão "Avisar quando disponível" para ser notificado futuramente|
 | **Fluxo de Exceção**  | <ul> <li>**FE20** - se a proposta for rejeitada no passo nº 4 o usuário não poderá alugar o imóvel  </li><li>**FE21** - Se o usuário não estivar statisfeito com a visita no passo nº3 ele pode não prosseguir com a proposta</li> <li> **FE00** - Se o usuário for rejeitado na avaliação de crédito no passo nº 6 ele não poderá prosseguir com o aluguel </li> </ul>|
+| **Requisito associado** | |
 
 <!-- includo agendar visita-->
 # UC16 - Comprar imóvel
@@ -216,6 +230,7 @@
 | **Fluxo principal**   | **FP16** - Aluguel de um imóvel: <ol> <li> Usuário seleciona um imóvel disponível para aluguel na aba "Busca" ou "início"</li> <li> Usuário clica no botão agendar visita </li> <li> Usuário faz a visita do local e retorna da visita</li> <li> Usuário faz a proposta de compra do imóvel </li> <li> Usuário e proprietário assinam o Compromisso de Compra e Venda <!-- Léxico--></li> <li>Usuário efetua o pagamento do sinal do valor de acordo com o documento</li> <li> O QuintoAndar efetua uma análise jurídica dos documentos do usuário e do proprietário</li>  <li>Usuário faz o pagamento da entrada</li> <li>Usuário assina o Contrado de Financiamento e o registra no cartório de imóveis </li> </ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | <ul> <li>**FE21** - se a proposta for rejeitada no passo nº 4 o usuário não poderá alugar o imóvel  </li><li>**FE22** - Se o usuário não estivar statisfeito com a visita no passo nº3 ele pode não prosseguir com a proposta</li> <li> **FE00** - Se o usuário for rejeitado na avaliação de crédito no passo nº 6 ele não poderá prosseguir com o aluguel </li> </ul>|
+| **Requisito associado** | |
 
 # UC17 - Indicar imóvel
 
@@ -228,6 +243,7 @@
 | **Fluxo principal**   | **FP17** - Indicar imóvel: <ol> <li> Usuário abre a aplicação </li> <li> Usuário vai para a aba "Menu" </li> <li> Usuário clica no botão "Indicar imóvel" </li> <li> Usuário é redirecionado para uma página com formulários </li> <li> Usuário preenche o formulário de indicação simples com os dados de contanto do proprietário </li> <li> Proprietário é contatado pela equipe do QuintoAndar sobre anunciar o imóvel na aplicação </li> </ol>|
 | **Fluxo Alternativo** | **FA05** - Indicação com link: No passo Nº 5, em vez de preencher os dados de contato do proprietário, o usuário compartilha o link da área "Indicação Com Link" com o proprietário no qual o proprietário irá utilizar para anunciar seu imóvel na aplicação|
 | **Fluxo de Exceção**  | <ul><li>**FE23** - Perda de conexão com a internet não permite preenchimento do formulário</li>  <li> **FE24** - Mau preenchimento dos dados de contato do proprietário impossibilita a equipe de contatar-lo</ul>|
+| **Requisito associado** | |
 
 ---
 <center>
@@ -251,6 +267,7 @@
 | **Fluxo principal**   | **FP19** - Realizar cadastro <ol>  <li>Não usuário abre a aplicação</li> <li>Não usuário clica no botão "Acessar sua conta"</li> <li>Não usuário clica no botão "Continuar com o Google"</li> <li>Não usuário clica é levado à página do Google para permitir acesso à sua conta</li></ol>|
 | **Fluxo Alternativo** | <ul><li>**FA06**: Usuário associa-se com sua conta da Apple em vez de sua conta da google no passo 3, autenticando-se com o serviço da Apple</li> <li>**FA002** - Usuário associa-se com seu número de telefone em vez de um serviço externo no passo 3, informando o seu número de telefone</li> </ul> |
 | **Fluxo de Exceção**  | **FE24** - Erro de conexão previne o não usuário de criar a sua conta |
+| **Requisito associado** | |
 
 # UC20 - Alterar conta
 
@@ -263,6 +280,7 @@
 | **Fluxo principal**   | **FP20** - Alterar conta: <ol> <li>Usuário vai para a aba "Menu"</li> <li>Usuário vai aperta o botão "Gerenciar Conta"</li> <li>Usuário pode alterar seu nome completo</li> <li>Usuário pode [adicionar email alternativo](#UC-22-adicionar-email-alternativo)</li> <li>Usuário pode [gerenciar notificações](#UC23-gerenciar-notificacoes) </li> <li>Usuário deve clicar no botão "Salvar" </li></ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | **FE25** - Erro de conexão previne o usuário de alterar a sua conta |
+| **Requisito associado** | |
 
 # UC21 - Fazer login
 
@@ -275,6 +293,7 @@
 | **Fluxo principal**   | **FP21** - Fazer login <ol>  <li>Usuário abre a aplicação</li> <li>Usuário clica no botão "Acessar sua conta"</li> <li>Não usuário clica no botão "Continuar com o Google"</li> <li>Não usuário clica é levado à página do Google para permitir acesso à sua conta</li></ol>|
 | **Fluxo Alternativo** | <ul><li>**FA07**: Usuário associa-se com sua conta da Apple em vez de sua conta da google no passo 3, autenticando-se com o serviço da Apple</li>  </ul> |
 | **Fluxo de Exceção**  | **FE26** - Erro de conexão previne o usuário de fazer login |
+| **Requisito associado** | |
 
 # UC22 - Adicionar email alternativo
 
@@ -287,6 +306,7 @@
 | **Fluxo principal**   | **FP22** - Adicionar email alternativo: <ol><li> Usuário abre a aplicação </li> <li> Usuário vai para a aba de Menu </li> <li> Usuário Aperta no botão "Gerenciar conta" </li> <li> Usuário escreve seu email alternativo no formulário </li> <li> Usuário clica no botão "Salvar" </li> </ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | **FE27** - Erro de conexão previne o usuário de adicionar o e-mail alternativo|
+| **Requisito associado** | |
 
 <!-- Aqui precisa de um impacto mais relevante -->
 # UC23 - Gerenciar notificações
@@ -300,6 +320,7 @@
 | **Fluxo principal**   | **FP23** - Gerenciar notificações: <ol> <li>Usuário vai para a aba "Menu"</li> <li> Usuário clica no botão "Acessar sua conta"</li> <li>Usuário clica no botão "Gerenciar notificações" </li> <li> Usuário escolhe para qual produto deseja alterar as notificações (proprietário, afiliado, inquilino ou todos)</li> <li> Usuário escolhe quais tipos de mensagem deseja receber em quais meios </li> </ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | **FE28** - Erro de conexão previne o usuário modificar suas preferências de notificações|
+| **Requisito associado** | |
 
 # UC24 - Sair da conta
 
@@ -312,6 +333,7 @@
 | **Fluxo principal**   | **FP24** - Sair da conta <ol><li> Usuário abre a aplicação </li> <li> Usuário vai para a aba de menu </li> <li> Usuário clica no botão "Gerenciar Conata" </li> <li> Usuário clica no botão vermelho "Sair da conta" </li> </ol>|
 | **Fluxo Alternativo** | |
 | **Fluxo de Exceção**  | **FE29** - Erro de conexão previne o usuário de adicionar o e-mail alternativo|
+| **Requisito associado** | |
 
 ---
 
