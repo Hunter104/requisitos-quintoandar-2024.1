@@ -29,18 +29,17 @@ US014  | RF14 | Usuário | Comprar ou alugar imóvel | Eu possa concretizar a tr
 US015  | RF11 | Usuário | Conversar com corretores, inquilinos e proprietários | Eu possa esclarecer dúvidas e negociar condições diretamente pelo app | Must | To do
 US016  | RF13 | Usuário | Compartilhar detalhes do imóvel | Eu possa divulgar o imóvel em outras plataformas | Should | To do
 US017  | RF15 | Proprietário | Cadastrar e anunciar imóveis | Eu possa disponibilizar meus imóveis para locação ou venda | Must | To do
-US018  | RF16 | Proprietário | Agendar sessão de fotos profissionais para o meu imóvel | O anúncio fique visualmente atraente e completo | Must | To do
-US019  | RF17 | Usuário | Indicar imóveis para o QuintoAndar | Eu possa ganhar recompensas quando os imóveis forem publicados, alugados ou vendidos | Should | To do
-US020  | RF18 | Usuário | Ver compromissos agendados | Eu possa acessar o histórico de visitas e visualizar as futuras | Must | To do
-US021  | RF16 | Proprietário | Agendar uma sessão de fotos do meu imóvel | Eu possa ter imagens profissionais no anúncio | Must | To do
-US022  | RF03 | Proprietário | Ver meus imóveis | Eu possa ver minha lista de imóveis cadastrados | Must | To do
-US023  | RF08 | Usuário | Cancelamento de propostas | Eu possa cancelar uma proposta enviada por mim enquanto esta não foi aceita | Must | To do
-US024  | RF03 | Proprietário | Avaliar atendimento do corretor | Eu possa avaliar o corretor que analisou e/ou visitou meu imóvel | Must | To do
-US025  | RF14 | Usuário | Suporte e ajuda ao cliente | Eu possa ter ajuda no uso do app | Must | To do
-US026  | RF14 | Usuário | Feedback sobre o app | Eu possa avaliar o aplicativo | Must | To do
-US027  | RF03 | Usuário | Solicitar informações adicionais de um imóvel | Eu possa solicitar informações extras de um imóvel a um corretor | Must | To do
-US028  | RF14 | Usuário | Avaliar imóvel | Eu possa registrar uma avaliação pública sobre um imóvel após a visita | Must | To do
-US029  | RF16 | Proprietário | Atualizar fotos do imóvel | Eu possa atualizar as fotos dos meus imóveis | Must | To do
+US018  | RF17 | Usuário | Indicar imóveis para o QuintoAndar | Eu possa ganhar recompensas quando os imóveis forem publicados, alugados ou vendidos | Should | To do
+US019  | RF18 | Usuário | Ver compromissos agendados | Eu possa acessar o histórico de visitas e visualizar as futuras | Must | To do
+US020  | RF16 | Proprietário | Agendar uma sessão de fotos do meu imóvel | Eu possa ter imagens profissionais no anúncio | Must | To do
+US021  | RF03 | Proprietário | Ver meus imóveis | Eu possa ver minha lista de imóveis cadastrados | Must | To do
+US022  | RF08 | Usuário | Cancelamento de propostas | Eu possa cancelar uma proposta enviada por mim enquanto esta não foi aceita | Must | To do
+US023  | RF03 | Proprietário | Avaliar atendimento do corretor | Eu possa avaliar o corretor que analisou e/ou visitou meu imóvel | Must | To do
+US024  | RF14 | Usuário | Suporte e ajuda ao cliente | Eu possa ter ajuda no uso do app | Must | To do
+US025  | RF14 | Usuário | Feedback sobre o app | Eu possa avaliar o aplicativo | Must | To do
+US026  | RF03 | Usuário | Solicitar informações adicionais de um imóvel | Eu possa solicitar informações extras de um imóvel a um corretor | Must | To do
+US027  | RF14 | Usuário | Avaliar imóvel | Eu possa registrar uma avaliação pública sobre um imóvel após a visita | Must | To do
+US028  | RF16 | Proprietário | Atualizar fotos do imóvel | Eu possa atualizar as fotos dos meus imóveis | Must | To do
 
 <center>
 
