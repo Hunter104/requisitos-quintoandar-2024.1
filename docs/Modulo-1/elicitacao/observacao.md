@@ -31,8 +31,8 @@
 
 |    Data    | Versão |              Descrição               | Autores                                                                                                                                                                                      |
 |:----------:|:------:|:------------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 07/08/2024 | `1.0`  |        Criação do documento.         | [André Silva](https://github.com/Hunter104) |
-| 07/08/2024 | `1.0`  | Adiciona lexicos e tabelas iniciais. | [André Silva](https://github.com/Hunter104) |
+| 20/08/2024 | `1.0`  |        Criação do documento.         | [André Silva](https://github.com/Hunter104) |
+| 20/08/2024 | `1.1`  | Adiciona lexicos e tabelas iniciais. | [André Silva](https://github.com/Hunter104) |
 
 </div>
 
