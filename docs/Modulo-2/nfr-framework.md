@@ -18,15 +18,23 @@
 
 ## NFR001 - Confiabilidade
 
-![confiabilidade](../assets/nfr-fr-confiabilidade1.png)
+![confiabilidade](../assets/nfr-confiabilidade1.png)
 
 ## NFR002 - Usabilidade 
 
-![usabilidade](../assets/nfr-fr-usabilidade1.png)
+![usabilidade](../assets/nfr-usabilidade1.png)
 
 ## NFR003 - Acessibilidade 
 
-![acessibilidade](../assets/nfr-fr-acessibilidade.png)
+![acessibilidade](../assets/nfr-acessibilidade1.png)
+
+## NFR004 - Performance 
+
+![acessibilidade](../assets/nfr-performance1.png)
+
+## NFR005 - Suportabilidade 
+
+![acessibilidade](../assets/nfr-suportabilidade1.png)
 
 <center>
 
