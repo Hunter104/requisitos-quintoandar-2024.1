@@ -7,6 +7,8 @@
 ---
 
 > Trata-se de um framework conceitual para condução da engenharia de requisitos orientada aos requisitos não funcionais, com uma extensão que apoia suposições para metas flexíveis (softgoals).
+> 
+> A definição das NFRs foram obtidas a través de um brainstrom, para ver a gravação clique [aqui](https://youtu.be/jSlo0Tva5ms?si=IR2kVmAStQ1PK5Yo).
 
 ---
 
