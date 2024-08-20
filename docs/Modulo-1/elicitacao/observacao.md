@@ -17,7 +17,7 @@
 | RNF001    | Minimizar Burocracia | [Artigo](https://www.jornaldocomercio.com/_conteudo/marcas_2020/noticias/2020/02/726908-quinto-andar-elimina-burocracia-no-aluguel-e-inicia-teste-para-compra-e-venda-de-imoveis.html) do quintoandar no medium sobre eliminar burocracia |
 | RNF002    | Segurança contra fraudes financeiras | [Artigo](https://www.otempo.com.br/opiniao/artigos/imovel-e-cliente-protegidos-1.2303941) sobre proteção digital referenciado pelo quintoandar |
 | RNF003    | Confiabilidade de transações | Quinto parágrafo do [artigo](https://www.jornaldocomercio.com/_conteudo/marcas_2020/noticias/2020/02/726908-quinto-andar-elimina-burocracia-no-aluguel-e-inicia-teste-para-compra-e-venda-de-imoveis.html) sobre características da startup |
-| RF004     | Permitir parcerias com corretoras e imobiliárias tradicionais | Nono parágrafo do [artigo](https://www.jornaldocomercio.com/_conteudo/marcas_2020/noticias/2020/02/726908-quinto-andar-elimina-burocracia-no-aluguel-e-inicia-teste-para-compra-e-venda-de-imoveis.html) sobre características da startup |
+| RF19     | Permitir parcerias com corretoras e imobiliárias tradicionais | Nono parágrafo do [artigo](https://www.jornaldocomercio.com/_conteudo/marcas_2020/noticias/2020/02/726908-quinto-andar-elimina-burocracia-no-aluguel-e-inicia-teste-para-compra-e-venda-de-imoveis.html) sobre características da startup |
 
 ---
 

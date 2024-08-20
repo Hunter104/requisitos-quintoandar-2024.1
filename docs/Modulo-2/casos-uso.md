@@ -33,6 +33,7 @@
 | **Fluxo principal**   | **FP01** - Acessar mapa interativo <ol><li>O usuário busca por imóvel.</li><li>O sistema carrega o mapa com os imóveis disponíveis.</li><li>O usuário visualiza e interage com o mapa.</li></ol>|
 | **Fluxo Alternativo** | **FA01** - O usuário visualiza detalhes do imóvel, no passo 2.|
 | **Fluxo de Exceção**  | **FE01** - Problemas de conexão impedem o usuário de ver o mapa|
+| **Funcionalidade referenciada |
 
 # UC02 - Exibir imóveis similares
 
