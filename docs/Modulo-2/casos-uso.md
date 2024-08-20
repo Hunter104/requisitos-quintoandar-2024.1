@@ -4,7 +4,6 @@
 
 </center>
 
----
 
 > O diagrama de caso de uso é um modelo formal, que faz parte do padrão de linguagem UML, para representar um sistema
 > por meio de interações de usuário com as suas funcionalidades.
