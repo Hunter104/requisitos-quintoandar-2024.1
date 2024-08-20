@@ -65,6 +65,8 @@
        - [Priorização](Modulo-1/elicitacao/priorizacao)
            - [Vídeo da Reunião](Modulo-1/elicitacao/priorizacao.md#vídeo-da-reunião)
            - [Histórico de Versão](Modulo-1/elicitacao/priorizacao.md#histórico-de-versão)
+       - [FURPS+](Modulo-1/elicitacao/furps.md)
+           - [Histórico de Versão](Modulo-1/elicitacao/furps.md#histórico-de-versão) 
     - [Apresentação](Modulo-1/apresentacao.md)
        - [Histórico de Versão](Modulo-1/apresentacao.md#histórico-de-versão) 
 

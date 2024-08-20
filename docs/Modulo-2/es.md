@@ -4,10 +4,14 @@
 
 </center>
 
+---
+
 > Documento em linguagem natual, no qual são descreitos os requisitos não funcionais. Esta especificação suplementar
 > lista os requisitos que não são imediatamente capturados nos casos de uso do modelo de casos de uso.
 > 
 > Definições Acrônimos e Abreviações disponíveis em [Léxicos](Modulo-2/lexico.md) e [Cénarios](Modulo-2/cenario.md).
+> 
+> Todos os requisitos não funcionais listados estão disponíveis na elicitação > [FURPS+](Modulo-1/elicitacao/furps.md)
 
 ---
 

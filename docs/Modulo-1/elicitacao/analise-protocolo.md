@@ -4,11 +4,11 @@
 
 </center>
 
----
 
 > A análise de protocolo é uma técnica de elicitação de requisitos que busca compreender em profundidade como as pessoas pensam e agem ao realizar determinada tarefa. Dessa forma, o analista observa um indivíduo enquanto ele executa uma atividade e solicita que o participante verbalize seus pensamentos em voz alta durante todo o processo.
 
 ---
+
 <center>
 
 # Metodologia
