@@ -9,6 +9,84 @@
 > 
 > Definições Acrônimos e Abreviações disponíveis em [Léxicos](Modulo-2/lexico.md) e [Cénarios](Modulo-2/cenario.md).
 
+---
+
+<center>
+
+# Metodologia - FURPS+
+
+</center>
+
+> Este documento segue a metodologia FURPS+, que é utilizada para classificar requisitos divididos em 5 principais categorias:
+
+---
+
+### F : Funcionalidade
+
+> Abrange todos os aspectos funcionas do software, ou serja, requisitos funcionas capturados através dos casos de uso.
+
+[UC01 - Ver mapa interativo](./casos-uso.md#uc01---ver-mapa-interativo)
+
+| Requisitos identificados nos `casos de uso`                             |
+|-------------------------------------------------------------------------|
+| [UC01 - Ver mapa interativo](./casos-uso.md#uc01---ver-mapa-interativo) |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+|                                                                         |
+
+---
+
+### U: Usablidade
+
+
+
+---
+
+### R: Confiabilidade
+
+
+
+---
+
+### P: Performance
+
+
+---
+
+### S: Suportabilidade
+
+
+
+---
+
+### +: Outros
+
+> Requisitos como ajuda e documentação de usuário, interfaces, observações legias entre outros.
+
+---
 
 <center>
 
