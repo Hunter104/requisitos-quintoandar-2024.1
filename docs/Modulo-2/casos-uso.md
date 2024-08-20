@@ -19,8 +19,13 @@
 > Diagrama de casos de uso representando as principais funcionalidades da aplicação com relação ao cadastro, venda, e aluguel de imóveis
 
 
+## Versão 1.0
 <center><img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/casos-de-uso-principal.png?raw=true"></center>
 
+--- 
+
+## Versão 2.0
+<center><img src=""></center>
 <!-- Tem que colocar os links para o léxico -->
 # UC01 - Ver mapa interativo
 
