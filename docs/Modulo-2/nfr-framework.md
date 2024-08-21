@@ -12,6 +12,23 @@
 
 ---
 
+# Procedimento de Avaliação
+
+No NFR Framework, a avaliação dos softgoals é feita através de um algoritmo de rotulagem (*labeling algorithm*) que considera rótulos, contribuições e decisões do desenvolvedor. Esse processo analisa como decisões afetam softgoals de alto nível, utilizando o conceito de satisfação, onde o objetivo é encontrar soluções "boas o suficiente". A avaliação segue um fluxo ascendente no grafo, onde decisões nas folhas impactam softgoals principais. Contribuições positivas propagam a satisfação, enquanto contribuições negativas invertem essa relação, refletindo a complexidade dos requisitos não funcionais.
+
+Os tipos de rótulos são apresentados na figura abaixo:
+
+![confiabilidade](../assets/nfr-labels.png)
+
+Descrição:
+
+- Satisfeito: O softgoal pode ser atendido conforme a análise, sendo, portanto, selecionado para implementação.
+- Fracamente satisfeito: Há sinais positivos indicando a possibilidade de cumprimento do softgoal.
+- Negado: O softgoal não pode ser atendido conforme a análise, e, por isso, não é selecionado para implementação.
+- Fracamente negado: Há indícios de que o softgoal não pode ser totalmente cumprido.
+- Indeterminado: A realização do softgoal não pode ser confirmada nem descartada.
+- Conflitante: Existem divergências que dificultam o cumprimento do softgoal.
+
 <center>
 
 # NFR's definidas
@@ -30,6 +47,9 @@
 
 ![acessibilidade](../assets/nfr-acessibilidade1.png)
 
+**Com propagação de impactos**
+![suportabilidade](../assets/nfr-acessibilidade2.png)
+
 ## NFR004 - Performance 
 
 ![performance](../assets/nfr-performance1.png)
@@ -37,6 +57,9 @@
 ## NFR005 - Suportabilidade 
 
 ![suportabilidade](../assets/nfr-suportabilidade1.png)
+
+**Com propagação de impactos**
+![suportabilidade](../assets/nfr-suportabilidade2.png)
 
 <center>
 
