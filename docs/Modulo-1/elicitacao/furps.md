@@ -6,6 +6,8 @@
 
 > Requisitos não funcionais obtidos através do método `FURPS+` da especificação suplementar.
 
+---
+
 <div style="margin: 0 auto; width: fit-content;">
 
 | ID     | Descrição                                                                                                                                                                                               |

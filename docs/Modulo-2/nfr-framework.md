@@ -29,6 +29,8 @@ Descrição:
 - Indeterminado: A realização do softgoal não pode ser confirmada nem descartada.
 - Conflitante: Existem divergências que dificultam o cumprimento do softgoal.
 
+---
+
 <center>
 
 # NFR's definidas
@@ -42,33 +44,43 @@ Descrição:
 **Com propagação de impactos**
 ![confiabilidade](../assets/nfr-confiabilidade2.png)
 
-## NFR002 - Usabilidade 
+---
+
+## NFR002 - Usabilidade
 
 ![usabilidade](../assets/nfr-usabilidade1.png)
 
 **Com propagação de impactos**
 ![usabilidade](../assets/nfr-usabilidade2.png)
 
-## NFR003 - Acessibilidade 
+---
+
+## NFR003 - Acessibilidade
 
 ![acessibilidade](../assets/nfr-acessibilidade1.png)
 
 **Com propagação de impactos**
 ![acessibilidade](../assets/nfr-acessibilidade2.png)
 
-## NFR004 - Performance 
+---
+
+## NFR004 - Performance
 
 ![performance](../assets/nfr-performance1.png)
 
 **Com propagação de impactos**
 ![performance](../assets/nfr-performance2.png)
 
-## NFR005 - Suportabilidade 
+---
+
+## NFR005 - Suportabilidade
 
 ![suportabilidade](../assets/nfr-suportabilidade1.png)
 
 **Com propagação de impactos**
 ![suportabilidade](../assets/nfr-suportabilidade2.png)
+
+---
 
 <center>
 
@@ -79,12 +91,11 @@ Descrição:
 
 <div style="margin: 0 auto; width: fit-content;">
 
-|    Data    | Versão |           Descrição            | Autores                                                                                                                                           |
-| :--------: | :----: | :----------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 19/08/2024 | `1.0`  |     Criação do documento.      | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714)                                                   |
-| 19/08/2024 | `1.1`  |    Primeira versão do NFR.     | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714)                                                   | ||
-| 20/08/2024 | `1.2`  | Adiciona árvores de softgoals. | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei) |
-| 21/08/2024 | `1.3`  | Adiciona análise e propagação de impactos. | [Cássio Reis](https://github.com/csreis72), [Artur Bartz](https://github.com/H0lzz) |
-|            |        |                                |                                                                                                                                                   |
+|    Data    | Versão |                 Descrição                  | Autores                                                                                                                                           |
+|:----------:|:------:|:------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 19/08/2024 | `1.0`  |           Criação do documento.            | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714)                                                   |
+| 19/08/2024 | `1.1`  |          Primeira versão do NFR.           | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714)                                                   | ||
+| 20/08/2024 | `1.2`  |       Adiciona árvores de softgoals.       | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei) |
+| 21/08/2024 | `1.3`  | Adiciona análise e propagação de impactos. | [Cássio Reis](https://github.com/csreis72), [Artur Bartz](https://github.com/H0lzz)                                                               |
 
 </div>
