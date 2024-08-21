@@ -39,20 +39,29 @@ Descrição:
 
 ![confiabilidade](../assets/nfr-confiabilidade1.png)
 
+**Com propagação de impactos**
+![confiabilidade](../assets/nfr-confiabilidade2.png)
+
 ## NFR002 - Usabilidade 
 
 ![usabilidade](../assets/nfr-usabilidade1.png)
+
+**Com propagação de impactos**
+![usabilidade](../assets/nfr-usabilidade2.png)
 
 ## NFR003 - Acessibilidade 
 
 ![acessibilidade](../assets/nfr-acessibilidade1.png)
 
 **Com propagação de impactos**
-![suportabilidade](../assets/nfr-acessibilidade2.png)
+![acessibilidade](../assets/nfr-acessibilidade2.png)
 
 ## NFR004 - Performance 
 
 ![performance](../assets/nfr-performance1.png)
+
+**Com propagação de impactos**
+![performance](../assets/nfr-performance2.png)
 
 ## NFR005 - Suportabilidade 
 
