@@ -12,9 +12,7 @@
 
 ## Objetivos
 
----
-
-## Metodologia
+> Descrever, de maneira simples e direta, as necessidades ou funcionalidades desejadas, especificando os critérios de aceitação para cada US. Os critérios de aceitação são as condições que a implementação deve atender para que uma história de usuário seja considerada completa.
 
 ---
 
