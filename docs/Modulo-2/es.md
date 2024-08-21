@@ -61,7 +61,7 @@
 
 ---
 
-### U: Usablidade
+### U: Usabilidade
 
 > Abrange requisitos relacionados a usabilidade do sistema, incluindo interface e experiência do usuário.
 

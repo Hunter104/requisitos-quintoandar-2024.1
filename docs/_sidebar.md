@@ -144,7 +144,7 @@
     - [Especificação Suplementar](Modulo-2/es.md)
         - [Metodologia FURPS+](Modulo-2/es.md#metodologia-furps) 
            - [Funcionalidade](Modulo-2/es.md#f-funcionalidade) 
-           - [Usabilidade](Modulo-2/es.md#u-usablidade)
+           - [Usabilidade](Modulo-2/es.md#u-usabilidade)
            - [Confiabilidade](Modulo-2/es.md#r-confiabilidade)
            - [Performance](Modulo-2/es.md#p-performance)
            - [Suportabilidade](Modulo-2/es.md#s-suportabilidade)
