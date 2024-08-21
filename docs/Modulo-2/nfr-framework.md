@@ -84,6 +84,7 @@ Descrição:
 | 19/08/2024 | `1.0`  |     Criação do documento.      | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714)                                                   |
 | 19/08/2024 | `1.1`  |    Primeira versão do NFR.     | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714)                                                   | ||
 | 20/08/2024 | `1.2`  | Adiciona árvores de softgoals. | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei) |
+| 21/08/2024 | `1.3`  | Adiciona análise e propagação de impactos. | [Cássio Reis](https://github.com/csreis72), [Artur Bartz](https://github.com/H0lzz) |
 |            |        |                                |                                                                                                                                                   |
 
 </div>
