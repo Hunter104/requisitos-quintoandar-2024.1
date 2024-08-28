@@ -677,6 +677,7 @@
 | 07/08/2024 | `1.0`  |        Criação do documento.         | [João Antonio G.](https://github.com/joaoseisei)                                                                                                                                             |
 | 07/08/2024 | `1.1`  | Adiciona lexicos e tabelas iniciais. | [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei)                                                                                         |
 | 12/08/2024 | `1.2`  |           Finaliza lexico.           | [André Silva](https://github.com/Hunter104),  [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [João Carvalho](https://github.com/joaoseisei) |
+| 28/08/2024 | `1.3`  |           Adiciona links lexico           | [André Silva](https://github.com/Hunter104)|
 
 </div>
 
