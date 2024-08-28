@@ -6,7 +6,7 @@
 
 ---
 
-> Documento em linguagem natual, no qual são descreitos os requisitos não funcionais. Esta especificação suplementar
+> Documento em linguagem natual, no qual são descritos os requisitos não funcionais. Esta especificação suplementar
 > lista os requisitos que não são imediatamente capturados nos casos de uso do modelo de casos de uso.
 > 
 > Definições Acrônimos e Abreviações disponíveis em [Léxicos](Modulo-2/lexico.md) e [Cénarios](Modulo-2/cenario.md).
@@ -61,7 +61,7 @@
 
 ---
 
-### U: Usablidade
+### U: Usabilidade
 
 > Abrange requisitos relacionados a usabilidade do sistema, incluindo interface e experiência do usuário.
 
