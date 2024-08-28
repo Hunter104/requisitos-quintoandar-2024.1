@@ -12,7 +12,7 @@
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Lexigramas |
+| Lexigramas | 
 |---|
 | [L01 - Acordo](#l01-acordo) |
 | [L02 - Afiliado](#l02-afiliado) |
@@ -68,7 +68,6 @@
 </div>
 
 ---
-
 # L01 Acordo
 
 |   |   |
@@ -100,7 +99,7 @@
 | **Nome** | Ajuda e atendimento |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>assistência</li><li>Suporte</li></ul> |
-| **Nocões** | <ul><li>Ajuda e atendimento referem-se aos serviços oferecidos para auxiliar [usuário](#L50-usuário)s com dúvidas, pode incluir suporte técnico, orientação e resolução de problemas.</li></ul> |
+| **Nocões** | <ul><li>Ajuda e atendimento referem-se aos serviços oferecidos para auxiliar usuários com dúvidas, pode incluir suporte técnico, orientação e resolução de problemas.</li></ul> |
 | **Impactos** | <ul><li>Um [usuário](#L50-usuário) pode acessar a área de ajuda e atendimento para resolver uma dúvida rápida.</li><li>Um [usuário](#L50-usuário) pode acessar a área de ajuda e atendimento para obter suporte técnico em caso de algum problema com o aplicativo.</li></ul> |
 
 ---
@@ -113,7 +112,7 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Aviso</li><li>notificação</li></ul> |
 | **Nocões** | <ul><li>Um alerta é uma [mensagem](#L29-mensagem) ou sinal que informa sobre uma situação que requer atenção imediata.</li></ul> |
-| **Impactos** | <ul><li>Um alerta notifica situações importantes para [inquilino](#L26-inquilino)s ou para [proprietário](#L36-proprietário)s por meio de notificações de smartphones.</li></ul> |
+| **Impactos** | <ul><li>Um alerta notifica situações importantes para inquilinos ou para proprietários por meio de notificações de smartphones.</li></ul> |
 
 ---
 
@@ -121,11 +120,11 @@
 
 |   |   |
 |---|----|
-| **Nome** | [Alerta](#L04-alerta)s criados |
+| **Nome** | Alertas criados |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Notificações criadas</li></ul> |
-| **Nocões** | <ul><li>[Alerta](#L04-alerta)s criados referem-se a notificações ou avisos que foram gerados por um [usuário](#L50-usuário).</li></ul> |
-| **Impactos** | <ul><li>Facilita o monitoramento e a gestão de eventos importantes ao manter um registro de [alerta](#L04-alerta)s .</li><li>Ajuda a garantir que nenhuma notificação importante seja perdida ou negligenciada.</li></ul> |
+| **Nocões** | <ul><li>Alertas criados referem-se a notificações ou avisos que foram gerados por um [usuário](#L50-usuário).</li></ul> |
+| **Impactos** | <ul><li>Facilita o monitoramento e a gestão de eventos importantes ao manter um registro de alertas .</li><li>Ajuda a garantir que nenhuma notificação importante seja perdida ou negligenciada.</li></ul> |
 
 ---
 
@@ -160,8 +159,8 @@
 | **Nome** | Anunciar [imóvel](#L24-imóvel) |
 | **Classificação** | Verbo |
 | **Sinônimos** | <ul><li>cadastrar [imóvel](#L24-imóvel)</li><li>declarar [imóvel](#L24-imóvel)</li><li>Divulgar [imóvel](#L24-imóvel)</li></ul> |
-| **Nocões** | <ul><li>Tarefa realizada pelo [proprietário](#L36-proprietário) do [imóvel](#L24-imóvel).</li><li>Acontece quando um [proprietário](#L36-proprietário) passa pelo processo de cadastro no aplicativo.</li><li>[Proprietário](#L36-proprietário) vai para a aba de menu e clica em anunciar [imóvel](#L24-imóvel).</li><li>[Proprietário](#L36-proprietário) insere seus dados pessoais e dados do [imóvel](#L24-imóvel).</li><li>Ao finalizar o cadastro a empresa agenda uma [visita](#L48-visita) para tirar fotos do [imóvel](#L24-imóvel) usando um fotografo .</li><li>o [imóvel](#L24-imóvel) é publicado</li></ul> |
-| **Impactos** | <ul><li>O [imóvel](#L24-imóvel) fica disponível para busca na aplicação</li><li>O [imóvel](#L24-imóvel) fica disponível para [proposta](#L38-proposta)s de [aluguel](#L06-aluguel) ou [compra](#L10-compra).</li><li>O [imóvel](#L24-imóvel) fica disponível para agendamento de [visita](#L48-visita)s.</li><li>O [proprietário](#L36-proprietário) fica disponível para receber mensagens, negociações e [proposta](#L38-proposta)s.</li></ul> |
+| **Nocões** | <ul><li>Tarefa realizada pelo [proprietário](#L36-proprietário) do [imóvel](#L24-imóvel).</li><li>Acontece quando um [proprietário](#L36-proprietário) passa pelo processo de cadastro no aplicativo.</li><li>[Proprietário](#L36-proprietário) vai para a aba de menu e clica em anunciar [imóvel](#L24-imóvel).</li><li>[Proprietário](#L36-proprietário) insere seus dados pessoais e dados do [imóvel](#L24-imóvel).</li><li>Ao finalizar o cadastro a empresa agenda uma [visita](#L48-visita) para tirar fotos do [imóvel](#L24-imóvel) usando um [fotografo](#L22-fotógrafo) .</li><li>o [imóvel](#L24-imóvel) é publicado</li></ul> |
+| **Impactos** | <ul><li>O [imóvel](#L24-imóvel) fica disponível para busca na aplicação</li><li>O [imóvel](#L24-imóvel) fica disponível para propostas de [aluguel](#L06-aluguel) ou [compra](#L10-compra).</li><li>O [imóvel](#L24-imóvel) fica disponível para agendamento de visitas.</li><li>O [proprietário](#L36-proprietário) fica disponível para receber mensagens, negociações e propostas.</li></ul> |
 
 ---
 
@@ -169,11 +168,11 @@
 
 |   |   |
 |---|----|
-| **Nome** | Buscar imóveis |
+| **Nome** | Buscar [imóveis](#L34-meus-imóveis) |
 | **Classificação** | Verbo |
-| **Sinônimos** | <ul><li>descobrir imóveis</li><li>Procurar imóveis</li></ul> |
-| **Nocões** | <ul><li>Tarefa realizada por [inquilino](#L26-inquilino) / [compra](#L10-compra)dor ou [compra](#L10-compra)dores.</li><li>[Inquilino](#L26-inquilino) / [compra](#L10-compra)dor vai para a aba de busca no aplicativo.</li><li>[Inquilino](#L26-inquilino) / [compra](#L10-compra)dor coloca a região onde os imóveis devem estar localizados.</li><li>[Inquilino](#L26-inquilino) / [compra](#L10-compra)dor escolhe se os imóveis devem estar dispoíveis para [aluguel](#L06-aluguel) ou para [compra](#L10-compra).</li><li>[Inquilino](#L26-inquilino) / [compra](#L10-compra)dor pode aplicar zero ou mais  [filtro](#L21-filtro)s  para busca mais específica.</li><li>[Inquilino](#L26-inquilino) / [compra](#L10-compra)dor pode aplicar um critério de ordenação.</li></ul> |
-| **Impactos** | <ul><li>Imóveis disponíveis que se adequam aos [filtro](#L21-filtro)s aparecerão no aplicativo.</li><li>Imóveis aparecerão na ordem escolhida.</li><li>Imóveis aparecerão com as informações mais relevantes, como fotos, preço, tamanho, quantidade de quartos e vagas de estacionamento, e localização.</li></ul> |
+| **Sinônimos** | <ul><li>descobrir [imóveis](#L34-meus-imóveis)</li><li>Procurar [imóveis](#L34-meus-imóveis)</li></ul> |
+| **Nocões** | <ul><li>Tarefa realizada por [inquilino](#L26-inquilino) / [comprador](#L11-comprador) ou compradores.</li><li>[Inquilino](#L26-inquilino) / [comprador](#L11-comprador) vai para a aba de busca no aplicativo.</li><li>[Inquilino](#L26-inquilino) / [comprador](#L11-comprador) coloca a região onde os [imóveis](#L34-meus-imóveis) devem estar localizados.</li><li>[Inquilino](#L26-inquilino) / [comprador](#L11-comprador) escolhe se os [imóveis](#L34-meus-imóveis) devem estar dispoíveis para [aluguel](#L06-aluguel) ou para [compra](#L10-compra).</li><li>[Inquilino](#L26-inquilino) / [comprador](#L11-comprador) pode aplicar zero ou mais  filtros  para busca mais específica.</li><li>[Inquilino](#L26-inquilino) / [comprador](#L11-comprador) pode aplicar um critério de ordenação.</li></ul> |
+| **Impactos** | <ul><li>[Imóveis](#L34-meus-imóveis) disponíveis que se adequam aos filtros aparecerão no aplicativo.</li><li>[Imóveis](#L34-meus-imóveis) aparecerão na ordem escolhida.</li><li>[Imóveis](#L34-meus-imóveis) aparecerão com as informações mais relevantes, como fotos, preço, tamanho, quantidade de quartos e vagas de estacionamento, e localização.</li></ul> |
 
 ---
 
@@ -193,11 +192,11 @@
 
 |   |   |
 |---|----|
-| **Nome** | [Compra](#L10-compra)dor |
+| **Nome** | Comprador |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>cliente</li><li>[interessado](#L27-interessado)</li></ul> |
-| **Nocões** | <ul><li>[Usuário](#L50-usuário) que está [interessado](#L27-interessado) em adquirir/[compra](#L10-compra)r um [imóvel](#L24-imóvel).</li></ul> |
-| **Impactos** | <ul><li>O [compra](#L10-compra)dor utiliza o aplicativo para [buscar imóveis](#L09-buscar-imóveis).</li><li>O [compra](#L10-compra)dor pode negociar [acordo](#L01-acordo)s com o [proprietário](#L36-proprietário).</li><li>O [compra](#L10-compra)dor pode realizar a [compra](#L10-compra) de imóveis, com suporte do aplicativo durante o processo de [compra](#L10-compra).</li></ul> |
+| **Nocões** | <ul><li>[Usuário](#L50-usuário) que está [interessado](#L27-interessado) em adquirir/comprar um [imóvel](#L24-imóvel).</li></ul> |
+| **Impactos** | <ul><li>O comprador utiliza o aplicativo para [buscar imóveis](#L09-buscar-imóveis).</li><li>O comprador pode negociar acordos com o [proprietário](#L36-proprietário).</li><li>O comprador pode realizar a [compra](#L10-compra) de [imóveis](#L34-meus-imóveis), com suporte do aplicativo durante o processo de [compra](#L10-compra).</li></ul> |
 
 ---
 
@@ -208,8 +207,8 @@
 | **Nome** | Condomínio |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Copropriedade</li></ul> |
-| **Nocões** | <ul><li>Conjunto habitacional composto por vários apartamentos ou imóveis com entrada e saída controlada.</li></ul> |
-| **Impactos** | <ul><li>É possível [compra](#L10-compra)r ou alugar casas de condomínio na aplicação.</li><li>É possível filtrar apenas por casas de condomínio na aplicação.</li></ul> |
+| **Nocões** | <ul><li>Conjunto habitacional composto por vários apartamentos ou [imóveis](#L34-meus-imóveis) com entrada e saída controlada.</li></ul> |
+| **Impactos** | <ul><li>É possível comprar ou alugar casas de condomínio na aplicação.</li><li>É possível filtrar apenas por casas de condomínio na aplicação.</li></ul> |
 
 ---
 
@@ -221,7 +220,7 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>perfil</li><li>Registro</li></ul> |
 | **Nocões** | <ul><li>Registro utilizado por um fornecedor de serviços online para identificar um assinante ou cliente.</li></ul> |
-| **Impactos** | <ul><li>Um [usuário](#L50-usuário) cria uma conta para utilizar o aplicativo.</li><li>Um [usuário](#L50-usuário) que deseja alterar os dados da sua conta pode ir gerenciar sua conta.</li><li>Um [usuário](#L50-usuário) que deseja cessar o uso do aplicativo pode ir deletar sua conta.</li></ul> |
+| **Impactos** | <ul><li>Um [usuário](#L50-usuário) cria uma conta para utilizar o aplicativo.</li><li>Um [usuário](#L50-usuário) que deseja alterar os dados da sua conta pode ir [gerenciar sua conta](#L23-gerenciar-conta).</li><li>Um [usuário](#L50-usuário) que deseja cessar o uso do aplicativo pode ir [deletar sua conta](#L17-deletar-conta).</li></ul> |
 
 ---
 
@@ -233,7 +232,7 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Agenciador</li><li>agente</li><li>despachante</li><li>inculcador</li><li>intermediário</li></ul> |
 | **Nocões** | <ul><li>Agente de negócios cuja função consiste em aproximar as partes intereressadas em determinada transação.</li></ul> |
-| **Impactos** | <ul><li>O corretor tem como função facilitar a interação entre [compra](#L10-compra)dores/[inquilino](#L26-inquilino)s e propietário de imóveis.</li></ul> |
+| **Impactos** | <ul><li>O corretor tem como função facilitar a interação entre compradores/inquilinos e propietário de [imóveis](#L34-meus-imóveis).</li></ul> |
 
 ---
 
@@ -245,7 +244,7 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>agente autenticado</li><li>Agente credenciado</li><li>agente integro</li><li>agente reconhecido</li></ul> |
 | **Nocões** | <ul><li>[Corretor](#L14-corretor) certificado por órgão competente, comprovando sua qualicação.</li></ul> |
-| **Impactos** | <ul><li>Garante processos seguros envolvendo imóveis.</li></ul> |
+| **Impactos** | <ul><li>Garante processos seguros envolvendo [imóveis](#L34-meus-imóveis).</li></ul> |
 
 ---
 
@@ -281,7 +280,7 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>custos</li><li>Preço</li><li>valor</li></ul> |
 | **Nocões** | <ul><li>Informações detalhadas sobre o valor de um [imóvel](#L24-imóvel) ou serviço, incluindo o preço, possíveis descontos, condições de pagamento, e quaisquer taxas adicionais ou encargos.</li></ul> |
-| **Impactos** | <ul><li>O [inquilino](#L26-inquilino)/[compra](#L10-compra)dor visualiza os detalhes do valor, como [aluguel](#L06-aluguel), [condomínio](#L12-condomínio), [IPTU](#L28-iptu), [seguro incêndio](#L42-seguro-incêndio), [taxa de serviço](#L44-taxa-de-serviço), entre outros.</li><li>O [inquilino](#L26-inquilino)/[compra](#L10-compra)dor compreende completamente o valor [total](#L45-total) do [imóvel](#L24-imóvel), incluindo todos os componentes financeiros.</li></ul> |
+| **Impactos** | <ul><li>O [inquilino](#L26-inquilino)/[comprador](#L11-comprador) visualiza os detalhes do valor, como [aluguel](#L06-aluguel), [condomínio](#L12-condomínio), [IPTU](#L28-iptu), [seguro incêndio](#L42-seguro-incêndio), [taxa de serviço](#L44-taxa-de-serviço), entre outros.</li><li>O [inquilino](#L26-inquilino)/[comprador](#L11-comprador) compreende completamente o valor [total](#L45-total) do [imóvel](#L24-imóvel), incluindo todos os componentes financeiros.</li></ul> |
 
 ---
 
@@ -292,8 +291,8 @@
 | **Nome** | Favoritos |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Prediletos</li><li>selecionados</li></ul> |
-| **Nocões** | <ul><li>Lista de imóveis selecionados/favoritados por um [usuário](#L50-usuário).</li></ul> |
-| **Impactos** | <ul><li>[Usuário](#L50-usuário) pode adicionar e remover imóveis dessa lista.</li><li>[Usuário](#L50-usuário) provavelmente tem interesse nesses imóveis.</li></ul> |
+| **Nocões** | <ul><li>Lista de [imóveis](#L34-meus-imóveis) selecionados/favoritados por um [usuário](#L50-usuário).</li></ul> |
+| **Impactos** | <ul><li>[Usuário](#L50-usuário) pode adicionar e remover [imóveis](#L34-meus-imóveis) dessa lista.</li><li>[Usuário](#L50-usuário) provavelmente tem interesse nesses [imóveis](#L34-meus-imóveis).</li></ul> |
 
 ---
 
@@ -316,7 +315,7 @@
 | **Nome** | Filtro |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Seletor</li></ul> |
-| **Nocões** | <ul><li>ferramentas que permitem à [usuário](#L50-usuário)s de uma ferramenta de busca a personalizar os resultados.</li></ul> |
+| **Nocões** | <ul><li>ferramentas que permitem à usuários de uma ferramenta de busca a personalizar os resultados.</li></ul> |
 | **Impactos** | <ul><li>Um [usuário](#L50-usuário) que está buscando um [imóvel](#L24-imóvel) a ser mais específico em suas preferências.</li></ul> |
 
 ---
@@ -328,8 +327,8 @@
 | **Nome** | Fotógrafo |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Profissional de fotografia</li></ul> |
-| **Nocões** | <ul><li>Profissional responsável por capturar as fotos dos imóveis para serem utilizados no aplicativo.</li></ul> |
-| **Impactos** | <ul><li>[Usuário](#L50-usuário) consegue visualizar as fotos dos imóveis que foram tiradas pelo fotógrafo.</li></ul> |
+| **Nocões** | <ul><li>Profissional responsável por capturar as fotos dos [imóveis](#L34-meus-imóveis) para serem utilizados no aplicativo.</li></ul> |
+| **Impactos** | <ul><li>[Usuário](#L50-usuário) consegue visualizar as fotos dos [imóveis](#L34-meus-imóveis) que foram tiradas pelo fotógrafo.</li></ul> |
 
 ---
 
@@ -361,11 +360,11 @@
 
 |   |   |
 |---|----|
-| **Nome** | Imóveis anunciados |
+| **Nome** | [Imóveis](#L34-meus-imóveis) anunciados |
 | **Classificação** | Objeto |
-| **Sinônimos** | <ul><li>Imóveis disponiveis para [compra](#L10-compra)/[aluguel](#L06-aluguel)</li></ul> |
-| **Nocões** | <ul><li>Lista dos imóveis cadastrados de um [proprietário](#L36-proprietário) que estão disponíveis para [compra](#L10-compra)/[aluguel](#L06-aluguel).</li></ul> |
-| **Impactos** | <ul><li>[Proprietário](#L36-proprietário) vê seus imóveis disponíveis para [compra](#L10-compra)/[aluguel](#L06-aluguel).</li><li>Um [usuário](#L50-usuário) poderia [compra](#L10-compra)r/alugar esses imóveis.</li></ul> |
+| **Sinônimos** | <ul><li>[Imóveis](#L34-meus-imóveis) disponiveis para [compra](#L10-compra)/[aluguel](#L06-aluguel)</li></ul> |
+| **Nocões** | <ul><li>Lista dos [imóveis](#L34-meus-imóveis) cadastrados de um [proprietário](#L36-proprietário) que estão disponíveis para [compra](#L10-compra)/[aluguel](#L06-aluguel).</li></ul> |
+| **Impactos** | <ul><li>[Proprietário](#L36-proprietário) vê seus [imóveis](#L34-meus-imóveis) disponíveis para [compra](#L10-compra)/[aluguel](#L06-aluguel).</li><li>Um [usuário](#L50-usuário) poderia comprar/alugar esses [imóveis](#L34-meus-imóveis).</li></ul> |
 
 ---
 
@@ -377,7 +376,7 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>habitante</li><li>locatário</li><li>morador</li><li>residente</li></ul> |
 | **Nocões** | <ul><li>Sujeito que reside num [imóvel](#L24-imóvel) que não lhe pertence.</li><li>aquele que vive num local que foi alugado.</li></ul> |
-| **Impactos** | <ul><li>Um inquilino pode negociar [acordo](#L01-acordo)s com o seu [proprietário](#L36-proprietário).</li><li>Um inquilino pode conversar com seu [proprietário](#L36-proprietário) por meio de mensagens na aplicação.</li></ul> |
+| **Impactos** | <ul><li>Um inquilino pode negociar acordos com o seu [proprietário](#L36-proprietário).</li><li>Um inquilino pode conversar com seu [proprietário](#L36-proprietário) por meio de mensagens na aplicação.</li></ul> |
 
 ---
 
@@ -388,8 +387,8 @@
 | **Nome** | Interessado |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Potencial cliente</li><li>[usuário](#L50-usuário) interessado</li></ul> |
-| **Nocões** | <ul><li>[Usuário](#L50-usuário) que demonstra interesse em um [imóvel](#L24-imóvel) ou serviço oferecido no aplicativo, podendo ser um [compra](#L10-compra)dor, [inquilino](#L26-inquilino) ou [proprietário](#L36-proprietário).</li></ul> |
-| **Impactos** | <ul><li>Facilita a identificação e o engajamento de possíveis [compra](#L10-compra)dores, permitindo que o processo de venda seja mais direcionado e eficiente.</li><li>Permite personalizar a experiência do [usuário](#L50-usuário) com base em suas preferências e interesses específicos.</li></ul> |
+| **Nocões** | <ul><li>[Usuário](#L50-usuário) que demonstra interesse em um [imóvel](#L24-imóvel) ou serviço oferecido no aplicativo, podendo ser um [comprador](#L11-comprador), [inquilino](#L26-inquilino) ou [proprietário](#L36-proprietário).</li></ul> |
+| **Impactos** | <ul><li>Facilita a identificação e o engajamento de possíveis compradores, permitindo que o processo de venda seja mais direcionado e eficiente.</li><li>Permite personalizar a experiência do [usuário](#L50-usuário) com base em suas preferências e interesses específicos.</li></ul> |
 
 ---
 
@@ -401,7 +400,7 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Imposto Predial e Territorial Urbano</li></ul> |
 | **Nocões** | <ul><li>Imposto que incide sobre todas as pessoas físicas ou jurídicas que possuam propriedades privadas urbanas.</li></ul> |
-| **Impactos** | <ul><li>O [proprietário](#L36-proprietário) de um [imóvel](#L24-imóvel) geralmente é responsável por pagar o IPTU.</li><li>Um  [usuário](#L50-usuário)  que esteja buscando imóveis podera ver o valor do IPTU na interface da aplicação.</li></ul> |
+| **Impactos** | <ul><li>O [proprietário](#L36-proprietário) de um [imóvel](#L24-imóvel) geralmente é responsável por pagar o IPTU.</li><li>Um  [usuário](#L50-usuário)  que esteja buscando [imóveis](#L34-meus-imóveis) podera ver o valor do IPTU na interface da aplicação.</li></ul> |
 
 ---
 
@@ -412,7 +411,7 @@
 | **Nome** | Mensagem |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Nota</li><li>recado</li></ul> |
-| **Nocões** | <ul><li>Texto enviado por chat entre dois [usuário](#L50-usuário)s para comunicação.</li></ul> |
+| **Nocões** | <ul><li>Texto enviado por chat entre dois usuários para comunicação.</li></ul> |
 | **Impactos** | <ul><li>[Usuário](#L50-usuário) manda mensagem para outro [usuário](#L50-usuário).</li></ul> |
 
 ---
@@ -425,7 +424,7 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Comunicação essencial</li></ul> |
 | **Nocões** | <ul><li>Importante no campo "Meu [Aluguel](#L06-aluguel)", onde irá fornecer histórico de pagamentos relacionados e pode ter declaração de imposto de renda.</li></ul> |
-| **Impactos** | <ul><li>Assegura que [usuário](#L50-usuário)s tenham acesso a informações críticas sobre seus pagamentos e impostos.</li><li>Facilita a organização financeira e a gestão de impostos ao fornecer um histórico claro e acessível.</li></ul> |
+| **Impactos** | <ul><li>Assegura que usuários tenham acesso a informações críticas sobre seus pagamentos e impostos.</li><li>Facilita a organização financeira e a gestão de impostos ao fornecer um histórico claro e acessível.</li></ul> |
 
 ---
 
@@ -437,7 +436,7 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Comunicação informativa</li></ul> |
 | **Nocões** | <ul><li>Fornece informações relevantes sobre o serviço ou processo.</li></ul> |
-| **Impactos** | <ul><li>Instruções sobre como atualizar informações do [imóvel](#L24-imóvel) .</li><li>Como editar anúncio de imóveis , como adicionar informações e pausar ou desativar anúncio.</li><li>Uteis para orientar o [usuário](#L50-usuário) sobre como resolver determinadas ações ou problemas especificos.</li></ul> |
+| **Impactos** | <ul><li>Instruções sobre como atualizar informações do [imóvel](#L24-imóvel) .</li><li>Como editar anúncio de [imóveis](#L34-meus-imóveis) , como adicionar informações e pausar ou desativar anúncio.</li><li>Uteis para orientar o [usuário](#L50-usuário) sobre como resolver determinadas ações ou problemas especificos.</li></ul> |
 
 ---
 
@@ -448,8 +447,8 @@
 | **Nome** | [Mensagem](#L29-mensagem) promocional |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Comunicação promocional</li></ul> |
-| **Nocões** | <ul><li>Enviadas aos [usuário](#L50-usuário)s para divulgar ofertas e descontos, podem ser enviadas por e-mail, SMS ou notificação do aplicativo.</li></ul> |
-| **Impactos** | <ul><li>Informa os [usuário](#L50-usuário)s sobre oportunidades de [aluguel](#L06-aluguel) ou venda de imóveis, além de fornecer beneficios exclusivos.</li></ul> |
+| **Nocões** | <ul><li>Enviadas aos usuários para divulgar ofertas e descontos, podem ser enviadas por e-mail, SMS ou notificação do aplicativo.</li></ul> |
+| **Impactos** | <ul><li>Informa os usuários sobre oportunidades de [aluguel](#L06-aluguel) ou venda de [imóveis](#L34-meus-imóveis), além de fornecer beneficios exclusivos.</li></ul> |
 
 ---
 
@@ -484,7 +483,7 @@
 | **Nome** | Passo a passo do [imóvel](#L24-imóvel) |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul></ul> |
-| **Nocões** | <ul><li>Parte do app que descreve de forma linear todos os processos pelos quais um [imóvel](#L24-imóvel) passa para ser alugado ou [compra](#L10-compra)do.</li></ul> |
+| **Nocões** | <ul><li>Parte do app que descreve de forma linear todos os processos pelos quais um [imóvel](#L24-imóvel) passa para ser alugado ou comprado.</li></ul> |
 | **Impactos** | <ul><li>[Usuário](#L50-usuário) vê fluxo de [imóvel](#L24-imóvel).</li></ul> |
 
 ---
@@ -496,8 +495,8 @@
 | **Nome** | Proprietário |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>arrendador</li><li>locador</li><li>senhorio</li></ul> |
-| **Nocões** | <ul><li>Pessoa que possui bens imóveis.</li></ul> |
-| **Impactos** | <ul><li>Um proprietário pode anunciar seu [imóvel](#L24-imóvel) para ficar disponível para busca para outros [usuário](#L50-usuário)s.</li><li>Um proprietário pode negociar [acordo](#L01-acordo)s com o seu [inquilino](#L26-inquilino).</li><li>Um proprietário pode conversar com seu [inquilino](#L26-inquilino) através de mensagens na aplicação.</li></ul> |
+| **Nocões** | <ul><li>Pessoa que possui bens [imóveis](#L34-meus-imóveis).</li></ul> |
+| **Impactos** | <ul><li>Um proprietário pode [anunciar seu imóvel](#L08-anunciar-imóvel) para ficar disponível para busca para outros usuários.</li><li>Um proprietário pode negociar acordos com o seu [inquilino](#L26-inquilino).</li><li>Um proprietário pode conversar com seu [inquilino](#L26-inquilino) através de mensagens na aplicação.</li></ul> |
 
 ---
 
@@ -529,11 +528,11 @@
 
 |   |   |
 |---|----|
-| **Nome** | [Proposta](#L38-proposta)s enviadas |
+| **Nome** | Propostas enviadas |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Ofertas enviadas</li></ul> |
-| **Nocões** | <ul><li>Lista de todas as [proposta](#L38-proposta)s, de [aluguel](#L06-aluguel) e de [compra](#L10-compra) que estão em andamento ou canceladas.</li></ul> |
-| **Impactos** | <ul><li>[Usuário](#L50-usuário) vê todas as [proposta](#L38-proposta)s que enviou.</li><li>[Usuário](#L50-usuário) vê se a [proposta](#L38-proposta) está em andamento ou se foi cancelada.</li></ul> |
+| **Nocões** | <ul><li>Lista de todas as propostas, de [aluguel](#L06-aluguel) e de [compra](#L10-compra) que estão em andamento ou canceladas.</li></ul> |
+| **Impactos** | <ul><li>[Usuário](#L50-usuário) vê todas as propostas que enviou.</li><li>[Usuário](#L50-usuário) vê se a [proposta](#L38-proposta) está em andamento ou se foi cancelada.</li></ul> |
 
 ---
 
@@ -544,8 +543,8 @@
 | **Nome** | Recomendados |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>Indicados</li><li>propostos</li><li>sugeridos</li></ul> |
-| **Nocões** | <ul><li>Lista de imóveis escolhidos e recomendados a um [usuário](#L50-usuário) baseado em suas buscas e preferências.</li></ul> |
-| **Impactos** | <ul><li>[Usuário](#L50-usuário) vê uma lista de imóveis selecionados para os seu interesses.</li></ul> |
+| **Nocões** | <ul><li>Lista de [imóveis](#L34-meus-imóveis) escolhidos e recomendados a um [usuário](#L50-usuário) baseado em suas buscas e preferências.</li></ul> |
+| **Impactos** | <ul><li>[Usuário](#L50-usuário) vê uma lista de [imóveis](#L34-meus-imóveis) selecionados para os seu interesses.</li></ul> |
 
 ---
 
@@ -579,7 +578,7 @@
 |---|----|
 | **Nome** | Solicitar |
 | **Classificação** | Verbo |
-| **Sinônimos** | <ul><li>enviar ao [proprietário](#L36-proprietário) uma nova [proposta](#L38-proposta)</li><li>[fazer [proposta](#L38-proposta)](#L20-fazer-[proposta](#L38-proposta))</li><li>Pedir nova [proposta](#L38-proposta)</li></ul> |
+| **Sinônimos** | <ul><li>enviar ao [proprietário](#L36-proprietário) uma nova [proposta](#L38-proposta)</li><li>[fazer proposta](#L20-fazer-proposta)</li><li>Pedir nova [proposta](#L38-proposta)</li></ul> |
 | **Nocões** | <ul><li>Evento no qual um [usuário](#L50-usuário) envia uma [proposta](#L38-proposta) por um [imóvel](#L24-imóvel), diferente da anterior, a um [proprietário](#L36-proprietário).</li></ul> |
 | **Impactos** | <ul><li>[Usuário](#L50-usuário) propõe um novo valor por um [imóvel](#L24-imóvel).</li><li>[Usuário](#L50-usuário) envia [proposta](#L38-proposta) a um [proprietário](#L36-proprietário).</li></ul> |
 
@@ -628,8 +627,8 @@
 | **Nome** | Ver todos os valores |
 | **Classificação** | Verbo |
 | **Sinônimos** | <ul><li>Exibir todos os valores</li><li>Mostrar valores completos</li></ul> |
-| **Nocões** | <ul><li>A ação de visualizar todos os valores associados a um ou mais imóveis.</li></ul> |
-| **Impactos** | <ul><li>[Usuário](#L50-usuário) pode ver o valor de um ou mais imóveis.</li></ul> |
+| **Nocões** | <ul><li>A ação de visualizar todos os valores associados a um ou mais [imóveis](#L34-meus-imóveis).</li></ul> |
+| **Impactos** | <ul><li>[Usuário](#L50-usuário) pode ver o valor de um ou mais [imóveis](#L34-meus-imóveis).</li></ul> |
 
 ---
 
@@ -649,11 +648,11 @@
 
 |   |   |
 |---|----|
-| **Nome** | [Visita](#L48-visita)s agendadas |
+| **Nome** | Visitas agendadas |
 | **Classificação** | Objeto |
-| **Sinônimos** | <ul><li>Agenda de [visita](#L48-visita)s</li><li>conjunto de [visita](#L48-visita)s marcadas</li></ul> |
-| **Nocões** | <ul><li>Lista de futuras [visita](#L48-visita)s que estão confirmadas entre um possível [inquilino](#L26-inquilino), um [corretor](#L14-corretor) e um [proprietário](#L36-proprietário) para um determinado [imóvel](#L24-imóvel).</li></ul> |
-| **Impactos** | <ul><li>Conjunto de [visita](#L48-visita)s nas quais um [proprietário](#L36-proprietário) recebe um [usuário](#L50-usuário) e um [corretor](#L14-corretor).</li></ul> |
+| **Sinônimos** | <ul><li>Agenda de visitas</li><li>conjunto de visitas marcadas</li></ul> |
+| **Nocões** | <ul><li>Lista de futuras visitas que estão confirmadas entre um possível [inquilino](#L26-inquilino), um [corretor](#L14-corretor) e um [proprietário](#L36-proprietário) para um determinado [imóvel](#L24-imóvel).</li></ul> |
+| **Impactos** | <ul><li>Conjunto de visitas nas quais um [proprietário](#L36-proprietário) recebe um [usuário](#L50-usuário) e um [corretor](#L14-corretor).</li></ul> |
 
 ---
 
@@ -664,12 +663,8 @@
 | **Nome** | Usuário |
 | **Classificação** | Objeto |
 | **Sinônimos** | <ul><li>cliente</li><li>utilizador</li></ul> |
-| **Nocões** | <ul><li>Pessoa que utiliza o serviço ou aplicação</li><li>Um usuário pode ser um [inquilino](#L26-inquilino), um potencial [compra](#L10-compra)dor, um [afiliado](#L02-afiliado) ou um [proprietário](#L36-proprietário).</li></ul> |
-| **Impactos** | <ul><li>Um usuário que é um [inquilino](#L26-inquilino) pode iniciar uma conversa com seu [proprietário](#L36-proprietário).</li><li>Um usuário que é um [inquilino](#L26-inquilino) pode negociar um [acordo](#L01-acordo) com seu [proprietário](#L36-proprietário).</li><li>Um usuário que é um [proprietário](#L36-proprietário) pode anunciar um [imóvel](#L24-imóvel).</li></ul> |
-
----
-
-<div style="text-align: center;">
+| **Nocões** | <ul><li>Pessoa que utiliza o serviço ou aplicação</li><li>Um usuário pode ser um [inquilino](#L26-inquilino), um potencial [comprador](#L11-comprador), um [afiliado](#L02-afiliado) ou um [proprietário](#L36-proprietário).</li></ul> |
+| **Impactos** | <ul><li>Um usuário que é um [inquilino](#L26-inquilino) pode iniciar uma conversa com seu [proprietário](#L36-proprietário).</li><li>Um usuário que é um [inquilino](#L26-inquilino) pode negociar um [acordo](#L01-acordo) com seu [proprietário](#L36-proprietário).</li><li>Um usuário que é um [proprietário](#L36-proprietário) pode [anunciar um imóvel](#L08-anunciar-imóvel).</li></ul> |<div style="text-align: center;">
 
 # Histórico de versão
 
@@ -684,3 +679,4 @@
 | 12/08/2024 | `1.2`  |           Finaliza lexico.           | [André Silva](https://github.com/Hunter104),  [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [João Carvalho](https://github.com/joaoseisei) |
 
 </div>
+
