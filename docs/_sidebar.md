@@ -201,3 +201,7 @@
        - [Histórico de Versão](Modulo-2/nfr-framework.md#histórico-de-versão)
     - [Apresentação](Modulo-2/apresentacao.md)
        - [Histórico de Versão](Modulo-2/apresentacao.md#histórico-de-versão)
+* Módulo 3
+    - [Inspeção](Modulo-3/inspecao.md)
+        - [Inspeção de casos de uso](Modulo-3/inspecao-casos-de-uso.md)
+  
