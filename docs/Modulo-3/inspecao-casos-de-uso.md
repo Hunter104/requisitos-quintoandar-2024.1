@@ -129,6 +129,16 @@
 </div>
 
 ---
+<center>
+
+# Vídeo da Reunião
+
+</center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c8DspIL_dfk?si=6j9YVg8RAvsAy5uO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+---
 
 <center>
 
@@ -138,9 +148,10 @@
 
 <div style="margin: 0 auto; width: fit-content;">
 
-|    Data    | Versão |       Descrição       | Autores                                          |
-| :--------: | :----: | :-------------------: | ------------------------------------------------ |
-| 29/08/2024 | `1.0`  | Criação do documento. | [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei) |
+|    Data    | Versão |         Descrição          | Autores                                                                                              |
+|:----------:|:------:|:--------------------------:|------------------------------------------------------------------------------------------------------|
+| 29/08/2024 | `1.0`  |   Criação do documento.    | [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei) |
+| 02/09/2024 | `1.1`  | Adiciona vídeo da reunião. | [João Antonio G.](https://github.com/joaoseisei)                                                     |
 
 </div>
 
