@@ -202,6 +202,8 @@
     - [Apresentação](Modulo-2/apresentacao.md)
        - [Histórico de Versão](Modulo-2/apresentacao.md#histórico-de-versão)
 * Módulo 3
+    - [GORE i*](Modulo-3/gore-i.md)
+        - [Histórico de Versão](Modulo-3/gore-i.md#histórico-de-versão)
     - Inspeção
         - [Léxicos](Modulo-3/inspecao-lexico.md)
             - [Introdução](Modulo-3/inspecao-lexico.md#introdução)
