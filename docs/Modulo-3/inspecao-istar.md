@@ -1,25 +1,25 @@
 <center>
 
-# Inspeção dos Casos de Uso
+# Inspeção dos i*
 
 </center>
 
 ## Metodologia
 
-> A verificação dos Casos de Uso foi feita pela técnica de inspeção. Foram elaboradas uma série de perguntas de "sim" ou "não" que refletem as características de um bom Caso de Uso. Tais respostas acarretam impactos positivos ou negativos.
+> A verificação dos artefatos i* foi feita pela técnica de inspeção. Foram elaboradas uma série de perguntas de "sim" ou "não" que refletem as características de um bom i*. Tais respostas acarretam impactos positivos ou negativos.
 >
-> Em seguida, foram analisados os 23 casos de uso (versão 2.2), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não". 
+> Em seguida, . 
 
 ---
 
 ## Perguntas
 
-1. O caso de uso é claro e objetivo?
-2. O caso de uso estabelece somente um fluxo principal?
-3. O caso de uso estabelece algum fluxo alternativo?
-4. O caso de uso estabelece algum fluxo de exceção?
-5. O caso de uso trata uma boa quantidade de exceções?
-6. O caso de uso referencia termos no léxico?
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
 
 ---
 
@@ -140,7 +140,7 @@
 
 |    Data    | Versão |       Descrição       | Autores                                          |
 | :--------: | :----: | :-------------------: | ------------------------------------------------ |
-| 29/08/2024 | `1.0`  | Criação do documento. | [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei) |
+| 02/09/2024 | `1.0`  | Criação do documento. | [Eduardo Sandes](https://github.com/DiceRunner714) |
 
 </div>
 
