@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <center>
 
@@ -7,9 +8,9 @@
 
 ## Metodologia
 
-A verificação dos [cenários](/Modulo-2/nfr-framework.md) foi feita pela técnica de inspeção. Foram elaboradas uma série de perguntas de "sim" ou "não" que refletem as características de um diagrama NFR. Tais respostam acarretam impactos positivos ou negativos.
+> A verificação dos [cenários](/Modulo-2/nfr-framework.md) foi feita pela técnica de inspeção. Foram elaboradas uma série de perguntas de "sim" ou "não" que refletem as características de um diagrama NFR. Tais respostam acarretam impactos positivos ou negativos.
 
-Em seguida, foram analisados os 5 diagramas, respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não".
+> Em seguida, foram analisados os 5 diagramas, respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não".
 
 ---
 
@@ -131,6 +132,6 @@ A tabela a seguir oferece uma visão geral da avaliação dos cenários, destaca
 
 |    Data    | Versão |                       Descrição                       | Autores                                    |
 | :--------: | :----: | :---------------------------------------------------: | ------------------------------------------ |
-| 02/09/2024 | `1.0`  |                 Criação do documento.                 | [André Silva](https://github.com/Hunter104) |
+| 02/09/2024 | `1.0`  |                 Criação do documento.                 | [André Silva](https://github.com/Hunter104), [João Antonio G.](https://github.com/joaoseisei) |
 
 </div>

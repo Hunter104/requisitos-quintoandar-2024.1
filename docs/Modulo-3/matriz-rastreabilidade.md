@@ -1,12 +1,10 @@
 <center>
 
-# Gore-i
+# Matriz de Rastreabilidade
 
 </center>
 
----
-
-> O que é?
+> O Q É??
 
 ---
 
@@ -20,6 +18,6 @@
 
 |    Data    | Versão |       Descrição       | Autores                                          |
 |:----------:|:------:|:---------------------:|--------------------------------------------------|
-| 07/08/2024 | `1.0`  | Criação do documento. | [João Antonio G.](https://github.com/joaoseisei) |
+| 02/09/2024 | `1.0`  | Criação do documento. | [João Antonio G.](https://github.com/joaoseisei) |
 
 </div>
