@@ -18,29 +18,22 @@
 
 ## Aluguel de Imóvel
 
-<p align="center">
-  <img src="../assets/istaraluguel.png" alt="SD - Aluguel"/>
-</p>
+![SD - Aluguel](../assets/istaraluguel.png)
 
 ## Gerência de Conta
 
-<p align="center">
-  <img src="../assets/istarcadastro.png" alt="SD - Aluguel"/>
-</p>
+![SD - Gerência de Conta](../assets/istarcadastro.png)
 
 ## Envio de Mensagens e Arquivos
 
-<p align="center">
-  <img src="../assets/istarchat.png" alt="SD - Aluguel"/>
-</p>
+![SD - Envio de Mensagens e Arquivos](../assets/istarchat.png)
 
 ## Suporte
 
-<p align="center">
-  <img src="../assets/istarsuporte.png" alt="SD - Aluguel"/>
-</p>
+![SD - Suporte](../assets/istarsuporte.png)
 
 ---
+
 
 <center>
 
@@ -49,39 +42,32 @@
 </center>
 
 ## Corretor - Aluguel
-<p align="center">
-  <img src="../assets/istarcorretor.png" alt="SD - Aluguel"/>
-</p>
+
+![SD - Corretor](../assets/istarcorretor.png)
 
 ## Fotógrafo - Aluguel
-<p align="center">
-  <img src="../assets/istarfotografo.png" alt="SD - Aluguel"/>
-</p>
+
+![SD - Fotógrafo](../assets/istarfotografo.png)
 
 ## Inquilino - Avaliar Imóvel
-<p align="center">
-  <img src="../assets/istarinquilino.png" alt="SD - Aluguel"/>
-</p>
+
+![SD - Inquilino](../assets/istarinquilino.png)
 
 ## Interessado - Aluguel
-<p align="center">
-  <img src="../assets/istarinteressado.png" alt="SD - Aluguel"/>
-</p>
+
+![SD - Interessado](../assets/istarinteressado.png)
 
 ## Proprietário - Aluguel
-<p align="center">
-  <img src="../assets/istarproprietario.png" alt="SD - Aluguel"/>
-</p>
+
+![SD - Proprietário](../assets/istarproprietario.png)
 
 ## Usuário - Gerência de Conta
-<p align="center">
-  <img src="../assets/istarusuario.png" alt="SD - Aluguel"/>
-</p>
+
+![SD - Usuário - Gerência de Conta](../assets/istarusuario.png)
 
 ## Usuário - Envio de Mensagens e Arquivos
-<p align="center">
-  <img src="../assets/istarusuario2.png" alt="SD - Aluguel"/>
-</p>
+
+![SD - Usuário - Envio de Mensagens e Arquivos](../assets/istarusuario2.png)
 
 ---
 
