@@ -22,11 +22,15 @@
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istaraluguel.png?raw=true" style="width:40vw"/>
 </p>
 
+> Esse Modelo representa as etapas, atividades, dependências e atores envolvidos no processo de alugar um imóvel. Tal processo é de suma importância para agregar valor ao sistema, visto que é uma de suas principais propostas.
+
 ## Gerência de Conta
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarcadastro.png?raw=true" style="width:40vw"/>
 </p>
+
+> Esse Modelo representa as atividades, dependências e atores envolvidos na gerência das contas, bem como nos processos de login/logout. O modelo foi feito visto que esse processo é importante e modela importantes softgoals, como segurança por exemplo.
 
 ## Envio de Mensagens e Arquivos
 
@@ -34,11 +38,15 @@
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarchat.png?raw=true" style="width:40vw"/>
 </p>
 
+> Esse modelo representa as atividades, dependências e atores envolvidos na troca de mensagens e arquivos através de chat no QuintoAndar. Esse modelo foi feito para ajudar a modelar softgoals como privacidade.
+
 ## Suporte
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarsuporte.png?raw=true" style="width:40vw"/>
 </p>
+
+> Esse modelo representa atividades, dependências e atores no que tange ao suporte oferecido pelo QuintoAndar. Tal suporte é de suma importância para modelagem de softgoals ligados à acessibilidade/usabilidade. 
 
 ---
 
