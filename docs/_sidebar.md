@@ -205,4 +205,5 @@
     - [Inspeção](Modulo-3/inspecao.md)
         - [Inspeção de casos de uso](Modulo-3/inspecao-casos-de-uso.md)
         - [Cenários](Modulo-3/inspecao-cenarios.md)
+        - [Léxico](Modulo-3/verificacao-lexico.md)
   
