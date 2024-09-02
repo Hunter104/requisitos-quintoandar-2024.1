@@ -60,9 +60,12 @@
 
 ## Erros encontrados
 
-> Erros gerais
+> Erro geral
 >
 > Todas as notações de objetivo (goal) estão representadas como crenças (beliefs).
+
+> Erro geral
+>
 > Não foram considerados riscos e/ou incertezas (SR's).
 
 
