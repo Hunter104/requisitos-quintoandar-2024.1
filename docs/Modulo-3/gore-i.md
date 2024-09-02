@@ -48,12 +48,40 @@
 
 </center>
 
-##
-##
-##
-##
-##
-##
+## Corretor - Aluguel
+<p align="center">
+  <img src="../assets/istarcorretor.png" alt="SD - Aluguel"/>
+</p>
+
+## Fotógrafo - Aluguel
+<p align="center">
+  <img src="../assets/istarfotografo.png" alt="SD - Aluguel"/>
+</p>
+
+## Inquilino - Avaliar Imóvel
+<p align="center">
+  <img src="../assets/istarinquilino.png" alt="SD - Aluguel"/>
+</p>
+
+## Interessado - Aluguel
+<p align="center">
+  <img src="../assets/istarinteressado.png" alt="SD - Aluguel"/>
+</p>
+
+## Proprietário - Aluguel
+<p align="center">
+  <img src="../assets/istarproprietario.png" alt="SD - Aluguel"/>
+</p>
+
+## Usuário - Gerência de Conta
+<p align="center">
+  <img src="../assets/istarusuario.png" alt="SD - Aluguel"/>
+</p>
+
+## Usuário - Envio de Mensagens e Arquivos
+<p align="center">
+  <img src="../assets/istarusuario2.png" alt="SD - Aluguel"/>
+</p>
 
 ---
 
