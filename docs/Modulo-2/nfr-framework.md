@@ -81,6 +81,16 @@ Descrição:
 ![suportabilidade](../assets/nfr-suportabilidade2.png)
 
 ---
+<center>
+
+# Vídeo da Reunião
+
+</center>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loFKWK5htSA?si=vDD9jTiSRIr-bPlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 <center>
 
@@ -97,5 +107,6 @@ Descrição:
 | 19/08/2024 | `1.1`  |          Primeira versão do NFR.           | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714)                                                   | ||
 | 20/08/2024 | `1.2`  |       Adiciona árvores de softgoals.       | [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei) |
 | 21/08/2024 | `1.3`  | Adiciona análise e propagação de impactos. | [Cássio Reis](https://github.com/csreis72), [Artur Bartz](https://github.com/H0lzz)                                                               |
+| 02/09/2024 | `1.4`  |         Adiciona vídeo da reunião.         | [João Antonio G.](https://github.com/joaoseisei)                                                                                                  |
 
 </div>
