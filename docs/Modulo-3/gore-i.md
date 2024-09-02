@@ -19,25 +19,25 @@
 ## Aluguel de Imóvel
 
 <p align="center">
-  <img src="../assets/istaraluguel.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istaraluguel.png?raw=true" style="width:40vw"/>
 </p>
 
 ## Gerência de Conta
 
 <p align="center">
-  <img src="../assets/istarcadastro.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarcadastro.png?raw=true" style="width:40vw"/>
 </p>
 
 ## Envio de Mensagens e Arquivos
 
 <p align="center">
-  <img src="../assets/istarchat.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarchat.png?raw=true" style="width:40vw"/>
 </p>
 
 ## Suporte
 
 <p align="center">
-  <img src="../assets/istarsuporte.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarsuporte.png?raw=true" style="width:40vw"/>
 </p>
 
 ---
@@ -50,37 +50,37 @@
 
 ## Corretor - Aluguel
 <p align="center">
-  <img src="../assets/istarcorretor.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarcorretor.png?raw=true" style="width:40vw"/>
 </p>
 
 ## Fotógrafo - Aluguel
 <p align="center">
-  <img src="../assets/istarfotografo.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarfotografo.png?raw=true" style="width:40vw"/>
 </p>
 
 ## Inquilino - Avaliar Imóvel
 <p align="center">
-  <img src="../assets/istarinquilino.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarinquilino.png?raw=true" style="width:40vw"/>
 </p>
 
 ## Interessado - Aluguel
 <p align="center">
-  <img src="../assets/istarinteressado.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarinteressado.png?raw=true" style="width:40vw"/>
 </p>
 
 ## Proprietário - Aluguel
 <p align="center">
-  <img src="../assets/istarproprietario.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarproprietario.png?raw=true" style="width:40vw"/>
 </p>
 
 ## Usuário - Gerência de Conta
 <p align="center">
-  <img src="../assets/istarusuario.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarusuario.png?raw=true" style="width:40vw"/>
 </p>
 
 ## Usuário - Envio de Mensagens e Arquivos
 <p align="center">
-  <img src="../assets/istarusuario2.png" alt="SD - Aluguel"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarusuario2.png?raw=true" style="width:40vw"/>
 </p>
 
 ---
@@ -93,12 +93,11 @@
 
 <div style="margin: 0 auto; width: fit-content;">
 
-|    Data    | Versão |          Descrição           | Autores                                                                                              |
-| :--------: | :----: | :--------------------------: | ---------------------------------------------------------------------------------------------------- |
-| 07/08/2024 | `1.0`  |    Criação do documento.     | [João Antonio G.](https://github.com/joaoseisei)                                                     |
-| 27/08/2024 | `1.1`  |   Desenvolvimendo dos SD's   | [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei) |
-| 27/08/2024 | `1.2`  |   Desenvolvimendo dos SR's   | [André Silva](https://github.com/Hunter104), [Cássio Reis](https://github.com/csreis72), [Artur Bartz](https://github.com/H0lzz), [Letícia Hladczuk](https://github.com/HladczukLe)                                                          |
-| 02/09/2024 | `1.3`  | Adição dos modelos e revisão | [Eduardo Sandes](https://github.com/DiceRunner714)                                                   |
-|            |        |                              |                                                                                                      |
+|    Data    | Versão |          Descrição           | Autores                                                                                                                                                                             |
+|:----------:|:------:|:----------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 07/08/2024 | `1.0`  |    Criação do documento.     | [João Antonio G.](https://github.com/joaoseisei)                                                                                                                                    |
+| 27/08/2024 | `1.1`  |   Desenvolvimendo dos SD's   | [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei)                                    |
+| 27/08/2024 | `1.2`  |   Desenvolvimendo dos SR's   | [André Silva](https://github.com/Hunter104), [Cássio Reis](https://github.com/csreis72), [Artur Bartz](https://github.com/H0lzz), [Letícia Hladczuk](https://github.com/HladczukLe) |
+| 02/09/2024 | `1.3`  | Adição dos modelos e revisão | [Eduardo Sandes](https://github.com/DiceRunner714)                                                                                                                                  |
 
 </div>
