@@ -1,4 +1,3 @@
--- PROCESSED FILE: cenario.md ---
 <center>
 
 # Cenários
