@@ -62,35 +62,49 @@
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarcorretor.png?raw=true" style="width:40vw"/>
 </p>
 
+> Esse Modelo representa o rationale interno de um corretor no contexto de um aluguel ou venda de um imóvel
+
 ## Fotógrafo - Aluguel
 <p align="center">
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarfotografo.png?raw=true" style="width:40vw"/>
 </p>
+
+> Esse Modelo representa o rationale interno de um fotógrafo no contexto de um aluguel ou venda de um imóvel
 
 ## Inquilino - Avaliar Imóvel
 <p align="center">
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarinquilino.png?raw=true" style="width:40vw"/>
 </p>
 
+> Esse Modelo representa o rationale interno de um inquilino ao avaliar um imóvel
+
 ## Interessado - Aluguel
 <p align="center">
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarinteressado.png?raw=true" style="width:40vw"/>
 </p>
+
+> Esse Modelo representa o rationale interno de um interessado em comprar ou alugar um imóvel 
 
 ## Proprietário - Aluguel
 <p align="center">
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarproprietario.png?raw=true" style="width:40vw"/>
 </p>
 
+> Esse Modelo representa o rationale interno de um proprietário vender ou alugar seu imóvel
+
 ## Usuário - Gerência de Conta
 <p align="center">
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarusuario.png?raw=true" style="width:40vw"/>
 </p>
 
+> Esse Modelo representa o rationale interno de um usuário ao gerenciar os dados de seu cadastro
+
 ## Usuário - Envio de Mensagens e Arquivos
 <p align="center">
 <img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/istarusuario2.png?raw=true" style="width:40vw"/>
 </p>
+
+> Esse Modelo representa o rationale interno de um usuário engajado em uma troca de mensagens com outro usuário
 
 ---
 
