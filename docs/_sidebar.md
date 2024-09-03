@@ -77,7 +77,7 @@
     - [Léxicos](Modulo-2/lexico.md)
         - [Sumário](Modulo-2/lexico.md)
         - [Histórico de Versão](Modulo-2/lexico.md#histórico-de-versão)
-    - [Cenários](Modulo-2/cenario.md)
+    - [Cenários](Modulo-2/v2-cenario.md)
         - [C01 - Acessar Lista de Imóveis](Modulo-2/cenario.md#C01-acessar-lista-de-imóveis)
         - [C02 - Filtrar Imóveis por Preço](Modulo-2/cenario.md#C02-filtrar-imóveis-por-preço)
         - [C03 - Agendar Visita a Imóvel](Modulo-2/cenario.md#C03-agendar-visita-a-imóvel)
@@ -153,7 +153,7 @@
         - [Versões Anteriores](Modulo-2/es.md#versões-anteriores)
         - [Histórico de Versão](Modulo-2/es.md#histórico-de-versão)
     - Ágil
-        - [Backlog](Modulo-2/agil-backlog.md)
+        - [Backlog](Modulo-2/v2-agil-backlog.md)
             - [Product Backlog](Modulo-2/agil-backlog.md#product-backlog)
             - [Sprint Backlog](Modulo-2/agil-backlog.md#sprint-backlog)
             - [Histórico de Versão](Modulo-2/agil-backlog.md#histórico-de-versão)
