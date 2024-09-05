@@ -19,11 +19,11 @@
 3. Os requisitos de desempenho especificam adequadamente as métricas e condições de operação?
 4. As restrições de segurança foram abordadas de forma abrangente e em conformidade com as normas aplicáveis?
 5. Os requisitos de usabilidade consideram as necessidades dos diferentes perfis de usuários?
-6. A confiabilidade do sistema é claramente quantificada em termos de disponibilidade, tolerância a falhas, etc.?
+6. A confiabilidade do sistema é claramente quantificada em termos de disponibilidade e/ou tolerância a falhas?
 7. As interfaces externas e dependências do sistema foram especificadas com clareza e precisão?
 8. **Não** existem ambiguidades ou contradições entre os requisitos não funcionais e funcionais?
 9. A metodologia foi especificada?
-10. Os requisitos suplementares estão em conformidade com os padrões e normas relevantes (ex. ISO, IEEE)?
+10. Os requisitos suplementares estão em conformidade com os padrões e normas relevantes?
 
 
 ---
@@ -35,7 +35,10 @@
 
 | Pergunta                                       | 01  | 02  | 03  | 04  | 05  | 06  | 07  | 08  | 09  | 10  |
 | ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Especificação Suplementar](../Modulo-2/es.md) | X   | X   |     |     |     |     |     |     |     |     |
+| [Especificação Suplementar](../Modulo-2/es.md) | X   | X   | X   | X   | X   | X   | X   | X   | X   | X   |
+
+## Diagnóstico
+A Especificação complementar foi feita com extrema qualidade além de ser clara e coesa seguindo todos os padrões recomendados.
 
 </div>
 
