@@ -38,10 +38,10 @@
 
 | SD's                                                                       | 01  | 02  | 03  | 04  | 05  | 06  | 07  | 08  | 09  | 10  | 11  | 12  | 13  | 14  |
 | -------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Aluguel](./gore-i.md#aluguel-de-imóvel)                                   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| [Gerência de Conta](./gore-i.md#gerência-de-conta)                         |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| [Envio de Mensagens e Arquivos](./gore-i.md#envio-de-mensagens-e-arquivos) |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| [Suporte](./gore-i.md#suporte)                                             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| [Aluguel](./gore-i.md#aluguel-de-imóvel)                                   |     | X   | X   | N   | X   | X   | X   | X   | X   | N   | X   | X   |     | X   |
+| [Gerência de Conta](./gore-i.md#gerência-de-conta)                         |     | X   | X   | N   | X   | X   | X   |     |     | N   | X   | X   |     |     |
+| [Envio de Mensagens e Arquivos](./gore-i.md#envio-de-mensagens-e-arquivos) |     | X   | X   | N   | X   | X   | X   |     |     | N   | X   | X   |     | X   |
+| [Suporte](./gore-i.md#suporte)                                             |     | X   | X   | N   | X   | X   | X   | X   | X   | N   | X   | X   |     |     |
 
 | SR's                                                                   | 01  | 02  | 03  | 04  | 05  | 06  | 07  | 08  | 09  | 10  | 11  | 12  | 13  | 14  |
 | ---------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -83,6 +83,6 @@
 | :--------: | :----: | :-------------------: | -------------------------------------------------- |
 | 02/09/2024 | `1.0`  | Criação do documento. | [Eduardo Sandes](https://github.com/DiceRunner714) |
 | 02/09/2024 | `1.1`  |   Inspeção dos SR's   | [Eduardo Sandes](https://github.com/DiceRunner714) |
-|            |        |                       |                                                    |
+| 05/09/2024 | `1.2`  |   Inspeção dos SD's   | [Eduardo Sandes](https://github.com/DiceRunner714) |
 
 </div>
