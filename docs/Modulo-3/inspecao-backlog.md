@@ -10,7 +10,7 @@
 > ou "não" que refletem as características de um bom Backlog. Tais respostas acarretam impactos positivos ou
 > negativos.
 >
-> Em seguida, foram analisados os 28 products backlog (versão 1.1), respondendo para cada um as perguntas, preenchendo uma
+> Em seguida, foram analisados os 28 products backlog ([versão 1.1](../Modulo-2/agil-backlog.md)), respondendo para cada um as perguntas, preenchendo uma
 > tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não". 
 > 
 > Vale resaltar que as perguntas de **Product Backlog** e **Sprint Backlog** estão juntas na aba de perguntas.
