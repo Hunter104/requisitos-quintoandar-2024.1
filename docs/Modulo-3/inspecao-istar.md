@@ -8,7 +8,7 @@
 
 > A verificação dos artefatos i* foi feita pela técnica de inspeção. Foram elaboradas uma série de perguntas de "sim" ou "não" que refletem as características de um bom i*. Tais respostas acarretam impactos positivos ou negativos.
 >
-> Em seguida, foram analisados todos os SD's e SR's gerados (versão 1.3), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com "N" caso a resposta seja "não convém", com "X" caso a resposta seja "sim" e " " caso seja "não".
+> Em seguida, foram analisados todos os SD's e SR's gerados ([versão 1.3](./gore-i.md)), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com "N" caso a resposta seja "não convém", com "X" caso a resposta seja "sim" e " " caso seja "não".
 
 ---
 

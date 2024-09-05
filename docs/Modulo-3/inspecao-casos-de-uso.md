@@ -8,7 +8,7 @@
 
 > A verificação dos Casos de Uso foram feitas pela técnica de inspeção. Foram elaboradas uma série de perguntas de "sim" ou "não" que refletem as características de um bom Caso de Uso. Tais respostas acarretam impactos positivos ou negativos.
 >
-> Em seguida, foram analisados os 23 casos de uso (versão 2.2), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não". 
+> Em seguida, foram analisados os 23 casos de uso ([versão 2.2](../Modulo-2/casos-uso.md)), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não". 
 
 ---
 

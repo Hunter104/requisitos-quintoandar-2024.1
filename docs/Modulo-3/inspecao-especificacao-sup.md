@@ -8,7 +8,7 @@
 
 > A verificação da Especificação Suplementar foi feita por inspeção. Foram elaboradas uma série de perguntas de "sim" ou "não" que refletem as características desejáveis na Especificação Suplementar. Tais respostas acarretam impactos positivos ou negativos.
 >
-> Em seguida, a Especificação Suplementar (versão 1.3), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não". 
+> Em seguida, a Especificação Suplementar ([versão 1.3](../Modulo-2/es.md)), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não". 
 
 ---
 
