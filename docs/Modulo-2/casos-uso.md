@@ -213,8 +213,6 @@
 | **Fluxo de Exceção**  | <ul><li>**FE16** - Não ter notificações. </li><li>**FE17** - Problemas de conexão.</li></ul>                                                                                                     |
 | **Rastreabilidade**   | AP12                                                                                                                                                                                             |
 
-<!-- separar esse UC em duas-->
-
 ---
 
 
