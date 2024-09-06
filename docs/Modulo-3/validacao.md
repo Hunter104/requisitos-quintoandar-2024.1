@@ -23,10 +23,10 @@
 </center>
 
 ### RF001 - Buscar Imóvel
-<img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF001.png"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/RF001.png"/>
 
 ### RF002 - Filtrar Imóvel
-<img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF002.png"/>
+<img src="https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/RF002.png"/>
 
 
 ### RF003 - Exibir fotos, vídeos e descrição do imóvel.
