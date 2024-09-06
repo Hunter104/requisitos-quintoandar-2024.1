@@ -46,7 +46,7 @@
 <img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF006-1.png"/>
 
 ### RF007 - Usuários devem poder agendar visitas a imóveis. 
-<img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF007.png"/>
+<img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF007.jpg"/>
 
 ### RF008 - Fazer proposta.
 <img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF008.png"/>
@@ -61,7 +61,7 @@
 <img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF011.png"/>
 
 ### RF013 - Compartilhar, através de um link, os detalhes do imóvel em outras plataformas.
-<img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF012.png"/>
+<img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF013.png"/>
 
 ### RF015 - Permitir que o proprietário cadastre, anuncie e visualize seus imóveis.
 <img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF015.png"/>
@@ -87,9 +87,6 @@
 
 ### RF022 - Permitir o gerenciamento de quais notificações receber.
 <img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF022.png"/>
-
-### RF023 - Permitir que o usuário altere sua conta adicionando um e-mail alternativo.
-<img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF021.png"/>
 
 ### RF024 - Permitir que o usuário altere o nome associado à sua conta.
 <img src="https://github.com/Hunter104/requisitos-quintoandar-2024.1/raw/main/docs/assets/RF024.png"/>
