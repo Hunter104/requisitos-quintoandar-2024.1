@@ -666,9 +666,14 @@
 | **Nocões** | <ul><li>Pessoa que utiliza o serviço ou aplicação</li><li>Um usuário pode ser um [inquilino](#L26-inquilino), um potencial [comprador](#L11-comprador), um [afiliado](#L02-afiliado) ou um [proprietário](#L36-proprietário).</li></ul> |
 | **Impactos** | <ul><li>Um usuário que é um [inquilino](#L26-inquilino) pode iniciar uma conversa com seu [proprietário](#L36-proprietário).</li><li>Um usuário que é um [inquilino](#L26-inquilino) pode negociar um [acordo](#L01-acordo) com seu [proprietário](#L36-proprietário).</li><li>Um usuário que é um [proprietário](#L36-proprietário) pode [anunciar um imóvel](#L08-anunciar-imóvel).</li></ul> |<div style="text-align: center;">
 
+---
+
+<center>
+
 # Histórico de versão
 
-</div>
+</center>
+
 
 <div style="margin: 0 auto; width: fit-content;">
 
