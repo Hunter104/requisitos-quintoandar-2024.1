@@ -4,9 +4,20 @@
 
 </center>
 
-> O Q É??
+> A Matriz Backward From tem por objetivo rastrear as origens de cada requisito, mantendo uma boa pós-rastreabilidade.
 
 ---
+
+<center>
+
+# Requisitos Funcionais
+
+| ID  | Requisito | Rich Picture | BrainStorm | Argumentação | É n é Faz n faz | SWOT | Sobre QA | Personas | Jornadas de Usuário | Análise de Protocolo | Observação | FURPS+ | Cenários | Casos de Uso | ES  | Ágil Backlog | Ágil US's | NFR | i*  |
+| --- | --------- | ------------ | ---------- | ------------ | --------------- | ---- | -------- | -------- | ------------------- | -------------------- | ---------- | ------ | -------- | ------------ | --- | ------------ | --------- | --- | --- |
+|     |           |              |            |              |                 |      |          |          |                     |                      |            |        |          |              |     |              |           |     |     |
+# Requisitos Não Funcionais
+
+</center>
 
 <center>
 
@@ -16,8 +27,9 @@
 
 <div style="margin: 0 auto; width: fit-content;">
 
-|    Data    | Versão |       Descrição       | Autores                                          |
-|:----------:|:------:|:---------------------:|--------------------------------------------------|
-| 02/09/2024 | `1.0`  | Criação do documento. | [João Antonio G.](https://github.com/joaoseisei) |
+|    Data    | Versão |       Descrição       | Autores                                            |
+| :--------: | :----: | :-------------------: | -------------------------------------------------- |
+| 02/09/2024 | `1.0`  | Criação do documento. | [João Antonio G.](https://github.com/joaoseisei)   |
+| 06/09/2024 | `1.1`  |   Adição da Tabela.   | [Eduardo Sandes](https://github.com/DiceRunner714) |
 
 </div>
