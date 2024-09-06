@@ -23,7 +23,7 @@
 </center>
 
 ### RF001 - Buscar Imóvel
-![test](/docs/assets/RF001.png)
+<img src = "https://raw.githubusercontent.com/Hunter104/requisitos-quintoandar-2024.1/main/docs/assets/RF001.png?raw=true"/>  
 
 ### RF002 - Filtrar Imóvel
 ![test](/docs/assets/RF002.png)
