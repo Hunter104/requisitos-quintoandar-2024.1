@@ -4,33 +4,27 @@
 
 </center>
 
-<center>
 
 ---
 
 ## Introdução
 
-</center>
 
-Esse módulo envolve a revisão sistemática dos léxicos, que são conjuntos de termos e suas definições, para assegurar que todos os conceitos relevantes estejam devidamente definidos e que suas relações sejam compreensíveis e coerentes com o domínio de aplicação. A verificação de léxicos contribui para a eliminação de ambiguidades, aprimora a comunicação entre os envolvidos no projeto e assegura que o vocabulário adotado esteja alinhado com os objetivos e necessidades do sistema em desenvolvimento.
+> Esse módulo envolve a revisão sistemática dos léxicos ([versão 1.3](/Modulo-2/lexico)), que são conjuntos de termos e suas definições, para assegurar que todos os conceitos relevantes estejam devidamente definidos e que suas relações sejam compreensíveis e coerentes com o domínio de aplicação. A verificação de léxicos contribui para a eliminação de ambiguidades, aprimora a comunicação entre os envolvidos no projeto e assegura que o vocabulário adotado esteja alinhado com os objetivos e necessidades do sistema em desenvolvimento.
 
-<center>
 
 ---
 
 ## Objetivo
 
-</center>
 
-O objetivo deste documento é documentar os resultados das verificações realizadas acerca do artefato de Léxicos do projeto.
+> O objetivo deste documento é documentar os resultados das verificações realizadas acerca do artefato de Léxicos do projeto.
 
-<center>
 
 ---
 
 ## Verificações Gerais
 
-</center>
 
 A tabela a seguir apresenta um checklist com os dados obtidos a partir da verificação.
 
@@ -44,13 +38,13 @@ A tabela a seguir apresenta um checklist com os dados obtidos a partir da verifi
 
 ---
 
-<center>
 
 ## Verificações Específicas
 
-</center>
 
 A tabela a seguir apresenta um checklist com os dados obtidos a partir da verificação.
+
+<div style="margin: 0 auto; width: fit-content;">
 
 | ID | Descrição                                                                                                | Avaliação | Observações |
 |----|----------------------------------------------------------------------------------------------------------|-----------|-------------|
@@ -65,6 +59,14 @@ A tabela a seguir apresenta um checklist com os dados obtidos a partir da verifi
 | 13 | O vocabulário mínimo foi adotado nas descrições de forma apropriada?                                     | Sim       |             |
 | 14 | Os léxicos respeitam sua ordem numérica?                                                                 | Sim       |             |
 
+</div>
+
+<center>
+
+Fonte: [Artur Bartz](https://github.com/H0lzz), 2024
+
+</center>
+
 ---
 
 <center>
@@ -73,7 +75,7 @@ A tabela a seguir apresenta um checklist com os dados obtidos a partir da verifi
 
 </center>
 
-Portanto, fica evidente que, no geral, o projeto está coeso com a elaboração e documentação do artefato analisado, deixando a desejar apenas em relatar as referências bibliográficas utilizadas na elaboração do mesmo.
+> Portanto, fica evidente que, no geral, o projeto está coeso com a elaboração e documentação do artefato analisado, deixando a desejar apenas em relatar as referências bibliográficas utilizadas na elaboração do mesmo.
 
 <center>
 

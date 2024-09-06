@@ -8,7 +8,7 @@
 
 > A verificação da Especificação Suplementar foi feita por inspeção. Foram elaboradas uma série de perguntas de "sim" ou "não" que refletem as características desejáveis na Especificação Suplementar. Tais respostas acarretam impactos positivos ou negativos.
 >
-> Em seguida, a Especificação Suplementar ([versão 1.3](../Modulo-2/es.md)), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não". 
+> Em seguida, a Especificação Suplementar ([versão 1.3](/Modulo-2/es.md)), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não". 
 
 ---
 
@@ -25,22 +25,34 @@
 9. A metodologia foi especificada?
 10. Os requisitos suplementares estão em conformidade com os padrões e normas relevantes?
 
-
 ---
+<center>
 
 ## Tabela de avaliação
 
+</center>
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Pergunta                                       | 01  | 02  | 03  | 04  | 05  | 06  | 07  | 08  | 09  | 10  |
-| ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Especificação Suplementar](../Modulo-2/es.md) | X   | X   | X   | X   | X   | X   | X   | X   | X   | X   |
+| Pergunta                                     | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 |
+|----------------------------------------------|----|----|----|----|----|----|----|----|----|----|
+| [Especificação Suplementar](/Modulo-2/es.md) | X  | X  | X  | X  | X  | X  | X  | X  | X  | X  |
 
-## Diagnóstico
-A Especificação complementar foi feita com extrema qualidade além de ser clara e coesa seguindo todos os padrões recomendados.
+<center>
+
+Fonte: [Eduardo Sandes](https://github.com/DiceRunner714), 2024
+
+</center>
 
 </div>
+
+---
+
+## Diagnóstico
+
+> A Especificação complementar foi feita com extrema qualidade além de ser clara e coesa seguindo todos os padrões recomendados.
+
+---
 
 <center>
 
@@ -50,9 +62,9 @@ A Especificação complementar foi feita com extrema qualidade além de ser clar
 
 <div style="margin: 0 auto; width: fit-content;">
 
-|    Data    | Versão |       Descrição       | Autores                                             |
-| :--------: | :----: | :-------------------: | --------------------------------------------------- |
-| 02/09/2024 | `1.0`  | Criação do documento. | [João Antonio G.](https://github.com/joaoseisei)    |
+|    Data    | Versão |       Descrição       | Autores                                            |
+|:----------:|:------:|:---------------------:|----------------------------------------------------|
+| 02/09/2024 | `1.0`  | Criação do documento. | [João Antonio G.](https://github.com/joaoseisei)   |
 | 03/09/2024 | `1.1`  |    Inspeção da ES.    | [Eduardo Sandes](https://github.com/DiceRunner714) |
 
 

@@ -119,7 +119,7 @@ Fonte: [João Antonio](https://github.com/joaoseisei), 2024
 
 <center>
 
-Fonte: [João Antonio](https://github.com/joaoseisei), 2024
+Fonte: [João Antonio G.](https://github.com/joaoseisei), 2024
 
 </center>
 

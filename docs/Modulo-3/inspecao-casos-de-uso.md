@@ -8,7 +8,7 @@
 
 > A verificação dos Casos de Uso foram feitas pela técnica de inspeção. Foram elaboradas uma série de perguntas de "sim" ou "não" que refletem as características de um bom Caso de Uso. Tais respostas acarretam impactos positivos ou negativos.
 >
-> Em seguida, foram analisados os 23 casos de uso ([versão 2.2](../Modulo-2/casos-uso.md)), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não". 
+> Em seguida, foram analisados os 23 casos de uso ([versão 2.2](/Modulo-2/casos-uso.md)), respondendo para cada um as perguntas, preenchendo uma tabela de avaliação com um "X" caso a resposta seja "sim" e " " caso seja "não". 
 
 ---
 
@@ -22,37 +22,45 @@
 6. O caso de uso referencia termos no léxico?
 
 ---
+<center>
 
 ## Tabela de avaliação
 
+</center>
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Casos de Uso                                      | 01  | 02  | 03  | 04  | 05  | 06  |
-| ------------------------------------------------- | --- | --- | --- | --- | --- | --- |
-| UC01 - Ver mapa interativo                        | X   | X   | X   | X   |     |     |
-| UC02 - Exibir imóveis similares                   | X   | X   |     | X   |     |     |
-| UC03 - Ver detalhes do imóvel                     | X   | X   |     | X   |     |     |
-| UC04 - Usar filtro                                | X   | X   |     | X   |     |     |
-| UC05 - Criar alertas                              | X   | X   |     | X   |     |     |
-| UC06 - Buscar imóvel                              | X   | X   | X   | X   |     |     |
-| UC07 - Cadastrar imóvel                           | X   | X   |     | X   |     |     |
-| UC08 - Criar lista de favorito                    | X   | X   |     | X   |     |     |
-| UC09 - Fazer proposta                             | X   | X   | X   | X   |     |     |
-| UC10 - Agendar horário para tirar foto do imóvel  | X   | X   |     | X   |     |     |
-| UC11 - Ver notificação da conversa                | X   | X   |     | X   |     |     |
-| UC12 - Conversar com o corretor e/ou proprietário |     | X   |     | X   |     |     |
-| UC13 - Compartilhar link de imóveis               | X   | X   |     |     |     |     |
-| UC14 - Ver agendamentos                           | X   | X   |     | X   |     |     |
-| UC15 - Alugar imóvel                              | X   | X   | X   | X   |     |     |
-| UC16 - Comprar imóvel                             |     | X   |     | X   |     |     |
-| UC17 - Indicar imóvel                             | X   | X   | X   | X   |     |     |
-| UC18 - Fazer cadastro                             | X   | X   | X   | X   |     |     |
-| UC19 - Alterar conta                              | X   | X   |     | X   |     |     |
-| UC20 - Fazer login                                | X   | X   | X   | X   |     |     |
-| UC21 - Adicionar email alternativo                | X   | X   |     | X   |     |     |
-| UC22 - Gerenciar notificações                     | X   | X   |     | X   |     |     |
-| UC23 - Sair da conta                              | X   | X   |     | X   |     |     |
+| Casos de Uso                                      | 01 | 02 | 03 | 04 | 05 | 06 |
+|---------------------------------------------------|----|----|----|----|----|----|
+| UC01 - Ver mapa interativo                        | X  | X  | X  | X  |    |    |
+| UC02 - Exibir imóveis similares                   | X  | X  |    | X  |    |    |
+| UC03 - Ver detalhes do imóvel                     | X  | X  |    | X  |    |    |
+| UC04 - Usar filtro                                | X  | X  |    | X  |    |    |
+| UC05 - Criar alertas                              | X  | X  |    | X  |    |    |
+| UC06 - Buscar imóvel                              | X  | X  | X  | X  |    |    |
+| UC07 - Cadastrar imóvel                           | X  | X  |    | X  |    |    |
+| UC08 - Criar lista de favorito                    | X  | X  |    | X  |    |    |
+| UC09 - Fazer proposta                             | X  | X  | X  | X  |    |    |
+| UC10 - Agendar horário para tirar foto do imóvel  | X  | X  |    | X  |    |    |
+| UC11 - Ver notificação da conversa                | X  | X  |    | X  |    |    |
+| UC12 - Conversar com o corretor e/ou proprietário |    | X  |    | X  |    |    |
+| UC13 - Compartilhar link de imóveis               | X  | X  |    |    |    |    |
+| UC14 - Ver agendamentos                           | X  | X  |    | X  |    |    |
+| UC15 - Alugar imóvel                              | X  | X  | X  | X  |    |    |
+| UC16 - Comprar imóvel                             |    | X  |    | X  |    |    |
+| UC17 - Indicar imóvel                             | X  | X  | X  | X  |    |    |
+| UC18 - Fazer cadastro                             | X  | X  | X  | X  |    |    |
+| UC19 - Alterar conta                              | X  | X  |    | X  |    |    |
+| UC20 - Fazer login                                | X  | X  | X  | X  |    |    |
+| UC21 - Adicionar email alternativo                | X  | X  |    | X  |    |    |
+| UC22 - Gerenciar notificações                     | X  | X  |    | X  |    |    |
+| UC23 - Sair da conta                              | X  | X  |    | X  |    |    |
+
+<center>
+
+Fonte: [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei), 2024
+
+</center>
 
 </div>
 
@@ -86,13 +94,16 @@
 > FE08 não existe.
 
 ---
+<center>
 
 ## Tabela com inconsistências:
+
+</center>
 
 <div style="margin: 0 auto; width: fit-content;">
 
 | Fluxos de Exceções                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------- |
+|-------------------------------------------------------------------------------------------------------------------------|
 | FE00 - Se o usuário for rejeitado na avaliação de crédito no passo nº 6 ele não poderá prosseguir com o aluguel         |
 | FE01 - Problemas de conexão impedem o usuário de ver o mapa                                                             |
 | FE02 - Ocorre quando não há imóveis semelhantes disponíveis. O sistema informa o inquilino.                             |
@@ -125,6 +136,12 @@
 | FE27 - Erro de conexão previne o usuário de adicionar o e-mail alternativo                                              |
 | FE28 - Erro de conexão previne o usuário modificar suas preferências de notificações                                    |
 | FE29 - Erro de conexão previne o usuário de adicionar o e-mail alternativo                                              |
+
+<center>
+
+Fonte: [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei), 2024
+
+</center>
 
 </div>
 
