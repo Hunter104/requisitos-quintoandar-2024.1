@@ -8,6 +8,26 @@
 
 ---
 
+## Metodologia
+
+> Nesse documento foi utilizado o meta-modelo de Toranzo, onde é necessário classificar as informações a serem rastreadas em quatro níveis:
+
+* Ambiental - Informações oriundas do contexto no qual está inserida.
+* Organizacional - Informações pertencentes à organização.
+* Gerencial - Informações que ajudam a gerência do projeto.
+* Desenvolvimento - Informações relacionadas a diversos artefatos ao longo do processo de desenvolvimento.
+
+> Além disso, também é necessário criar elos da rastrabilidade, sendo classificados em seis tipos:
+
+* Satisfação - Classe origem tem dependência de satisfação com a destino.
+* Recurso - Classe origem tem dependência de recurso com a destino.
+* Responsabilidade - Registra a participação, responsabilidade e ação de pessoas sobre artefatos.
+* Representação - Representação ou modelagem dos requisitos em outras linguagens.
+* Alocado - Classe origem está relacionado à classe destino, que representa um subsistema.
+* Agregação - Indica "composição" de elementos.
+
+---
+
 <center>
 
 # Requisitos Funcionais
