@@ -4,13 +4,13 @@
 
 </center>
 
-> A Matriz Backward From tem por objetivo rastrear as origens de cada requisito, mantendo uma boa pós-rastreabilidade.
+> A Matriz de pré-rastreabilidade backward-from tem por objetivo rastrear as origens no universo de informação de cada requisito.
 
 ---
 
 ## Metodologia
 
-> Nesse documento foi utilizado uma matriz de rastreabilidade na qual linka o requisito com a elicitação que foi feita.
+> Nesse documento foi utilizada uma matriz de rastreabilidade backward from na qual são conectados os requisitos com as suas respectivas elicitações.
 
 ---
 
@@ -52,6 +52,12 @@
 | RF026 | Permitir visualização de detalhes sobre conexões de redes telefônicas e internet dos imóveis. | [Persona 5](/Modulo-1/elicitacao/personas.md)     | Não          |
 | RF027 | Busca de imóveis baseados em um referencial.                                                  | [Persona 6](/Modulo-1/elicitacao/personas.md)     | Não          |
 | RF028 | Ver histórico de inquilinos.                                                                  | [Persona 7](/Modulo-1/elicitacao/personas.md)     | Não          |
+
+<center>
+
+Fonte: [André Silva](https://github.com/Hunter104), [João Antonio G.](https://github.com/joaoseisei), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei), 2024
+
+</center>
 
 </div>
 
@@ -97,22 +103,11 @@
 | RNF25 | Ser apresentado de maneira simples e interativa.                                                      | [INT03](Modulo-1/elicitacao/furps.md)                                         | Sim          |
 | RNF26 | A comunicação será feita através de chats dentro do aplicativo e notificações.                        | [INT04](Modulo-1/elicitacao/furps.md)                                         | Sim          |
 
-</div>
-
----
-
 <center>
 
-# Backward-To
+Fonte: [André Silva](https://github.com/Hunter104), [João Antonio G.](https://github.com/joaoseisei), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei), 2024
 
 </center>
-
-<div style="margin: 0 auto; width: fit-content;">
-
-
-| ID  | Requisito | Sobre QA | Personas | Jornadas de Usuário | Análise de Protocolo | Observação | FURPS+ | Cenários | Casos de Uso | ES  | Ágil Backlog | Ágil US's | NFR | i*  |
-| --- | --------- | -------- | -------- | ------------------- | -------------------- | ---------- | ------ | -------- | ------------ | --- | ------------ | --------- | --- | --- |
-|     |           |          |          |                     |                      |            |        |          |              |     |              |           |     |     |
 
 </div>
 
