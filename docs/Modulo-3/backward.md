@@ -74,34 +74,36 @@ Fonte: [André Silva](https://github.com/Hunter104), [João Antonio G.](https://
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| ID    | Descrição                                                                                             | Origem                                                                        | Implementado |
-| ----- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ |
-| RNF01 | Minimizar Burocracia.                                                                                 | [RF25](/Modulo-1/elicitacao/observacao)                                       | Sim          |
-| RNF02 | Segurança contra fraudes financeiras.                                                                 | [RF25](/Modulo-1/elicitacao/observacao)                                       | Sim          |
-| RNF03 | Confiabilidade de transações.                                                                         | [RF25](/Modulo-1/elicitacao/observacao)                                       | Sim          |
-| RNF04 | Internacionalização.                                                                                  | [USAB02](Modulo-1/elicitacao/furps.md)                                        | Não          |
-| RNF05 | Baixo tempo de resposta.                                                                              | [USAB03](Modulo-1/elicitacao/furps.md)                                        | Sim          |
-| RNF06 | Interface padronizada.                                                                                | [USAB04](Modulo-1/elicitacao/furps.md), [DES01](Modulo-1/elicitacao/furps.md) | Sim          |
-| RNF07 | Interface minimalista.                                                                                | [USAB04](Modulo-1/elicitacao/furps.md), [DES01](Modulo-1/elicitacao/furps.md) | Parcialmente |
-| RNF08 | feedback visual e auditivo para interações.                                                           | [USAB05](Modulo-1/elicitacao/furps.md)                                        | Não          |
-| RNF09 | feedback não intrusivo para erros e falhas.                                                           | [USAB06](Modulo-1/elicitacao/furps.md)                                        | Inconclusivo |
-| RNF10 | Orientações para erros e falhas.                                                                      | [USAB06](Modulo-1/elicitacao/furps.md)                                        | Não          |
-| RNF11 | Somente o usuário terá acesso a suas informações pessoais e pagamento.                                | [CONF01](Modulo-1/elicitacao/furps.md)                                        | Sim          |
-| RNF12 | Deve seguir a Lei Geral de Proteção de Dados (LGPD).                                                  | [CONF03](Modulo-1/elicitacao/furps.md)                                        | Sim          |
-| RNF13 | O sistema deverá estar disponivel 24/7.                                                               | [CONF04](Modulo-1/elicitacao/furps.md)                                        | Sim          |
-| RNF14 | O sistema deve ser capaz de atender acessos simultâneos de diferentes usuários em diferentes áreas.   | [PER01](Modulo-1/elicitacao/furps.md)                                         | Sim          |
-| RNF15 | O aplicativo deve realizar autenticação no tempo médio de 10 segundos.                                | [PER02](Modulo-1/elicitacao/furps.md)                                         | Sim          |
-| RNF16 | Manter um tempo de resposta inferior a 2 segundos.                                                    | [PER03](Modulo-1/elicitacao/furps.md)                                         | Sim          |
-| RNF17 | Deve ser capaz de lidar com um aumento de 20% no tráfego.                                             | [PER04](Modulo-1/elicitacao/furps.md)                                         | Inconclusivo |
-| RNF18 | Disponibilidade para Android, IOS com a mesma interface e uma experiência de uso consistente.         | [SUP01](Modulo-1/elicitacao/furps.md), [DES01](Modulo-1/elicitacao/furps.md)  | Sim          |
-| RNF19 | Compatibilidade com diferentes dispositivos (smartphones e tablets) Android e iOS.                    | [SUP02](Modulo-1/elicitacao/furps.md)                                         | Sim          |
-| RNF20 | Compatibilidade com padrões de segurança, como o ISO 27001.                                           | [SUP03](Modulo-1/elicitacao/furps.md)                                         | Sim          |
-| RNF21 | Plano de backup de recuperação.                                                                       | [SUP04](Modulo-1/elicitacao/furps.md)                                         | Sim          |
-| RNF22 | Testes periódicos.                                                                                    | [SUP05](Modulo-1/elicitacao/furps.md)                                         | Inconclusivo |
-| RNF23 | Ter interface gráfica para ser usada pelo usuário final.                                              | [INT01](Modulo-1/elicitacao/furps.md)                                         | Sim          |
-| RNF24 | Possibilitar a comunicação entre as estações de trabalho e o servidor, inclusive o acesso à internet. | [INT02](Modulo-1/elicitacao/furps.md)                                         | Inconclusivo |
-| RNF25 | Ser apresentado de maneira simples e interativa.                                                      | [INT03](Modulo-1/elicitacao/furps.md)                                         | Sim          |
-| RNF26 | A comunicação será feita através de chats dentro do aplicativo e notificações.                        | [INT04](Modulo-1/elicitacao/furps.md)                                         | Sim          |
+| ID    | Descrição                                                                                             | Origem                                                                                           | Implementado |
+|-------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------|
+| RNF01 | Minimizar Burocracia.                                                                                 | [RF25](/Modulo-1/elicitacao/observacao)                                                          | Sim          |
+| RNF02 | Segurança contra fraudes financeiras.                                                                 | [RF25](/Modulo-1/elicitacao/observacao)                                                          | Sim          |
+| RNF03 | Confiabilidade de transações.                                                                         | [RF25](/Modulo-1/elicitacao/observacao)                                                          | Sim          |
+| RNF04 | Internacionalização.                                                                                  | [USAB02](Modulo-1/elicitacao/furps.md)                                                           | Não          |
+| RNF05 | Baixo tempo de resposta.                                                                              | [USAB03](Modulo-1/elicitacao/furps.md)                                                           | Sim          |
+| RNF06 | Interface padronizada.                                                                                | [USAB04](Modulo-1/elicitacao/furps.md), [DES01](Modulo-1/elicitacao/furps.md)                    | Sim          |
+| RNF07 | Interface minimalista.                                                                                | [USAB04](Modulo-1/elicitacao/furps.md), [DES01](Modulo-1/elicitacao/furps.md)                    | Parcialmente |
+| RNF08 | feedback visual e auditivo para interações.                                                           | [USAB05](Modulo-1/elicitacao/furps.md)                                                           | Não          |
+| RNF09 | feedback não intrusivo para erros e falhas.                                                           | [USAB06](Modulo-1/elicitacao/furps.md)                                                           | Inconclusivo |
+| RNF10 | Orientações para erros e falhas.                                                                      | [USAB06](Modulo-1/elicitacao/furps.md)                                                           | Não          |
+| RNF11 | Somente o usuário terá acesso a suas informações pessoais e pagamento.                                | [CONF01](Modulo-1/elicitacao/furps.md)                                                           | Sim          |
+| RNF12 | Deve seguir a Lei Geral de Proteção de Dados (LGPD).                                                  | [CONF03](Modulo-1/elicitacao/furps.md)                                                           | Sim          |
+| RNF13 | O sistema deverá estar disponivel 24/7.                                                               | [CONF04](Modulo-1/elicitacao/furps.md)                                                           | Sim          |
+| RNF14 | O sistema deve ser capaz de atender acessos simultâneos de diferentes usuários em diferentes áreas.   | [PER01](Modulo-1/elicitacao/furps.md)                                                            | Sim          |
+| RNF15 | O aplicativo deve realizar autenticação no tempo médio de 10 segundos.                                | [PER02](Modulo-1/elicitacao/furps.md)                                                            | Sim          |
+| RNF16 | Manter um tempo de resposta inferior a 2 segundos.                                                    | [PER03](Modulo-1/elicitacao/furps.md)                                                            | Sim          |
+| RNF17 | Deve ser capaz de lidar com um aumento de 20% no tráfego.                                             | [PER04](Modulo-1/elicitacao/furps.md)                                                            | Inconclusivo |
+| RNF18 | Disponibilidade para Android, IOS com a mesma interface e uma experiência de uso consistente.         | [SUP01](Modulo-1/elicitacao/furps.md), [DES01](Modulo-1/elicitacao/furps.md)                     | Sim          |
+| RNF19 | Compatibilidade com diferentes dispositivos (smartphones e tablets) Android e iOS.                    | [SUP02](Modulo-1/elicitacao/furps.md)                                                            | Sim          |
+| RNF20 | Compatibilidade com padrões de segurança, como o ISO 27001.                                           | [SUP03](Modulo-1/elicitacao/furps.md)                                                            | Sim          |
+| RNF21 | Plano de backup de recuperação.                                                                       | [SUP04](Modulo-1/elicitacao/furps.md)                                                            | Sim          |
+| RNF22 | Testes periódicos.                                                                                    | [SUP05](Modulo-1/elicitacao/furps.md)                                                            | Inconclusivo |
+| RNF23 | Ter interface gráfica para ser usada pelo usuário final.                                              | [INT01](Modulo-1/elicitacao/furps.md)                                                            | Sim          |
+| RNF24 | Possibilitar a comunicação entre as estações de trabalho e o servidor, inclusive o acesso à internet. | [INT02](Modulo-1/elicitacao/furps.md)                                                            | Inconclusivo |
+| RNF25 | Ser apresentado de maneira simples e interativa.                                                      | [INT03](Modulo-1/elicitacao/furps.md)                                                            | Sim          |
+| RNF26 | A comunicação será feita através de chats dentro do aplicativo e notificações.                        | [INT04](Modulo-1/elicitacao/furps.md)                                                            | Sim          |
+| RNF27 | Sistema de ajuda e documentação.                                                                      | [8 - Sistema de ajuda e documentação](Modulo-2/es.md#documento-de-especificação-suplementar-pdf) | Sim          |
+
 
 <center>
 

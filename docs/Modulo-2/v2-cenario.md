@@ -29,6 +29,10 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) seleciona a opção "[Buscar Imóveis](Modulo-2/lexico.md#L9-buscar-imóveis)".
 - O [usuário](Modulo-2/lexico.md#L53-usuário) vê a lista de imóveis disponíveis.
 
+**Rastreabilidade:**
+- [RF001](/Modulo-3/backward.md)
+
+
 ---
 <center>
 
@@ -50,6 +54,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a lista de imóveis.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) aplica o [filtro](Modulo-2/lexico.md#L24-filtro) de preço.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) vê a lista de imóveis filtrada pelo preço desejado.
+
+**Rastreabilidade:**
+- [RF002](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -74,6 +81,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) seleciona a data e hora.
 - O [corretor](Modulo-2/lexico.md#L16-corretor) confirma a [visita](Modulo-2/lexico.md#L51-visita).
 
+**Rastreabilidade:**
+- [RF007](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -95,6 +105,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a página de um [imóvel](Modulo-2/lexico.md#L27-imóvel).
 - O [usuário](Modulo-2/lexico.md#L53-usuário) clica em "Favoritar".
 - O [imóvel](Modulo-2/lexico.md#L27-imóvel) é salvo na lista de [favoritos](Modulo-2/lexico.md#L22-favoritos) do [usuário](Modulo-2/lexico.md#L53-usuário).
+
+**Rastreabilidade:**
+- [RF006](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -119,6 +132,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) preenche os detalhes da oferta.
 - A [proposta](Modulo-2/lexico.md#L41-proposta) é enviada ao [proprietário](Modulo-2/lexico.md#L39-proprietário).
 
+**Rastreabilidade:**
+- [RF008](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -140,6 +156,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a seção de pagamentos.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) seleciona o mês do [aluguel](Modulo-2/lexico.md#L6-aluguel).
 - O [usuário](Modulo-2/lexico.md#L53-usuário) realiza o pagamento.
+
+**Rastreabilidade:**
+- [RF014](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -163,6 +182,9 @@
 - O [proprietário](Modulo-2/lexico.md#L39-proprietário) preenche os detalhes do [imóvel](Modulo-2/lexico.md#L27-imóvel).
 - O [imóvel](Modulo-2/lexico.md#L27-imóvel) é cadastrado na plataforma.
 
+**Rastreabilidade:**
+- [RF015](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -183,6 +205,9 @@
 **Episódios:**
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a seção de histórico de pagamentos.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) vê a lista de pagamentos realizados.
+
+**Rastreabilidade:**
+- -
 
 ---
 <center>
@@ -206,6 +231,10 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) edita as informações desejadas.
 - O perfil é atualizado.
 
+**Rastreabilidade:**
+- [RF023](/Modulo-3/backward.md)
+- [RF024](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -227,6 +256,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a lista de imóveis.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) aplica o [filtro](Modulo-2/lexico.md#L24-filtro) de localização.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) vê a lista de imóveis na localização desejada.
+
+**Rastreabilidade:**
+- [RF002](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -250,6 +282,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) seleciona o contrato desejado.
 - O contrato é exibido.
 
+**Rastreabilidade:**
+- -
+
 ---
 <center>
 
@@ -272,6 +307,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) preenche os detalhes da solicitação.
 - A solicitação é enviada ao [proprietário](Modulo-2/lexico.md#L39-proprietário).
 
+**Rastreabilidade:**
+- -
+
 ---
 <center>
 
@@ -292,6 +330,9 @@
 **Episódios:**
 - O [usuário](Modulo-2/lexico.md#L53-usuário) configura [alerta](Modulo-2/lexico.md#L4-alerta)s para novos imóveis.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) recebe notificações conforme novos imóveis são adicionados.
+
+**Rastreabilidade:**
+- [RF005](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -315,6 +356,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) faz o upload dos documentos necessários.
 - Os documentos são enviados para análise.
 
+**Rastreabilidade:**
+- -
+
 ---
 <center>
 
@@ -336,6 +380,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a seção de [proposta](Modulo-2/lexico.md#L41-proposta)s.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) seleciona a [proposta](Modulo-2/lexico.md#L41-proposta) a ser cancelada.
 - A [proposta](Modulo-2/lexico.md#L41-proposta) é cancelada.
+
+**Rastreabilidade:**
+- [RF008](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -359,6 +406,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) clica para ver fotos.
 - As fotos são exibidas.
 
+**Rastreabilidade:**
+- [RF004](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -381,6 +431,9 @@
 - O [corretor](Modulo-2/lexico.md#L16-corretor) confirma o agendamento.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) recebe a confirmação no aplicativo.
 
+**Rastreabilidade:**
+- [RNF08](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -402,6 +455,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a seção de avaliações.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) seleciona o [corretor](Modulo-2/lexico.md#L16-corretor).
 - O [usuário](Modulo-2/lexico.md#L53-usuário) preenche a avaliação e envia.
+
+**Rastreabilidade:**
+- -
 
 ---
 <center>
@@ -426,6 +482,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) escolhe um novo horário.
 - O [corretor](Modulo-2/lexico.md#L16-corretor) confirma o novo horário.
 
+**Rastreabilidade:**
+- [RF016](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -448,6 +507,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) clica em "Verificar Disponibilidade".
 - O status de disponibilidade é exibido.
 
+**Rastreabilidade:**
+- [RF003](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -469,6 +531,10 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a barra de busca.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) digita as palavras-chave desejadas.
 - O aplicativo retorna os imóveis correspondentes.
+
+**Rastreabilidade:**
+- [RF002](/Modulo-3/backward.md)
+- [RF001](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -493,6 +559,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) escolhe a plataforma de compartilhamento.
 - O [imóvel](Modulo-2/lexico.md#L27-imóvel) é compartilhado.
 
+**Rastreabilidade:**
+- [RF013](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -516,6 +585,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) preenche as informações do método de pagamento.
 - O método de pagamento é cadastrado.
 
+**Rastreabilidade:**
+- [RF014](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -536,6 +608,9 @@
 **Episódios:**
 - O [usuário](Modulo-2/lexico.md#L53-usuário) configura [alerta](Modulo-2/lexico.md#L4-alerta)s para pagamentos.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) recebe notificações conforme os vencimentos se aproximam.
+
+**Rastreabilidade:**
+- [RF022](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -559,6 +634,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) solicita a segunda via do boleto.
 - O boleto é gerado e disponibilizado para o [usuário](Modulo-2/lexico.md#L53-usuário).
 
+**Rastreabilidade:**
+- -
+
 ---
 <center>
 
@@ -580,6 +658,11 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a seção de suporte.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) escolhe o método de [conta](Modulo-2/lexico.md#L13-conta)to (chat, e-mail, telefone).
 - O [usuário](Modulo-2/lexico.md#L53-usuário) entra em [conta](Modulo-2/lexico.md#L13-conta)to com o suporte.
+
+**Rastreabilidade:**
+- [RNF27](Modulo-3/backward.md)
+
+# TODO AAAAAAAAAA
 
 ---
 <center>
@@ -603,6 +686,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) edita o endereço de cobrança.
 - O endereço é atualizado no sistema.
 
+**Rastreabilidade:**
+- [RF023](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -624,6 +710,9 @@
 - O [proprietário](Modulo-2/lexico.md#L39-proprietário) acessa a seção de [proposta](Modulo-2/lexico.md#L41-proposta)s.
 - O [proprietário](Modulo-2/lexico.md#L39-proprietário) vê as [proposta](Modulo-2/lexico.md#L41-proposta)s recebidas.
 - O [proprietário](Modulo-2/lexico.md#L39-proprietário) aceita ou rejeita as [proposta](Modulo-2/lexico.md#L41-proposta)s.
+
+**Rastreabilidade:**
+- [RF008](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -647,6 +736,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) ajusta as preferências de notificação.
 - As preferências são salvas.
 
+**Rastreabilidade:**
+- [RF022](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -668,6 +760,9 @@
 - O [proprietário](Modulo-2/lexico.md#L39-proprietário) acessa a seção de [proposta](Modulo-2/lexico.md#L41-proposta)s.
 - O [proprietário](Modulo-2/lexico.md#L39-proprietário) clica em uma [proposta](Modulo-2/lexico.md#L41-proposta) específica.
 - O status atual da [proposta](Modulo-2/lexico.md#L41-proposta) é exibido.
+
+**Rastreabilidade:**
+- [RNF08](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -691,6 +786,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) preenche o formulário de feedback.
 - O feedback é enviado para a equipe de desenvolvimento.
 
+**Rastreabilidade:**
+- [RNF09](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -712,6 +810,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a página do [imóvel](Modulo-2/lexico.md#L27-imóvel).
 - O [usuário](Modulo-2/lexico.md#L53-usuário) clica em "[Solicitar](Modulo-2/lexico.md#L46-solicitar) Informações".
 - O [corretor](Modulo-2/lexico.md#L16-corretor) envia as informações adicionais solicitadas.
+
+**Rastreabilidade:**
+- [RF003](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -735,6 +836,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) clica na seção de segurança.
 - As informações sobre a segurança da área são exibidas.
 
+**Rastreabilidade:**
+- [RF003](/Modulo-3/backward.md)
+
 ---
 <center>
 
@@ -756,6 +860,9 @@
 - O [usuário](Modulo-2/lexico.md#L53-usuário) acessa a seção de avaliações.
 - O [usuário](Modulo-2/lexico.md#L53-usuário) escreve a avaliação do [imóvel](Modulo-2/lexico.md#L27-imóvel).
 - A avaliação é publicada no aplicativo.
+
+**Rastreabilidade:**
+- [RF003](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -779,6 +886,8 @@
 - O [proprietário](Modulo-2/lexico.md#L39-proprietário) faz o upload das novas fotos.
 - As novas fotos são exibidas no anúncio.
 
+**Rastreabilidade:**
+- [RF016](/Modulo-3/backward.md)
 
 ---
 <center>
@@ -789,10 +898,11 @@
 
 <div style="margin: 0 auto; width: fit-content;">
 
-|    Data    | Versão |       Descrição       | Autores                                          |
-|:----------:|:------:|:---------------------:|--------------------------------------------------|
-| 07/08/2024 | `1.0`  |               Criação do documento.              | [João Antonio G.](https://github.com/joaoseisei) |
-| 12/08/2024 | `1.1`  |               Adiciona cenários.                 | [Artur Bartz](https://github.com/H0lzz)          |
-| 03/09/2024 | `1.2`  |  Adiciona Recursos, Tempo, Local e Restrições.   | [Artur Bartz](https://github.com/H0lzz)          |
+|    Data    | Versão |                   Descrição                   | Autores                                          |
+|:----------:|:------:|:---------------------------------------------:|--------------------------------------------------|
+| 07/08/2024 | `1.0`  |             Criação do documento.             | [João Antonio G.](https://github.com/joaoseisei) |
+| 12/08/2024 | `1.1`  |              Adiciona cenários.               | [Artur Bartz](https://github.com/H0lzz)          |
+| 03/09/2024 | `1.2`  | Adiciona Recursos, Tempo, Local e Restrições. | [Artur Bartz](https://github.com/H0lzz)          |
+| 06/09/2024 | `1.3`  |           Adiciona rastrabilidade.            | [João Antonio G.](https://github.com/joaoseisei) |
 
 </div>
