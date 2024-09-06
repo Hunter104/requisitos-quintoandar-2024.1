@@ -41,7 +41,7 @@
 | US003   | X  | X  | X  | X  | X  |    |
 | US004   | X  | X  | X  | X  | X  |    |
 | US005   | X  | X  | X  | X  | X  |    |
-| US006   | X  | X  | X  | X  | X  |    |
+| US006   | X  | X  | X  |    | X  |    |
 | US007   | X  | X  | X  | X  | X  |    |
 | US008   | X  | X  | X  | X  | X  |    |
 | US009   | X  | X  | X  | X  | X  |    |
