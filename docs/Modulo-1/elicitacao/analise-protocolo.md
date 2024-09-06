@@ -87,7 +87,7 @@ Os requisitos elicitados aqui foram feitos durante a criação dos casos de uso,
 | AP21   | Deve permitir a adição de um e-mail alternativo | RF21 |
 | AP22   | Deve permitir o gerenciamento de quais notificações receber| RF22 |
 | AP23   | Deve permitir que o usuário altere sua conta adicionando um e-mail alternativo| RF23 |
-| AP23   | Deve permitir que o usuário altere o nome associado à sua conta | RF23 |
+| AP24   | Deve permitir que o usuário altere o nome associado à sua conta | RF23 |
 
 </div>
 
