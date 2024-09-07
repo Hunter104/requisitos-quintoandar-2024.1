@@ -18,6 +18,26 @@ Caso não consiga ver o vídeo, clique neste [link](https://youtu.be/aziU6zmd6IQ
 
 </center>
 
+<div style="margin: 0 auto; width: fit-content;">
+
+---
+
+| Entrega 1 (31/07/2024)                                                                                        |
+|---------------------------------------------------------------------------------------------------------------|
+| [BrainStorm](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/pre-rastreabilidade/mapa-mental)                                                                                               |
+| [Rich Pictures](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/pre-rastreabilidade/rich-pictures)                                                                                            |
+| [Argumentações](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/pre-rastreabilidade/argumentacao)                                                                                            |
+| [É Não É Faz Não Faz](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/pre-rastreabilidade/faznfaz)                                                                                      |
+| [Matriz SWOT](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/pre-rastreabilidade/swot)                                                                                               |
+| [Estudos das páginas](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/pre-rastreabilidade/sobre)                                                                                       |
+| [Personas](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/elicitacao/personas)                                                                                                  |
+| [Jornada de Usuários](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/elicitacao/jornada-usuario)                                                                                       |
+| [Análise de Protocolo](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/elicitacao/analise-protocolo)                                                                                      |
+| [Priorização - MoSCoW](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/elicitacao/priorizacao)                                                                                      |
+| [Apresentação do módulo 1](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/apresentacao) |
+
+</div>
+
 ---
 
 <center>
