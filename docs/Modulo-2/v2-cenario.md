@@ -662,8 +662,6 @@
 **Rastreabilidade:**
 - [RNF27](Modulo-3/backward.md)
 
-# TODO AAAAAAAAAA
-
 ---
 <center>
 
