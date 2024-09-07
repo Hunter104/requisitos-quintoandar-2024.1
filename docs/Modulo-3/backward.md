@@ -55,7 +55,7 @@
 
 <center>
 
-Fonte: [André Silva](https://github.com/Hunter104), [João Antonio G.](https://github.com/joaoseisei), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei), 2024
+Fonte: [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei), 2024
 
 </center>
 
@@ -107,7 +107,7 @@ Fonte: [André Silva](https://github.com/Hunter104), [João Antonio G.](https://
 
 <center>
 
-Fonte: [André Silva](https://github.com/Hunter104), [João Antonio G.](https://github.com/joaoseisei), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei), 2024
+Fonte: [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei), 2024
 
 </center>
 

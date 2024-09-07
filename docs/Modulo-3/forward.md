@@ -49,6 +49,12 @@
 
 </div>
 
+<center>
+
+Fonte: [André Silva](https://github.com/Hunter104), [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei), 2024
+
+</center>
+
 ---
 
 <center>
@@ -92,6 +98,12 @@
 | RNF27 | Sistema de ajuda e documentação.                                                                      | [C26]()     |
 
 </div>
+
+<center>
+
+Fonte: [André Silva](https://github.com/Hunter104), [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [João Antonio G.](https://github.com/joaoseisei), 2024
+
+</center>
 
 ---
 
