@@ -20,6 +20,25 @@ Caso não consiga ver o vídeo, clique neste [link](https://youtu.be/Hsuc1wqM0jo
 
 ---
 
+<div style="margin: 0 auto; width: fit-content;">
+
+| Entrega 2 (21/08/2024)                                                                                    |
+|-----------------------------------------------------------------------------------------------------------|
+| [Observação](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/elicitacao/observacao)  |
+| [FURPS+](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-1/elicitacao/furps)           |
+| [Léxicos](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-2/lexico)                    |
+| [Cenários](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-2/cenario)                  |
+| [Casos de Uso](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-2/casos-uso)            |
+| [Especificação Suplementar](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-2/es)                                                                             |
+| [Histórias de usuário](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-2/agil-historias-de-usuario)                                                                              |
+| [Backlog](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-2/agil-backlog)                                                                                              |
+| [NFR Framework](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-2/nfr-framework)                                                                                       |
+| [Apresentação do módulo 2](https://hunter104.github.io/requisitos-quintoandar-2024.1/#/Modulo-2/apresentacao) |
+
+</div>
+
+---
+
 <center>
 
 # Histórico de versão
