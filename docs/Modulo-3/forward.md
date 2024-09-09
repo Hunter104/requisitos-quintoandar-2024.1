@@ -4,7 +4,7 @@
 
 </center>
 
-> Este artefato tem por finalidade apresentar onde os requisitos estão implementados.
+> A rastreabilidade forward-from liga os requisitos aos artefatos de desenho e implementação, permitindo acompanhar cada requisito ao longo do ciclo de vida do software.
 
 ---
 
