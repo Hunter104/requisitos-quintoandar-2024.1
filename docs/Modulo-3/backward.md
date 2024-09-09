@@ -69,16 +69,17 @@ Fonte: [André Silva](https://github.com/Hunter104), [Eduardo Sandes](https://gi
 
 </center>
 
-- A lista de requisitos não funcionais foi trazida do [FURPS+](/docs/Modulo-1/elicitacao/furps.md) e da [Especificação Suplementar](/docs/Modulo-2/es.md).
-- A verificação de implementação foi feita através da [NFR framework](/docs/Modulo-2/nfr-framework.md).
+[//]: # (- A lista de requisitos não funcionais foi trazida do [FURPS+]&#40;/docs/Modulo-1/elicitacao/furps.md&#41; e da [Especificação Suplementar]&#40;/docs/Modulo-2/es.md&#41;.)
+
+[//]: # (- A verificação de implementação foi feita através da [NFR framework]&#40;/docs/Modulo-2/nfr-framework.md&#41;.)
 
 <div style="margin: 0 auto; width: fit-content;">
 
 | ID    | Descrição                                                                                             | Origem                                                                                           | Implementado |
 |-------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------|
-| RNF01 | Minimizar Burocracia.                                                                                 | [RF25](/Modulo-1/elicitacao/observacao)                                                          | Sim          |
-| RNF02 | Segurança contra fraudes financeiras.                                                                 | [RF25](/Modulo-1/elicitacao/observacao)                                                          | Sim          |
-| RNF03 | Confiabilidade de transações.                                                                         | [RF25](/Modulo-1/elicitacao/observacao)                                                          | Sim          |
+| RNF01 | Minimizar Burocracia.                                                                                 | [RNF001](/Modulo-1/elicitacao/observacao)                                                        | Sim          |
+| RNF02 | Segurança contra fraudes financeiras.                                                                 | [RNF002](/Modulo-1/elicitacao/observacao)                                                        | Sim          |
+| RNF03 | Confiabilidade de transações.                                                                         | [RNF003](/Modulo-1/elicitacao/observacao)                                                        | Sim          |
 | RNF04 | Internacionalização.                                                                                  | [USAB02](Modulo-1/elicitacao/furps.md)                                                           | Não          |
 | RNF05 | Baixo tempo de resposta.                                                                              | [USAB03](Modulo-1/elicitacao/furps.md)                                                           | Sim          |
 | RNF06 | Interface padronizada.                                                                                | [USAB04](Modulo-1/elicitacao/furps.md), [DES01](Modulo-1/elicitacao/furps.md)                    | Sim          |
